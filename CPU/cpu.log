@@ -1,0 +1,5242 @@
+[INFO] 21:11:20:495 cpu/(7682:7682): Conectado!
+[INFO] 21:53:26:351 cpu/(8709:8709): Conectado!
+[INFO] 22:10:31:478 cpu/(9328:9328): Conectado!
+[INFO] 22:12:13:486 cpu/(9443:9443): Conectado!
+[INFO] 22:35:11:660 cpu/(9980:9980): Conectado!
+[INFO] 17:04:20:484 cpu/(8509:8509): Conectado!
+[INFO] 17:36:44:504 cpu/(10933:10933): Conectado!
+[INFO] 17:36:56:469 cpu/(10933:10933): Conectado!
+[INFO] 17:36:56:469 cpu/(10933:10933): mensaje recibido el encabezado
+
+[INFO] 17:36:56:469 cpu/(10933:10933): mensaje recibido payload recibido
+
+[INFO] 17:36:56:469 cpu/(10933:10933): el tamanio del path es: 5 + /0
+
+[INFO] 17:36:56:469 cpu/(10933:10933): id:1000
+
+[INFO] 17:36:56:469 cpu/(10933:10933): flag:0
+
+[INFO] 17:36:56:469 cpu/(10933:10933): estado:1
+
+[INFO] 17:36:56:469 cpu/(10933:10933): PC:0
+
+[INFO] 17:36:56:469 cpu/(10933:10933): Quantum:1
+
+[INFO] 17:36:56:469 cpu/(10933:10933): Path:perro
+
+[INFO] 17:37:05:407 cpu/(10933:10933): Se recibio un DTB
+[INFO] 17:37:07:721 cpu/(10933:10933): El DTB es el Dummy
+[INFO] 17:37:21:334 cpu/(10933:10933): el paquete pesa 30 bytes 
+
+[INFO] 17:37:21:335 cpu/(10933:10933): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:37:21:335 cpu/(10933:10933): Se envia el paquete
+
+[INFO] 17:37:21:335 cpu/(10933:10933): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:37:21:335 cpu/(10933:10933): Desalojando el DTB 1000
+[INFO] 17:37:21:335 cpu/(10933:10933): el paquete pesa 30 bytes 
+
+[INFO] 17:37:21:335 cpu/(10933:10933): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:37:21:336 cpu/(10933:10933): Se envia el paquete
+
+[INFO] 17:37:21:336 cpu/(10933:10933): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:37:21:337 cpu/(10933:10933): mensaje recibido el encabezado
+
+[INFO] 17:37:21:337 cpu/(10933:10933): mensaje recibido payload recibido
+
+[INFO] 17:37:21:337 cpu/(10933:10933): el tamanio del path es: 5 + /0
+
+[INFO] 17:37:21:337 cpu/(10933:10933): id:1000
+
+[INFO] 17:37:21:338 cpu/(10933:10933): flag:1
+
+[INFO] 17:37:21:338 cpu/(10933:10933): estado:1
+
+[INFO] 17:37:21:338 cpu/(10933:10933): PC:0
+
+[INFO] 17:37:21:338 cpu/(10933:10933): Quantum:1
+
+[INFO] 17:37:21:338 cpu/(10933:10933): Path:perro
+
+[INFO] 17:37:23:803 cpu/(10933:10933): Se recibio un DTB
+[INFO] 17:37:30:339 cpu/(10933:10933): Ejecutando el DTB 1000
+[INFO] 17:39:06:339 cpu/(11037:11037): Conectado!
+[INFO] 17:39:22:76 cpu/(11037:11037): Conectado!
+[INFO] 17:39:22:76 cpu/(11037:11037): mensaje recibido el encabezado
+
+[INFO] 17:39:22:76 cpu/(11037:11037): mensaje recibido payload recibido
+
+[INFO] 17:39:22:76 cpu/(11037:11037): el tamanio del path es: 5 + /0
+
+[INFO] 17:39:22:76 cpu/(11037:11037): id:1000
+
+[INFO] 17:39:22:76 cpu/(11037:11037): flag:0
+
+[INFO] 17:39:22:76 cpu/(11037:11037): estado:1
+
+[INFO] 17:39:22:76 cpu/(11037:11037): PC:0
+
+[INFO] 17:39:22:76 cpu/(11037:11037): Quantum:1
+
+[INFO] 17:39:22:76 cpu/(11037:11037): Path:perro
+
+[INFO] 17:39:27:956 cpu/(11037:11037): Se recibio un DTB
+[INFO] 17:39:27:956 cpu/(11037:11037): El DTB es el Dummy
+[INFO] 17:39:27:956 cpu/(11037:11037): el paquete pesa 30 bytes 
+
+[INFO] 17:39:27:956 cpu/(11037:11037): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:39:27:956 cpu/(11037:11037): Se envia el paquete
+
+[INFO] 17:39:27:956 cpu/(11037:11037): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:39:27:956 cpu/(11037:11037): Desalojando el DTB 1000
+[INFO] 17:39:27:956 cpu/(11037:11037): el paquete pesa 30 bytes 
+
+[INFO] 17:39:27:956 cpu/(11037:11037): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:39:27:956 cpu/(11037:11037): Se envia el paquete
+
+[INFO] 17:39:27:956 cpu/(11037:11037): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:39:27:957 cpu/(11037:11037): mensaje recibido el encabezado
+
+[INFO] 17:39:27:957 cpu/(11037:11037): mensaje recibido payload recibido
+
+[INFO] 17:39:27:957 cpu/(11037:11037): el tamanio del path es: 5 + /0
+
+[INFO] 17:39:27:957 cpu/(11037:11037): id:1000
+
+[INFO] 17:39:27:957 cpu/(11037:11037): flag:1
+
+[INFO] 17:39:27:957 cpu/(11037:11037): estado:1
+
+[INFO] 17:39:27:957 cpu/(11037:11037): PC:0
+
+[INFO] 17:39:27:957 cpu/(11037:11037): Quantum:1
+
+[INFO] 17:39:27:957 cpu/(11037:11037): Path:perro
+
+[INFO] 17:39:38:476 cpu/(11037:11037): Se recibio un DTB
+[INFO] 17:39:38:476 cpu/(11037:11037): Ejecutando el DTB 1000
+[INFO] 17:41:47:831 cpu/(11179:11179): Conectado!
+[INFO] 17:41:47:831 cpu/(11179:11179): Conectado!
+[INFO] 17:41:51:276 cpu/(11179:11179): mensaje recibido el encabezado
+
+[INFO] 17:41:51:276 cpu/(11179:11179): mensaje recibido payload recibido
+
+[INFO] 17:41:51:276 cpu/(11179:11179): el tamanio del path es: 5 + /0
+
+[INFO] 17:41:51:276 cpu/(11179:11179): id:1000
+
+[INFO] 17:41:51:276 cpu/(11179:11179): flag:0
+
+[INFO] 17:41:51:276 cpu/(11179:11179): estado:1
+
+[INFO] 17:41:51:276 cpu/(11179:11179): PC:0
+
+[INFO] 17:41:51:276 cpu/(11179:11179): Quantum:1
+
+[INFO] 17:41:51:276 cpu/(11179:11179): Path:perro
+
+[INFO] 17:41:51:276 cpu/(11179:11179): Se recibio un DTB
+[INFO] 17:41:51:276 cpu/(11179:11179): El DTB es el Dummy
+[INFO] 17:41:51:276 cpu/(11179:11179): el paquete pesa 30 bytes 
+
+[INFO] 17:41:51:276 cpu/(11179:11179): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:41:51:276 cpu/(11179:11179): Se envia el paquete
+
+[INFO] 17:41:51:276 cpu/(11179:11179): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:41:51:277 cpu/(11179:11179): Desalojando el DTB 1000
+[INFO] 17:41:51:277 cpu/(11179:11179): el paquete pesa 30 bytes 
+
+[INFO] 17:41:51:277 cpu/(11179:11179): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:41:51:277 cpu/(11179:11179): Se envia el paquete
+
+[INFO] 17:41:51:277 cpu/(11179:11179): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:41:51:277 cpu/(11179:11179): mensaje recibido el encabezado
+
+[INFO] 17:41:51:316 cpu/(11179:11179): mensaje recibido payload recibido
+
+[INFO] 17:41:51:319 cpu/(11179:11179): el tamanio del path es: 5 + /0
+
+[INFO] 17:41:51:319 cpu/(11179:11179): id:1000
+
+[INFO] 17:41:51:319 cpu/(11179:11179): flag:1
+
+[INFO] 17:41:51:319 cpu/(11179:11179): estado:1
+
+[INFO] 17:41:51:319 cpu/(11179:11179): PC:0
+
+[INFO] 17:41:51:319 cpu/(11179:11179): Quantum:1
+
+[INFO] 17:41:51:319 cpu/(11179:11179): Path:perro
+
+[INFO] 17:41:51:319 cpu/(11179:11179): Se recibio un DTB
+[INFO] 17:41:51:319 cpu/(11179:11179): Ejecutando el DTB 1000
+[INFO] 17:51:39:640 cpu/(11811:11811): Conectado!
+[INFO] 17:51:39:640 cpu/(11811:11811): Conectado!
+[INFO] 17:51:43:980 cpu/(11811:11811): mensaje recibido el encabezado
+
+[INFO] 17:51:43:980 cpu/(11811:11811): mensaje recibido payload recibido
+
+[INFO] 17:51:43:980 cpu/(11811:11811): el tamanio del path es: 5 + /0
+
+[INFO] 17:51:43:980 cpu/(11811:11811): id:1000
+
+[INFO] 17:51:43:980 cpu/(11811:11811): flag:0
+
+[INFO] 17:51:43:981 cpu/(11811:11811): estado:1
+
+[INFO] 17:51:43:981 cpu/(11811:11811): PC:0
+
+[INFO] 17:51:43:981 cpu/(11811:11811): Quantum:1
+
+[INFO] 17:51:43:981 cpu/(11811:11811): Path:perro
+
+[INFO] 17:51:43:981 cpu/(11811:11811): Se recibio un DTB
+[INFO] 17:51:43:981 cpu/(11811:11811): El DTB es el Dummy
+[INFO] 17:51:43:981 cpu/(11811:11811): el paquete pesa 30 bytes 
+
+[INFO] 17:51:43:981 cpu/(11811:11811): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:51:43:981 cpu/(11811:11811): Se envia el paquete
+
+[INFO] 17:51:43:981 cpu/(11811:11811): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:51:43:981 cpu/(11811:11811): Desalojando el DTB 1000
+[INFO] 17:51:43:981 cpu/(11811:11811): el paquete pesa 30 bytes 
+
+[INFO] 17:51:43:981 cpu/(11811:11811): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:51:43:981 cpu/(11811:11811): Se envia el paquete
+
+[INFO] 17:51:43:982 cpu/(11811:11811): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:51:43:989 cpu/(11811:11811): mensaje recibido el encabezado
+
+[INFO] 17:51:44:25 cpu/(11811:11811): mensaje recibido payload recibido
+
+[INFO] 17:51:44:25 cpu/(11811:11811): el tamanio del path es: 5 + /0
+
+[INFO] 17:51:44:25 cpu/(11811:11811): id:1000
+
+[INFO] 17:51:44:25 cpu/(11811:11811): flag:1
+
+[INFO] 17:51:44:25 cpu/(11811:11811): estado:1
+
+[INFO] 17:51:44:25 cpu/(11811:11811): PC:0
+
+[INFO] 17:51:44:25 cpu/(11811:11811): Quantum:1
+
+[INFO] 17:51:44:25 cpu/(11811:11811): Path:perro
+
+[INFO] 17:51:44:25 cpu/(11811:11811): Se recibio un DTB
+[INFO] 17:51:44:25 cpu/(11811:11811): Ejecutando el DTB 1000
+[INFO] 18:00:43:619 cpu/(12543:12543): Conectado!
+[INFO] 18:00:43:620 cpu/(12543:12543): Conectado!
+[INFO] 18:00:47:911 cpu/(12543:12543): mensaje recibido el encabezado
+
+[INFO] 18:00:47:911 cpu/(12543:12543): mensaje recibido payload recibido
+
+[INFO] 18:00:47:911 cpu/(12543:12543): el tamanio del path es: 5 + /0
+
+[INFO] 18:00:47:911 cpu/(12543:12543): id:1000
+
+[INFO] 18:00:47:911 cpu/(12543:12543): flag:0
+
+[INFO] 18:00:47:911 cpu/(12543:12543): estado:1
+
+[INFO] 18:00:47:911 cpu/(12543:12543): PC:0
+
+[INFO] 18:00:47:911 cpu/(12543:12543): Quantum:1
+
+[INFO] 18:00:47:911 cpu/(12543:12543): Path:perro
+
+[INFO] 18:00:47:911 cpu/(12543:12543): Se recibio un DTB
+[INFO] 18:00:47:911 cpu/(12543:12543): El DTB es el Dummy
+[INFO] 18:00:47:911 cpu/(12543:12543): el paquete pesa 30 bytes 
+
+[INFO] 18:00:47:911 cpu/(12543:12543): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:00:47:911 cpu/(12543:12543): Se envia el paquete
+
+[INFO] 18:00:47:911 cpu/(12543:12543): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:00:47:912 cpu/(12543:12543): Desalojando el DTB 1000
+[INFO] 18:00:47:912 cpu/(12543:12543): el paquete pesa 30 bytes 
+
+[INFO] 18:00:47:912 cpu/(12543:12543): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:00:47:912 cpu/(12543:12543): Se envia el paquete
+
+[INFO] 18:00:47:912 cpu/(12543:12543): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:00:47:912 cpu/(12543:12543): mensaje recibido el encabezado
+
+[INFO] 18:00:47:950 cpu/(12543:12543): mensaje recibido payload recibido
+
+[INFO] 18:00:47:950 cpu/(12543:12543): el tamanio del path es: 5 + /0
+
+[INFO] 18:00:47:950 cpu/(12543:12543): id:1000
+
+[INFO] 18:00:47:950 cpu/(12543:12543): flag:1
+
+[INFO] 18:00:47:950 cpu/(12543:12543): estado:1
+
+[INFO] 18:00:47:950 cpu/(12543:12543): PC:0
+
+[INFO] 18:00:47:950 cpu/(12543:12543): Quantum:1
+
+[INFO] 18:00:47:950 cpu/(12543:12543): Path:perro
+
+[INFO] 18:00:47:950 cpu/(12543:12543): Se recibio un DTB
+[INFO] 18:00:47:950 cpu/(12543:12543): Ejecutando el DTB 1000
+[INFO] 18:01:20:110 cpu/(12543:12543): ERROR SINTACTICO
+[INFO] 18:03:06:397 cpu/(12773:12773): Conectado!
+[INFO] 18:03:06:398 cpu/(12773:12773): Conectado!
+[INFO] 18:03:10:483 cpu/(12773:12773): mensaje recibido el encabezado
+
+[INFO] 18:03:10:483 cpu/(12773:12773): mensaje recibido payload recibido
+
+[INFO] 18:03:10:483 cpu/(12773:12773): el tamanio del path es: 5 + /0
+
+[INFO] 18:03:10:483 cpu/(12773:12773): id:1000
+
+[INFO] 18:03:10:483 cpu/(12773:12773): flag:0
+
+[INFO] 18:03:10:483 cpu/(12773:12773): estado:1
+
+[INFO] 18:03:10:483 cpu/(12773:12773): PC:0
+
+[INFO] 18:03:10:483 cpu/(12773:12773): Quantum:1
+
+[INFO] 18:03:10:483 cpu/(12773:12773): Path:perro
+
+[INFO] 18:03:10:483 cpu/(12773:12773): Se recibio un DTB
+[INFO] 18:03:10:483 cpu/(12773:12773): El DTB es el Dummy
+[INFO] 18:03:10:484 cpu/(12773:12773): el paquete pesa 30 bytes 
+
+[INFO] 18:03:10:484 cpu/(12773:12773): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:03:10:484 cpu/(12773:12773): Se envia el paquete
+
+[INFO] 18:03:10:484 cpu/(12773:12773): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:03:10:484 cpu/(12773:12773): Desalojando el DTB 1000
+[INFO] 18:03:10:484 cpu/(12773:12773): el paquete pesa 30 bytes 
+
+[INFO] 18:03:10:484 cpu/(12773:12773): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:03:10:484 cpu/(12773:12773): Se envia el paquete
+
+[INFO] 18:03:10:484 cpu/(12773:12773): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:03:10:485 cpu/(12773:12773): mensaje recibido el encabezado
+
+[INFO] 18:03:10:524 cpu/(12773:12773): mensaje recibido payload recibido
+
+[INFO] 18:03:10:524 cpu/(12773:12773): el tamanio del path es: 5 + /0
+
+[INFO] 18:03:10:524 cpu/(12773:12773): id:1000
+
+[INFO] 18:03:10:524 cpu/(12773:12773): flag:1
+
+[INFO] 18:03:10:524 cpu/(12773:12773): estado:1
+
+[INFO] 18:03:10:524 cpu/(12773:12773): PC:0
+
+[INFO] 18:03:10:524 cpu/(12773:12773): Quantum:1
+
+[INFO] 18:03:10:524 cpu/(12773:12773): Path:perro
+
+[INFO] 18:03:10:524 cpu/(12773:12773): Se recibio un DTB
+[INFO] 18:03:10:524 cpu/(12773:12773): Ejecutando el DTB 1000
+[INFO] 18:05:20:524 cpu/(13230:13230): Conectado!
+[INFO] 18:05:20:524 cpu/(13230:13230): Conectado!
+[INFO] 18:05:24:671 cpu/(13230:13230): mensaje recibido el encabezado
+
+[INFO] 18:05:24:671 cpu/(13230:13230): mensaje recibido payload recibido
+
+[INFO] 18:05:24:671 cpu/(13230:13230): el tamanio del path es: 5 + /0
+
+[INFO] 18:05:24:671 cpu/(13230:13230): id:1000
+
+[INFO] 18:05:24:671 cpu/(13230:13230): flag:0
+
+[INFO] 18:05:24:671 cpu/(13230:13230): estado:1
+
+[INFO] 18:05:24:671 cpu/(13230:13230): PC:0
+
+[INFO] 18:05:24:671 cpu/(13230:13230): Quantum:1
+
+[INFO] 18:05:24:671 cpu/(13230:13230): Path:perro
+
+[INFO] 18:05:24:671 cpu/(13230:13230): Se recibio un DTB
+[INFO] 18:05:24:671 cpu/(13230:13230): El DTB es el Dummy
+[INFO] 18:05:24:671 cpu/(13230:13230): el paquete pesa 30 bytes 
+
+[INFO] 18:05:24:671 cpu/(13230:13230): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:05:24:671 cpu/(13230:13230): Se envia el paquete
+
+[INFO] 18:05:24:671 cpu/(13230:13230): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:05:24:672 cpu/(13230:13230): Desalojando el DTB 1000
+[INFO] 18:05:24:672 cpu/(13230:13230): el paquete pesa 30 bytes 
+
+[INFO] 18:05:24:672 cpu/(13230:13230): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:05:24:672 cpu/(13230:13230): Se envia el paquete
+
+[INFO] 18:05:24:672 cpu/(13230:13230): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:05:24:672 cpu/(13230:13230): mensaje recibido el encabezado
+
+[INFO] 18:05:24:711 cpu/(13230:13230): mensaje recibido payload recibido
+
+[INFO] 18:05:24:711 cpu/(13230:13230): el tamanio del path es: 5 + /0
+
+[INFO] 18:05:24:711 cpu/(13230:13230): id:1000
+
+[INFO] 18:05:24:711 cpu/(13230:13230): flag:1
+
+[INFO] 18:05:24:711 cpu/(13230:13230): estado:1
+
+[INFO] 18:05:24:711 cpu/(13230:13230): PC:0
+
+[INFO] 18:05:24:711 cpu/(13230:13230): Quantum:1
+
+[INFO] 18:05:24:711 cpu/(13230:13230): Path:perro
+
+[INFO] 18:05:24:711 cpu/(13230:13230): Se recibio un DTB
+[INFO] 18:05:24:711 cpu/(13230:13230): Ejecutando el DTB 1000
+[INFO] 18:07:18:496 cpu/(13423:13423): Conectado!
+[INFO] 18:07:18:497 cpu/(13423:13423): Conectado!
+[INFO] 18:07:22:428 cpu/(13423:13423): mensaje recibido el encabezado
+
+[INFO] 18:07:22:428 cpu/(13423:13423): mensaje recibido payload recibido
+
+[INFO] 18:07:22:428 cpu/(13423:13423): el tamanio del path es: 5 + /0
+
+[INFO] 18:07:22:428 cpu/(13423:13423): id:1000
+
+[INFO] 18:07:22:428 cpu/(13423:13423): flag:0
+
+[INFO] 18:07:22:428 cpu/(13423:13423): estado:1
+
+[INFO] 18:07:22:428 cpu/(13423:13423): PC:0
+
+[INFO] 18:07:22:428 cpu/(13423:13423): Quantum:1
+
+[INFO] 18:07:22:428 cpu/(13423:13423): Path:perro
+
+[INFO] 18:07:22:428 cpu/(13423:13423): Se recibio un DTB
+[INFO] 18:07:22:429 cpu/(13423:13423): El DTB es el Dummy
+[INFO] 18:07:22:429 cpu/(13423:13423): el paquete pesa 30 bytes 
+
+[INFO] 18:07:22:429 cpu/(13423:13423): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:07:22:429 cpu/(13423:13423): Se envia el paquete
+
+[INFO] 18:07:22:429 cpu/(13423:13423): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:07:22:429 cpu/(13423:13423): Desalojando el DTB 1000
+[INFO] 18:07:22:429 cpu/(13423:13423): el paquete pesa 30 bytes 
+
+[INFO] 18:07:22:429 cpu/(13423:13423): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:07:22:429 cpu/(13423:13423): Se envia el paquete
+
+[INFO] 18:07:22:429 cpu/(13423:13423): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:07:22:430 cpu/(13423:13423): mensaje recibido el encabezado
+
+[INFO] 18:07:22:467 cpu/(13423:13423): mensaje recibido payload recibido
+
+[INFO] 18:07:22:467 cpu/(13423:13423): el tamanio del path es: 5 + /0
+
+[INFO] 18:07:22:467 cpu/(13423:13423): id:1000
+
+[INFO] 18:07:22:467 cpu/(13423:13423): flag:1
+
+[INFO] 18:07:22:467 cpu/(13423:13423): estado:1
+
+[INFO] 18:07:22:467 cpu/(13423:13423): PC:0
+
+[INFO] 18:07:22:467 cpu/(13423:13423): Quantum:1
+
+[INFO] 18:07:22:467 cpu/(13423:13423): Path:perro
+
+[INFO] 18:07:22:467 cpu/(13423:13423): Se recibio un DTB
+[INFO] 18:07:22:467 cpu/(13423:13423): Ejecutando el DTB 1000
+[INFO] 18:08:06:349 cpu/(13423:13423): el paquete pesa 10 bytes 
+
+[INFO] 18:08:41:114 cpu/(13423:13423): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:08:51:366 cpu/(13423:13423): Se envia el paquete
+
+[INFO] 18:08:56:862 cpu/(13423:13423): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:09:40:129 cpu/(13423:13423): Desalojando el DTB 1000
+[INFO] 21:03:33:373 cpu/(22649:22649): Conectado!
+[INFO] 21:03:33:375 cpu/(22649:22649): Conectado!
+[INFO] 21:03:37:352 cpu/(22649:22649): mensaje recibido el encabezado
+
+[INFO] 21:03:37:352 cpu/(22649:22649): mensaje recibido payload recibido
+
+[INFO] 21:03:37:352 cpu/(22649:22649): el tamanio del path es: 5 + /0
+
+[INFO] 21:03:37:352 cpu/(22649:22649): id:1000
+
+[INFO] 21:03:37:352 cpu/(22649:22649): flag:0
+
+[INFO] 21:03:37:352 cpu/(22649:22649): estado:1
+
+[INFO] 21:03:37:352 cpu/(22649:22649): PC:0
+
+[INFO] 21:03:37:352 cpu/(22649:22649): Quantum:1
+
+[INFO] 21:03:37:352 cpu/(22649:22649): Path:perro
+
+[INFO] 21:03:37:352 cpu/(22649:22649): Se recibio un DTB
+[INFO] 21:04:54:25 cpu/(22729:22729): Conectado!
+[INFO] 21:04:54:26 cpu/(22729:22729): Conectado!
+[INFO] 21:04:59:947 cpu/(22729:22729): mensaje recibido el encabezado
+
+[INFO] 21:04:59:948 cpu/(22729:22729): mensaje recibido payload recibido
+
+[INFO] 21:04:59:948 cpu/(22729:22729): el tamanio del path es: 5 + /0
+
+[INFO] 21:04:59:948 cpu/(22729:22729): id:1000
+
+[INFO] 21:04:59:948 cpu/(22729:22729): flag:0
+
+[INFO] 21:04:59:948 cpu/(22729:22729): estado:1
+
+[INFO] 21:04:59:948 cpu/(22729:22729): PC:0
+
+[INFO] 21:04:59:948 cpu/(22729:22729): Quantum:1
+
+[INFO] 21:04:59:948 cpu/(22729:22729): Path:perro
+
+[INFO] 21:04:59:948 cpu/(22729:22729): Se recibio un DTB
+[INFO] 21:07:13:987 cpu/(22847:22847): Conectado!
+[INFO] 21:07:13:989 cpu/(22847:22847): Conectado!
+[INFO] 21:07:18:281 cpu/(22847:22847): mensaje recibido el encabezado
+
+[INFO] 21:07:18:282 cpu/(22847:22847): mensaje recibido payload recibido
+
+[INFO] 21:07:18:282 cpu/(22847:22847): el tamanio del path es: 5 + /0
+
+[INFO] 21:07:18:282 cpu/(22847:22847): id:1000
+
+[INFO] 21:07:18:282 cpu/(22847:22847): flag:0
+
+[INFO] 21:07:18:282 cpu/(22847:22847): estado:1
+
+[INFO] 21:07:18:282 cpu/(22847:22847): PC:0
+
+[INFO] 21:07:18:282 cpu/(22847:22847): Quantum:1
+
+[INFO] 21:07:18:282 cpu/(22847:22847): Path:perro
+
+[INFO] 21:07:18:282 cpu/(22847:22847): Se recibio un DTB
+[INFO] 21:09:15:371 cpu/(22956:22956): Conectado!
+[INFO] 21:09:15:372 cpu/(22956:22956): Conectado!
+[INFO] 21:09:19:80 cpu/(22956:22956): mensaje recibido el encabezado
+
+[INFO] 21:09:19:80 cpu/(22956:22956): mensaje recibido payload recibido
+
+[INFO] 21:09:19:80 cpu/(22956:22956): el tamanio del path es: 5 + /0
+
+[INFO] 21:09:19:80 cpu/(22956:22956): id:1000
+
+[INFO] 21:09:19:80 cpu/(22956:22956): flag:0
+
+[INFO] 21:09:19:80 cpu/(22956:22956): estado:1
+
+[INFO] 21:09:19:80 cpu/(22956:22956): PC:0
+
+[INFO] 21:09:19:80 cpu/(22956:22956): Quantum:1
+
+[INFO] 21:09:19:80 cpu/(22956:22956): Path:perro
+
+[INFO] 21:09:19:80 cpu/(22956:22956): Se recibio un DTB
+[INFO] 21:11:24:354 cpu/(23232:23232): Conectado!
+[INFO] 21:11:24:356 cpu/(23232:23232): Conectado!
+[INFO] 21:11:31:61 cpu/(23232:23232): mensaje recibido el encabezado
+
+[INFO] 21:11:31:61 cpu/(23232:23232): mensaje recibido payload recibido
+
+[INFO] 21:11:31:61 cpu/(23232:23232): el tamanio del path es: 5 + /0
+
+[INFO] 21:11:31:61 cpu/(23232:23232): id:1000
+
+[INFO] 21:11:31:61 cpu/(23232:23232): flag:0
+
+[INFO] 21:11:31:61 cpu/(23232:23232): estado:1
+
+[INFO] 21:11:31:61 cpu/(23232:23232): PC:0
+
+[INFO] 21:11:31:61 cpu/(23232:23232): Quantum:1
+
+[INFO] 21:11:31:61 cpu/(23232:23232): Path:perro
+
+[INFO] 21:11:37:332 cpu/(23232:23232): Se recibio un DTB
+[INFO] 21:17:37:139 cpu/(23543:23543): Conectado!
+[INFO] 21:17:37:140 cpu/(23543:23543): Conectado!
+[INFO] 21:17:43:203 cpu/(23543:23543): mensaje recibido el encabezado
+
+[INFO] 21:17:43:204 cpu/(23543:23543): mensaje recibido payload recibido
+
+[INFO] 21:17:43:204 cpu/(23543:23543): el tamanio del path es: 5 + /0
+
+[INFO] 21:17:43:204 cpu/(23543:23543): id:1000
+
+[INFO] 21:17:43:204 cpu/(23543:23543): flag:0
+
+[INFO] 21:17:43:204 cpu/(23543:23543): estado:1
+
+[INFO] 21:17:43:204 cpu/(23543:23543): PC:0
+
+[INFO] 21:17:43:204 cpu/(23543:23543): Quantum:1
+
+[INFO] 21:17:43:204 cpu/(23543:23543): Path:perro
+
+[INFO] 21:17:50:170 cpu/(23543:23543): Se recibio un DTB
+[INFO] 21:17:51:501 cpu/(23543:23543): El DTB es el Dummy
+[INFO] 21:18:32:588 cpu/(23543:23543): el paquete pesa 30 bytes 
+
+[INFO] 21:18:32:593 cpu/(23543:23543): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:18:32:593 cpu/(23543:23543): Se envia el paquete
+
+[INFO] 21:18:32:593 cpu/(23543:23543): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:18:32:593 cpu/(23543:23543): Desalojando el DTB 1000
+[INFO] 21:18:32:593 cpu/(23543:23543): el paquete pesa 30 bytes 
+
+[INFO] 21:18:32:594 cpu/(23543:23543): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:18:32:594 cpu/(23543:23543): Se envia el paquete
+
+[INFO] 21:18:32:594 cpu/(23543:23543): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:18:32:599 cpu/(23543:23543): mensaje recibido el encabezado
+
+[INFO] 21:18:32:599 cpu/(23543:23543): mensaje recibido payload recibido
+
+[INFO] 21:18:32:599 cpu/(23543:23543): el tamanio del path es: 5 + /0
+
+[INFO] 21:18:32:601 cpu/(23543:23543): id:1000
+
+[INFO] 21:18:32:601 cpu/(23543:23543): flag:1
+
+[INFO] 21:18:32:601 cpu/(23543:23543): estado:1
+
+[INFO] 21:18:32:601 cpu/(23543:23543): PC:0
+
+[INFO] 21:18:32:601 cpu/(23543:23543): Quantum:1
+
+[INFO] 21:18:32:601 cpu/(23543:23543): Path:perro
+
+[INFO] 21:18:36:249 cpu/(23543:23543): Se recibio un DTB
+[INFO] 21:18:38:829 cpu/(23543:23543): Ejecutando el DTB 1000
+[INFO] 21:30:44:871 cpu/(24097:24097): Conectado!
+[INFO] 21:30:44:872 cpu/(24097:24097): Conectado!
+[INFO] 21:30:49:186 cpu/(24097:24097): mensaje recibido el encabezado
+
+[INFO] 21:30:49:186 cpu/(24097:24097): mensaje recibido payload recibido
+
+[INFO] 21:30:49:186 cpu/(24097:24097): el tamanio del path es: 5 + /0
+
+[INFO] 21:30:49:186 cpu/(24097:24097): id:1000
+
+[INFO] 21:30:49:186 cpu/(24097:24097): flag:0
+
+[INFO] 21:30:49:186 cpu/(24097:24097): estado:1
+
+[INFO] 21:30:49:186 cpu/(24097:24097): PC:0
+
+[INFO] 21:30:49:186 cpu/(24097:24097): Quantum:1
+
+[INFO] 21:30:49:186 cpu/(24097:24097): Path:perro
+
+[INFO] 21:30:53:465 cpu/(24097:24097): Se recibio un DTB
+[INFO] 21:30:53:465 cpu/(24097:24097): El DTB es el Dummy
+[INFO] 21:30:53:465 cpu/(24097:24097): el paquete pesa 30 bytes 
+
+[INFO] 21:30:53:465 cpu/(24097:24097): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:30:53:465 cpu/(24097:24097): Se envia el paquete
+
+[INFO] 21:30:53:465 cpu/(24097:24097): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:30:53:465 cpu/(24097:24097): Desalojando el DTB 1000
+[INFO] 21:30:53:465 cpu/(24097:24097): el paquete pesa 30 bytes 
+
+[INFO] 21:30:53:465 cpu/(24097:24097): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:30:53:465 cpu/(24097:24097): Se envia el paquete
+
+[INFO] 21:30:53:465 cpu/(24097:24097): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:30:53:466 cpu/(24097:24097): mensaje recibido el encabezado
+
+[INFO] 21:30:53:466 cpu/(24097:24097): mensaje recibido payload recibido
+
+[INFO] 21:30:53:466 cpu/(24097:24097): el tamanio del path es: 5 + /0
+
+[INFO] 21:30:53:466 cpu/(24097:24097): id:1000
+
+[INFO] 21:30:53:466 cpu/(24097:24097): flag:1
+
+[INFO] 21:30:53:466 cpu/(24097:24097): estado:1
+
+[INFO] 21:30:53:466 cpu/(24097:24097): PC:0
+
+[INFO] 21:30:53:466 cpu/(24097:24097): Quantum:1
+
+[INFO] 21:30:53:466 cpu/(24097:24097): Path:perro
+
+[INFO] 21:30:56:483 cpu/(24097:24097): Se recibio un DTB
+[INFO] 21:30:56:483 cpu/(24097:24097): Ejecutando el DTB 1000
+[INFO] 21:32:53:841 cpu/(24097:24097): el paquete pesa 14 bytes 
+
+[INFO] 21:33:36:832 cpu/(24097:24097): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:34:10:278 cpu/(24097:24097): Se envia el paquete
+
+[INFO] 21:34:23:532 cpu/(24097:24097): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:35:06:89 cpu/(24097:24097): Desalojando el DTB 1000
+[INFO] 21:35:06:90 cpu/(24097:24097): el paquete pesa 30 bytes 
+
+[INFO] 21:21:16:43 cpu/(5446:5446): Conectado!
+[INFO] 21:21:16:56 cpu/(5446:5446): Conectado!
+[INFO] 21:21:16:58 cpu/(5446:5446): Conectado!
+[INFO] 21:21:46:851 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:21:46:851 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:21:46:851 cpu/(5446:5446): id:1000
+
+[INFO] 21:21:46:851 cpu/(5446:5446): flag:0
+
+[INFO] 21:21:46:851 cpu/(5446:5446): estado:1
+
+[INFO] 21:21:46:851 cpu/(5446:5446): PC:0
+
+[INFO] 21:21:46:852 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:21:46:852 cpu/(5446:5446): Puntero a memoria:0
+
+[INFO] 21:21:46:852 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:21:46:852 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:21:46:852 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:21:46:852 cpu/(5446:5446): El DTB es el Dummy
+[INFO] 21:21:46:852 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:21:46:852 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:21:46:852 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:21:46:852 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:21:46:852 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:21:46:852 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:21:46:852 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:21:46:852 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:21:56:851 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:21:56:891 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:21:56:891 cpu/(5446:5446): id:1000
+
+[INFO] 21:21:56:891 cpu/(5446:5446): flag:1
+
+[INFO] 21:21:56:891 cpu/(5446:5446): estado:2
+
+[INFO] 21:21:56:891 cpu/(5446:5446): PC:0
+
+[INFO] 21:21:56:891 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:21:56:891 cpu/(5446:5446): Puntero a memoria:0
+
+[INFO] 21:21:56:891 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:21:56:891 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:21:56:891 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:21:56:891 cpu/(5446:5446): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:21:56:893 cpu/(5446:5446): Ejecutando el DTB 1000
+[INFO] 21:22:01:893 cpu/(5446:5446): accion:wait
+[INFO] 21:22:01:894 cpu/(5446:5446): parametros:bloqueo
+[INFO] 21:22:01:894 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:26:616 cpu/(5446:5446): accion:wait
+[INFO] 21:22:26:616 cpu/(5446:5446): parametros:bloqueo
+[INFO] 21:22:26:616 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:26:655 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:22:26:655 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:26:655 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:22:26:655 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:22:26:695 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:22:26:735 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:22:26:735 cpu/(5446:5446): id:1001
+
+[INFO] 21:22:26:735 cpu/(5446:5446): flag:0
+
+[INFO] 21:22:26:735 cpu/(5446:5446): estado:1
+
+[INFO] 21:22:26:735 cpu/(5446:5446): PC:0
+
+[INFO] 21:22:26:735 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:22:26:735 cpu/(5446:5446): Puntero a memoria:0
+
+[INFO] 21:22:26:735 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:22:26:735 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:22:26:735 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:22:26:735 cpu/(5446:5446): El DTB es el Dummy
+[INFO] 21:22:26:735 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:22:26:735 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:26:735 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:22:26:735 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:22:26:736 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:22:26:736 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:26:736 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:22:26:736 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:22:36:695 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:22:36:735 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:22:36:735 cpu/(5446:5446): id:1000
+
+[INFO] 21:22:36:735 cpu/(5446:5446): flag:1
+
+[INFO] 21:22:36:735 cpu/(5446:5446): estado:2
+
+[INFO] 21:22:36:735 cpu/(5446:5446): PC:2
+
+[INFO] 21:22:36:735 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:22:36:735 cpu/(5446:5446): Puntero a memoria:0
+
+[INFO] 21:22:36:735 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:22:36:735 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:22:36:735 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:22:36:736 cpu/(5446:5446): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:22:36:775 cpu/(5446:5446): Ejecutando el DTB 1000
+[INFO] 21:22:41:776 cpu/(5446:5446): accion:wait
+[INFO] 21:22:41:777 cpu/(5446:5446): parametros:inter
+[INFO] 21:22:41:777 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:46:778 cpu/(5446:5446): accion:wait
+[INFO] 21:22:46:779 cpu/(5446:5446): parametros:inter
+[INFO] 21:22:46:779 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:46:819 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:22:46:819 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:46:819 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:22:46:819 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:22:46:859 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:22:46:899 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:22:46:909 cpu/(5446:5446): id:1001
+
+[INFO] 21:22:46:909 cpu/(5446:5446): flag:1
+
+[INFO] 21:22:46:909 cpu/(5446:5446): estado:2
+
+[INFO] 21:22:46:910 cpu/(5446:5446): PC:0
+
+[INFO] 21:22:46:912 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:22:46:912 cpu/(5446:5446): Puntero a memoria:1
+
+[INFO] 21:22:46:912 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:22:46:912 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:22:46:912 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:22:46:913 cpu/(5446:5446): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:22:46:952 cpu/(5446:5446): Ejecutando el DTB 1001
+[INFO] 21:22:51:952 cpu/(5446:5446): accion:wait
+[INFO] 21:22:51:953 cpu/(5446:5446): parametros:bloqueo
+[INFO] 21:22:51:953 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:56:991 cpu/(5446:5446): accion:wait
+[INFO] 21:22:56:992 cpu/(5446:5446): parametros:bloqueo
+[INFO] 21:22:56:992 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:57:31 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:22:57:31 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:22:57:31 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:22:57:31 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:22:57:71 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:22:57:111 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:22:57:112 cpu/(5446:5446): id:1000
+
+[INFO] 21:22:57:112 cpu/(5446:5446): flag:1
+
+[INFO] 21:22:57:113 cpu/(5446:5446): estado:2
+
+[INFO] 21:22:57:113 cpu/(5446:5446): PC:4
+
+[INFO] 21:22:57:113 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:22:57:113 cpu/(5446:5446): Puntero a memoria:0
+
+[INFO] 21:22:57:113 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:22:57:113 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:22:57:113 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:22:57:113 cpu/(5446:5446): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:22:57:151 cpu/(5446:5446): Ejecutando el DTB 1000
+[INFO] 21:23:02:152 cpu/(5446:5446): accion:ERROR
+[INFO] 21:23:02:152 cpu/(5446:5446): parametros:(null)
+[INFO] 21:23:02:152 cpu/(5446:5446): ERROR SINTACTICO
+[INFO] 21:23:02:152 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:23:02:152 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:23:02:152 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:23:02:152 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:23:07:72 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:23:07:72 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:23:07:72 cpu/(5446:5446): id:1001
+
+[INFO] 21:23:07:72 cpu/(5446:5446): flag:1
+
+[INFO] 21:23:07:72 cpu/(5446:5446): estado:2
+
+[INFO] 21:23:07:72 cpu/(5446:5446): PC:2
+
+[INFO] 21:23:07:72 cpu/(5446:5446): Quantum:2
+
+[INFO] 21:23:07:72 cpu/(5446:5446): Puntero a memoria:1
+
+[INFO] 21:23:07:72 cpu/(5446:5446): operaciones IO:0
+
+[INFO] 21:23:07:72 cpu/(5446:5446): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:23:07:72 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:23:07:72 cpu/(5446:5446): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:23:07:111 cpu/(5446:5446): Ejecutando el DTB 1001
+[INFO] 21:23:07:111 cpu/(5446:5446): el paquete pesa 73 bytes 
+
+[INFO] 21:23:07:112 cpu/(5446:5446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:23:07:113 cpu/(5446:5446): Se envia el paquete
+
+[INFO] 21:23:07:113 cpu/(5446:5446): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:25:31:674 cpu/(5446:5446): mensaje recibido el encabezado
+
+[INFO] 21:25:31:675 cpu/(5446:5446): mensaje recibido payload recibido
+
+[INFO] 21:25:31:675 cpu/(5446:5446): id:134534856
+
+[INFO] 21:25:31:675 cpu/(5446:5446): flag:0
+
+[INFO] 21:25:31:675 cpu/(5446:5446): estado:8448
+
+[INFO] 21:25:31:675 cpu/(5446:5446): PC:17
+
+[INFO] 21:25:31:675 cpu/(5446:5446): Quantum:775369265
+
+[INFO] 21:25:31:675 cpu/(5446:5446): Puntero a memoria:774909488
+
+[INFO] 21:25:31:675 cpu/(5446:5446): operaciones IO:49
+
+[INFO] 21:25:31:675 cpu/(5446:5446): Path:
+
+[INFO] 21:25:31:675 cpu/(5446:5446): tabla de direcciones:
+
+[INFO] 21:25:31:675 cpu/(5446:5446): El DTB es el Dummy
+[INFO] 21:25:31:675 cpu/(5446:5446): el paquete pesa 45 bytes 
+
+[INFO] 21:28:54:623 cpu/(5886:5886): Conectado!
+[INFO] 21:28:54:623 cpu/(5886:5886): Conectado!
+[INFO] 21:28:54:625 cpu/(5886:5886): Conectado!
+[INFO] 21:29:17:622 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:29:17:622 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:29:17:622 cpu/(5886:5886): id:1000
+
+[INFO] 21:29:17:622 cpu/(5886:5886): flag:0
+
+[INFO] 21:29:17:622 cpu/(5886:5886): estado:1
+
+[INFO] 21:29:17:622 cpu/(5886:5886): PC:0
+
+[INFO] 21:29:17:622 cpu/(5886:5886): Quantum:2
+
+[INFO] 21:29:17:622 cpu/(5886:5886): Puntero a memoria:0
+
+[INFO] 21:29:17:622 cpu/(5886:5886): operaciones IO:0
+
+[INFO] 21:29:17:622 cpu/(5886:5886): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:29:17:623 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:29:17:623 cpu/(5886:5886): El DTB es el Dummy
+[INFO] 21:29:17:623 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:29:17:623 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:29:17:623 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:29:17:623 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:29:17:623 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:29:17:623 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:29:17:624 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:29:17:624 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:29:27:622 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:29:27:659 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:29:27:660 cpu/(5886:5886): id:1000
+
+[INFO] 21:29:27:660 cpu/(5886:5886): flag:1
+
+[INFO] 21:29:27:660 cpu/(5886:5886): estado:2
+
+[INFO] 21:29:27:660 cpu/(5886:5886): PC:0
+
+[INFO] 21:29:27:660 cpu/(5886:5886): Quantum:2
+
+[INFO] 21:29:27:660 cpu/(5886:5886): Puntero a memoria:0
+
+[INFO] 21:29:27:660 cpu/(5886:5886): operaciones IO:0
+
+[INFO] 21:29:27:660 cpu/(5886:5886): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:29:27:660 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:29:27:661 cpu/(5886:5886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:29:27:662 cpu/(5886:5886): Ejecutando el DTB 1000
+[INFO] 21:32:45:408 cpu/(5886:5886): accion:wait
+[INFO] 21:32:45:409 cpu/(5886:5886): parametros:bloqueo
+[INFO] 21:33:48:826 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:38:36:285 cpu/(5886:5886): accion:wait
+[INFO] 21:38:36:285 cpu/(5886:5886): parametros:bloqueo
+[INFO] 21:39:03:456 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:39:08:958 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:39:08:959 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:39:08:959 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:39:08:959 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:39:08:995 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:39:08:995 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:39:08:995 cpu/(5886:5886): id:1001
+
+[INFO] 21:39:08:995 cpu/(5886:5886): flag:0
+
+[INFO] 21:39:08:995 cpu/(5886:5886): estado:1
+
+[INFO] 21:39:08:995 cpu/(5886:5886): PC:0
+
+[INFO] 21:39:08:995 cpu/(5886:5886): Quantum:2
+
+[INFO] 21:39:08:996 cpu/(5886:5886): Puntero a memoria:0
+
+[INFO] 21:39:08:996 cpu/(5886:5886): operaciones IO:0
+
+[INFO] 21:39:08:996 cpu/(5886:5886): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:39:08:996 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:39:08:996 cpu/(5886:5886): El DTB es el Dummy
+[INFO] 21:39:08:996 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:39:08:996 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:39:08:996 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:39:08:996 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:39:08:996 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:39:08:997 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:39:08:997 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:39:08:997 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:39:18:996 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:39:19:35 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:39:19:35 cpu/(5886:5886): id:1000
+
+[INFO] 21:39:19:35 cpu/(5886:5886): flag:1
+
+[INFO] 21:39:19:35 cpu/(5886:5886): estado:2
+
+[INFO] 21:39:19:35 cpu/(5886:5886): PC:2
+
+[INFO] 21:39:19:35 cpu/(5886:5886): Quantum:2
+
+[INFO] 21:39:19:35 cpu/(5886:5886): Puntero a memoria:0
+
+[INFO] 21:39:19:35 cpu/(5886:5886): operaciones IO:0
+
+[INFO] 21:39:19:35 cpu/(5886:5886): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:39:19:35 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:39:19:36 cpu/(5886:5886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:39:19:78 cpu/(5886:5886): Ejecutando el DTB 1000
+[INFO] 21:40:24:153 cpu/(5886:5886): accion:wait
+[INFO] 21:40:24:153 cpu/(5886:5886): parametros:inter
+[INFO] 21:40:24:153 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:42:49:67 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:42:49:68 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:42:49:68 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:42:49:68 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:42:49:107 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:42:49:107 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:42:49:108 cpu/(5886:5886): id:1001
+
+[INFO] 21:42:49:108 cpu/(5886:5886): flag:1
+
+[INFO] 21:42:49:108 cpu/(5886:5886): estado:2
+
+[INFO] 21:42:49:108 cpu/(5886:5886): PC:0
+
+[INFO] 21:42:49:108 cpu/(5886:5886): Quantum:2
+
+[INFO] 21:42:49:108 cpu/(5886:5886): Puntero a memoria:1
+
+[INFO] 21:42:49:108 cpu/(5886:5886): operaciones IO:0
+
+[INFO] 21:42:49:108 cpu/(5886:5886): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:42:49:108 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:42:49:108 cpu/(5886:5886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:42:49:148 cpu/(5886:5886): Ejecutando el DTB 1001
+[INFO] 21:43:31:701 cpu/(5886:5886): accion:wait
+[INFO] 21:43:36:373 cpu/(5886:5886): parametros:bloqueo
+[INFO] 21:44:17:774 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:48:22:623 cpu/(5886:5886): accion:wait
+[INFO] 21:48:24:337 cpu/(5886:5886): parametros:bloqueo
+[INFO] 21:48:40:69 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:50:19:745 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:50:19:745 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:50:19:745 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:50:19:745 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:50:19:783 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:50:19:783 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:50:19:784 cpu/(5886:5886): id:1001
+
+[INFO] 21:50:19:784 cpu/(5886:5886): flag:1
+
+[INFO] 21:50:19:784 cpu/(5886:5886): estado:2
+
+[INFO] 21:50:19:784 cpu/(5886:5886): PC:2
+
+[INFO] 21:50:19:784 cpu/(5886:5886): Quantum:2
+
+[INFO] 21:50:19:784 cpu/(5886:5886): Puntero a memoria:1
+
+[INFO] 21:50:19:784 cpu/(5886:5886): operaciones IO:0
+
+[INFO] 21:50:19:784 cpu/(5886:5886): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 21:50:19:784 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:50:19:784 cpu/(5886:5886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 21:50:19:824 cpu/(5886:5886): Ejecutando el DTB 1001
+[INFO] 21:51:50:87 cpu/(5886:5886): accion:wait
+[INFO] 21:51:51:942 cpu/(5886:5886): parametros:inter
+[INFO] 21:52:04:533 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:57:20:440 cpu/(5886:5886): el paquete pesa 73 bytes 
+
+[INFO] 21:57:20:441 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:57:20:441 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:57:20:441 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:57:42:106 cpu/(5886:5886): mensaje recibido el encabezado
+
+[INFO] 21:57:42:106 cpu/(5886:5886): mensaje recibido payload recibido
+
+[INFO] 21:57:42:106 cpu/(5886:5886): id:134539144
+
+[INFO] 21:57:42:106 cpu/(5886:5886): flag:0
+
+[INFO] 21:57:42:106 cpu/(5886:5886): estado:8448
+
+[INFO] 21:57:42:106 cpu/(5886:5886): PC:17
+
+[INFO] 21:57:42:106 cpu/(5886:5886): Quantum:775369265
+
+[INFO] 21:57:42:106 cpu/(5886:5886): Puntero a memoria:774909488
+
+[INFO] 21:57:42:106 cpu/(5886:5886): operaciones IO:49
+
+[INFO] 21:57:42:106 cpu/(5886:5886): Path:
+
+[INFO] 21:57:42:106 cpu/(5886:5886): tabla de direcciones:
+
+[INFO] 21:57:42:106 cpu/(5886:5886): El DTB es el Dummy
+[INFO] 21:57:42:107 cpu/(5886:5886): el paquete pesa 45 bytes 
+
+[INFO] 21:57:42:107 cpu/(5886:5886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 21:57:42:107 cpu/(5886:5886): Se envia el paquete
+
+[INFO] 21:57:42:107 cpu/(5886:5886): el mensaje: ok 
+ se pudo enviar
+[INFO] 21:57:42:107 cpu/(5886:5886): el paquete pesa 45 bytes 
+
+[INFO] 22:00:23:867 cpu/(6697:6697): Conectado!
+[INFO] 22:00:23:900 cpu/(6697:6697): Conectado!
+[INFO] 22:00:23:901 cpu/(6697:6697): Conectado!
+[INFO] 22:00:54:482 cpu/(6697:6697): mensaje recibido el encabezado
+
+[INFO] 22:00:54:483 cpu/(6697:6697): mensaje recibido payload recibido
+
+[INFO] 22:00:54:483 cpu/(6697:6697): id:1000
+
+[INFO] 22:00:54:483 cpu/(6697:6697): flag:0
+
+[INFO] 22:00:54:483 cpu/(6697:6697): estado:1
+
+[INFO] 22:00:54:483 cpu/(6697:6697): PC:0
+
+[INFO] 22:00:54:483 cpu/(6697:6697): Quantum:2
+
+[INFO] 22:00:54:483 cpu/(6697:6697): Puntero a memoria:0
+
+[INFO] 22:00:54:483 cpu/(6697:6697): operaciones IO:0
+
+[INFO] 22:00:54:483 cpu/(6697:6697): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:00:54:483 cpu/(6697:6697): tabla de direcciones:
+
+[INFO] 22:00:54:483 cpu/(6697:6697): El DTB es el Dummy
+[INFO] 22:00:54:483 cpu/(6697:6697): el paquete pesa 73 bytes 
+
+[INFO] 22:00:54:483 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:00:54:483 cpu/(6697:6697): Se envia el paquete
+
+[INFO] 22:00:54:483 cpu/(6697:6697): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:00:54:484 cpu/(6697:6697): el paquete pesa 73 bytes 
+
+[INFO] 22:00:54:484 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:00:54:484 cpu/(6697:6697): Se envia el paquete
+
+[INFO] 22:00:54:484 cpu/(6697:6697): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:01:04:483 cpu/(6697:6697): mensaje recibido el encabezado
+
+[INFO] 22:01:04:523 cpu/(6697:6697): mensaje recibido payload recibido
+
+[INFO] 22:01:04:523 cpu/(6697:6697): id:1000
+
+[INFO] 22:01:04:523 cpu/(6697:6697): flag:1
+
+[INFO] 22:01:04:523 cpu/(6697:6697): estado:2
+
+[INFO] 22:01:04:523 cpu/(6697:6697): PC:0
+
+[INFO] 22:01:04:523 cpu/(6697:6697): Quantum:2
+
+[INFO] 22:01:04:523 cpu/(6697:6697): Puntero a memoria:0
+
+[INFO] 22:01:04:523 cpu/(6697:6697): operaciones IO:0
+
+[INFO] 22:01:04:523 cpu/(6697:6697): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:01:04:523 cpu/(6697:6697): tabla de direcciones:
+
+[INFO] 22:01:04:524 cpu/(6697:6697): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:01:04:527 cpu/(6697:6697): Ejecutando el DTB 1000
+[INFO] 22:02:14:810 cpu/(6697:6697): accion:wait
+[INFO] 22:02:14:810 cpu/(6697:6697): parametros:bloqueo
+[INFO] 22:02:14:810 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:03:24:539 cpu/(6697:6697): accion:wait
+[INFO] 22:03:24:539 cpu/(6697:6697): parametros:bloqueo
+[INFO] 22:03:24:539 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:03:45:768 cpu/(6697:6697): el paquete pesa 73 bytes 
+
+[INFO] 22:03:45:768 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:03:45:768 cpu/(6697:6697): Se envia el paquete
+
+[INFO] 22:03:45:768 cpu/(6697:6697): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:03:45:807 cpu/(6697:6697): mensaje recibido el encabezado
+
+[INFO] 22:03:45:807 cpu/(6697:6697): mensaje recibido payload recibido
+
+[INFO] 22:03:45:808 cpu/(6697:6697): id:1001
+
+[INFO] 22:03:45:808 cpu/(6697:6697): flag:0
+
+[INFO] 22:03:45:808 cpu/(6697:6697): estado:1
+
+[INFO] 22:03:45:810 cpu/(6697:6697): PC:0
+
+[INFO] 22:03:45:810 cpu/(6697:6697): Quantum:2
+
+[INFO] 22:03:45:810 cpu/(6697:6697): Puntero a memoria:0
+
+[INFO] 22:03:45:810 cpu/(6697:6697): operaciones IO:0
+
+[INFO] 22:03:45:810 cpu/(6697:6697): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:03:45:810 cpu/(6697:6697): tabla de direcciones:
+
+[INFO] 22:03:45:810 cpu/(6697:6697): El DTB es el Dummy
+[INFO] 22:03:45:810 cpu/(6697:6697): el paquete pesa 73 bytes 
+
+[INFO] 22:03:45:810 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:03:45:810 cpu/(6697:6697): Se envia el paquete
+
+[INFO] 22:03:45:810 cpu/(6697:6697): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:03:45:810 cpu/(6697:6697): el paquete pesa 73 bytes 
+
+[INFO] 22:03:45:811 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:03:45:811 cpu/(6697:6697): Se envia el paquete
+
+[INFO] 22:03:45:811 cpu/(6697:6697): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:03:55:808 cpu/(6697:6697): mensaje recibido el encabezado
+
+[INFO] 22:03:55:847 cpu/(6697:6697): mensaje recibido payload recibido
+
+[INFO] 22:03:55:847 cpu/(6697:6697): id:1000
+
+[INFO] 22:03:55:847 cpu/(6697:6697): flag:1
+
+[INFO] 22:03:55:847 cpu/(6697:6697): estado:2
+
+[INFO] 22:03:55:847 cpu/(6697:6697): PC:2
+
+[INFO] 22:03:55:847 cpu/(6697:6697): Quantum:2
+
+[INFO] 22:03:55:847 cpu/(6697:6697): Puntero a memoria:0
+
+[INFO] 22:03:55:847 cpu/(6697:6697): operaciones IO:0
+
+[INFO] 22:03:55:847 cpu/(6697:6697): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:03:55:847 cpu/(6697:6697): tabla de direcciones:
+
+[INFO] 22:03:55:847 cpu/(6697:6697): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:03:55:888 cpu/(6697:6697): Ejecutando el DTB 1000
+[INFO] 22:04:24:538 cpu/(6697:6697): accion:wait
+[INFO] 22:04:24:538 cpu/(6697:6697): parametros:inter
+[INFO] 22:04:24:538 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:07:28:814 cpu/(6697:6697): accion:wait
+[INFO] 22:07:28:814 cpu/(6697:6697): parametros:inter
+[INFO] 22:07:28:814 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:07:34:891 cpu/(6697:6697): el paquete pesa 73 bytes 
+
+[INFO] 22:07:34:892 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:07:34:892 cpu/(6697:6697): Se envia el paquete
+
+[INFO] 22:07:34:892 cpu/(6697:6697): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:07:34:932 cpu/(6697:6697): mensaje recibido el encabezado
+
+[INFO] 22:07:34:932 cpu/(6697:6697): mensaje recibido payload recibido
+
+[INFO] 22:07:34:932 cpu/(6697:6697): id:1001
+
+[INFO] 22:07:34:932 cpu/(6697:6697): flag:1
+
+[INFO] 22:07:34:932 cpu/(6697:6697): estado:2
+
+[INFO] 22:07:34:932 cpu/(6697:6697): PC:0
+
+[INFO] 22:07:34:932 cpu/(6697:6697): Quantum:2
+
+[INFO] 22:07:34:932 cpu/(6697:6697): Puntero a memoria:1
+
+[INFO] 22:07:34:932 cpu/(6697:6697): operaciones IO:0
+
+[INFO] 22:07:34:932 cpu/(6697:6697): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:07:34:932 cpu/(6697:6697): tabla de direcciones:
+
+[INFO] 22:07:34:932 cpu/(6697:6697): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:07:34:971 cpu/(6697:6697): Ejecutando el DTB 1001
+[INFO] 22:07:53:978 cpu/(6697:6697): accion:wait
+[INFO] 22:07:53:979 cpu/(6697:6697): parametros:bloqueo
+[INFO] 22:07:53:979 cpu/(6697:6697): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:16:18:431 cpu/(7056:7056): Conectado!
+[INFO] 22:16:18:482 cpu/(7056:7056): Conectado!
+[INFO] 22:16:18:483 cpu/(7056:7056): Conectado!
+[INFO] 22:17:30:794 cpu/(7056:7056): mensaje recibido el encabezado
+
+[INFO] 22:17:30:794 cpu/(7056:7056): mensaje recibido payload recibido
+
+[INFO] 22:17:30:794 cpu/(7056:7056): id:1000
+
+[INFO] 22:17:30:794 cpu/(7056:7056): flag:0
+
+[INFO] 22:17:30:794 cpu/(7056:7056): estado:1
+
+[INFO] 22:17:30:795 cpu/(7056:7056): PC:0
+
+[INFO] 22:17:30:795 cpu/(7056:7056): Quantum:2
+
+[INFO] 22:17:30:795 cpu/(7056:7056): Puntero a memoria:0
+
+[INFO] 22:17:30:795 cpu/(7056:7056): operaciones IO:0
+
+[INFO] 22:17:30:795 cpu/(7056:7056): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:17:30:795 cpu/(7056:7056): tabla de direcciones:
+
+[INFO] 22:17:30:795 cpu/(7056:7056): El DTB es el Dummy
+[INFO] 22:17:30:795 cpu/(7056:7056): el paquete pesa 73 bytes 
+
+[INFO] 22:17:30:795 cpu/(7056:7056): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:17:30:795 cpu/(7056:7056): Se envia el paquete
+
+[INFO] 22:17:30:795 cpu/(7056:7056): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:17:30:795 cpu/(7056:7056): el paquete pesa 73 bytes 
+
+[INFO] 22:17:30:795 cpu/(7056:7056): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:17:30:795 cpu/(7056:7056): Se envia el paquete
+
+[INFO] 22:17:30:795 cpu/(7056:7056): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:17:40:794 cpu/(7056:7056): mensaje recibido el encabezado
+
+[INFO] 22:17:40:831 cpu/(7056:7056): mensaje recibido payload recibido
+
+[INFO] 22:17:40:831 cpu/(7056:7056): id:1000
+
+[INFO] 22:17:40:831 cpu/(7056:7056): flag:1
+
+[INFO] 22:17:40:831 cpu/(7056:7056): estado:2
+
+[INFO] 22:17:40:831 cpu/(7056:7056): PC:0
+
+[INFO] 22:17:40:831 cpu/(7056:7056): Quantum:2
+
+[INFO] 22:17:40:831 cpu/(7056:7056): Puntero a memoria:0
+
+[INFO] 22:17:40:831 cpu/(7056:7056): operaciones IO:0
+
+[INFO] 22:17:40:831 cpu/(7056:7056): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:17:40:831 cpu/(7056:7056): tabla de direcciones:
+
+[INFO] 22:17:40:831 cpu/(7056:7056): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:17:40:832 cpu/(7056:7056): Ejecutando el DTB 1000
+[INFO] 22:18:10:456 cpu/(7056:7056): accion:wait
+[INFO] 22:18:10:456 cpu/(7056:7056): parametros:bloqueo
+[INFO] 22:18:10:457 cpu/(7056:7056): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:18:14:655 cpu/(7056:7056): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:18:14:697 cpu/(7056:7056): Ejecutando el DTB 1000
+[INFO] 22:18:57:999 cpu/(7056:7056): accion:concentrar
+[INFO] 22:18:57:999 cpu/(7056:7056): parametros:(null)
+[INFO] 22:18:57:999 cpu/(7056:7056): el paquete pesa 73 bytes 
+
+[INFO] 22:18:57:0 cpu/(7056:7056): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:18:57:0 cpu/(7056:7056): Se envia el paquete
+
+[INFO] 22:18:57:0 cpu/(7056:7056): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:18:58:39 cpu/(7056:7056): mensaje recibido el encabezado
+
+[INFO] 22:18:58:39 cpu/(7056:7056): mensaje recibido payload recibido
+
+[INFO] 22:18:58:39 cpu/(7056:7056): id:1001
+
+[INFO] 22:18:58:39 cpu/(7056:7056): flag:0
+
+[INFO] 22:18:58:39 cpu/(7056:7056): estado:1
+
+[INFO] 22:18:58:40 cpu/(7056:7056): PC:0
+
+[INFO] 22:18:58:40 cpu/(7056:7056): Quantum:2
+
+[INFO] 22:18:58:40 cpu/(7056:7056): Puntero a memoria:0
+
+[INFO] 22:18:58:40 cpu/(7056:7056): operaciones IO:0
+
+[INFO] 22:18:58:40 cpu/(7056:7056): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:18:58:40 cpu/(7056:7056): tabla de direcciones:
+
+[INFO] 22:18:58:40 cpu/(7056:7056): El DTB es el Dummy
+[INFO] 22:18:58:40 cpu/(7056:7056): el paquete pesa 73 bytes 
+
+[INFO] 22:18:58:40 cpu/(7056:7056): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:18:58:40 cpu/(7056:7056): Se envia el paquete
+
+[INFO] 22:18:58:40 cpu/(7056:7056): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:18:58:40 cpu/(7056:7056): el paquete pesa 73 bytes 
+
+[INFO] 22:18:58:44 cpu/(7056:7056): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:18:58:44 cpu/(7056:7056): Se envia el paquete
+
+[INFO] 22:18:58:44 cpu/(7056:7056): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:19:08:40 cpu/(7056:7056): mensaje recibido el encabezado
+
+[INFO] 22:19:08:79 cpu/(7056:7056): mensaje recibido payload recibido
+
+[INFO] 22:19:08:79 cpu/(7056:7056): id:1000
+
+[INFO] 22:19:08:79 cpu/(7056:7056): flag:1
+
+[INFO] 22:19:08:79 cpu/(7056:7056): estado:2
+
+[INFO] 22:19:08:79 cpu/(7056:7056): PC:2
+
+[INFO] 22:19:08:79 cpu/(7056:7056): Quantum:2
+
+[INFO] 22:19:08:79 cpu/(7056:7056): Puntero a memoria:0
+
+[INFO] 22:19:08:79 cpu/(7056:7056): operaciones IO:0
+
+[INFO] 22:19:08:79 cpu/(7056:7056): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:19:08:79 cpu/(7056:7056): tabla de direcciones:
+
+[INFO] 22:19:08:79 cpu/(7056:7056): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:19:08:119 cpu/(7056:7056): Ejecutando el DTB 1000
+[INFO] 22:25:57:503 cpu/(7335:7335): Conectado!
+[INFO] 22:25:57:585 cpu/(7335:7335): Conectado!
+[INFO] 22:25:57:585 cpu/(7335:7335): Conectado!
+[INFO] 22:26:14:206 cpu/(7335:7335): mensaje recibido el encabezado
+
+[INFO] 22:26:14:206 cpu/(7335:7335): mensaje recibido payload recibido
+
+[INFO] 22:26:14:206 cpu/(7335:7335): id:1000
+
+[INFO] 22:26:14:206 cpu/(7335:7335): flag:0
+
+[INFO] 22:26:14:206 cpu/(7335:7335): estado:1
+
+[INFO] 22:26:14:206 cpu/(7335:7335): PC:0
+
+[INFO] 22:26:14:206 cpu/(7335:7335): Quantum:2
+
+[INFO] 22:26:14:206 cpu/(7335:7335): Puntero a memoria:0
+
+[INFO] 22:26:14:206 cpu/(7335:7335): operaciones IO:0
+
+[INFO] 22:26:14:206 cpu/(7335:7335): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:26:14:207 cpu/(7335:7335): tabla de direcciones:
+
+[INFO] 22:26:14:207 cpu/(7335:7335): El DTB es el Dummy
+[INFO] 22:26:14:207 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:26:14:207 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:26:14:207 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:26:14:207 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:26:14:207 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:26:14:207 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:26:14:207 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:26:14:207 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:26:24:206 cpu/(7335:7335): mensaje recibido el encabezado
+
+[INFO] 22:26:24:243 cpu/(7335:7335): mensaje recibido payload recibido
+
+[INFO] 22:26:24:243 cpu/(7335:7335): id:1000
+
+[INFO] 22:26:24:244 cpu/(7335:7335): flag:1
+
+[INFO] 22:26:24:244 cpu/(7335:7335): estado:2
+
+[INFO] 22:26:24:244 cpu/(7335:7335): PC:0
+
+[INFO] 22:26:24:244 cpu/(7335:7335): Quantum:2
+
+[INFO] 22:26:24:244 cpu/(7335:7335): Puntero a memoria:0
+
+[INFO] 22:26:24:244 cpu/(7335:7335): operaciones IO:0
+
+[INFO] 22:26:24:244 cpu/(7335:7335): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:26:24:244 cpu/(7335:7335): tabla de direcciones:
+
+[INFO] 22:26:24:244 cpu/(7335:7335): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:26:24:245 cpu/(7335:7335): Ejecutando el DTB 1000
+[INFO] 22:26:43:131 cpu/(7335:7335): accion:wait
+[INFO] 22:26:43:131 cpu/(7335:7335): parametros:bloqueo
+[INFO] 22:26:43:132 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:26:47:171 cpu/(7335:7335): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:26:47:212 cpu/(7335:7335): Ejecutando el DTB 1000
+[INFO] 22:27:33:900 cpu/(7335:7335): accion:concentrar
+[INFO] 22:27:33:901 cpu/(7335:7335): parametros:(null)
+[INFO] 22:27:33:901 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:27:33:901 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:27:33:901 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:27:33:901 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:27:33:939 cpu/(7335:7335): mensaje recibido el encabezado
+
+[INFO] 22:27:33:939 cpu/(7335:7335): mensaje recibido payload recibido
+
+[INFO] 22:27:33:939 cpu/(7335:7335): id:1001
+
+[INFO] 22:27:33:939 cpu/(7335:7335): flag:0
+
+[INFO] 22:27:33:939 cpu/(7335:7335): estado:1
+
+[INFO] 22:27:33:939 cpu/(7335:7335): PC:0
+
+[INFO] 22:27:33:939 cpu/(7335:7335): Quantum:2
+
+[INFO] 22:27:33:939 cpu/(7335:7335): Puntero a memoria:0
+
+[INFO] 22:27:33:939 cpu/(7335:7335): operaciones IO:0
+
+[INFO] 22:27:33:939 cpu/(7335:7335): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:27:33:939 cpu/(7335:7335): tabla de direcciones:
+
+[INFO] 22:27:33:940 cpu/(7335:7335): El DTB es el Dummy
+[INFO] 22:27:33:940 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:27:33:940 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:27:33:940 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:27:33:940 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:27:33:940 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:27:33:940 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:27:33:940 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:27:33:940 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:27:43:939 cpu/(7335:7335): mensaje recibido el encabezado
+
+[INFO] 22:27:43:978 cpu/(7335:7335): mensaje recibido payload recibido
+
+[INFO] 22:27:43:979 cpu/(7335:7335): id:1000
+
+[INFO] 22:27:43:979 cpu/(7335:7335): flag:1
+
+[INFO] 22:27:43:979 cpu/(7335:7335): estado:2
+
+[INFO] 22:27:43:979 cpu/(7335:7335): PC:2
+
+[INFO] 22:27:43:979 cpu/(7335:7335): Quantum:2
+
+[INFO] 22:27:43:979 cpu/(7335:7335): Puntero a memoria:0
+
+[INFO] 22:27:43:979 cpu/(7335:7335): operaciones IO:0
+
+[INFO] 22:27:43:979 cpu/(7335:7335): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:27:43:979 cpu/(7335:7335): tabla de direcciones:
+
+[INFO] 22:27:43:979 cpu/(7335:7335): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:27:44:19 cpu/(7335:7335): Ejecutando el DTB 1000
+[INFO] 22:29:33:175 cpu/(7335:7335): accion:wait
+[INFO] 22:29:33:176 cpu/(7335:7335): parametros:inter
+[INFO] 22:29:33:176 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:29:39:140 cpu/(7335:7335): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:29:39:179 cpu/(7335:7335): Ejecutando el DTB 1000
+[INFO] 22:31:04:990 cpu/(7335:7335): accion:
+!
+[INFO] 22:31:06:352 cpu/(7335:7335): parametros:(null)
+[INFO] 22:31:10:480 cpu/(7335:7335): ERROR SINTACTICO
+[INFO] 22:32:55:577 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:32:55:578 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:32:55:578 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:32:55:578 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:32:55:615 cpu/(7335:7335): mensaje recibido el encabezado
+
+[INFO] 22:32:55:615 cpu/(7335:7335): mensaje recibido payload recibido
+
+[INFO] 22:32:55:615 cpu/(7335:7335): id:1001
+
+[INFO] 22:32:55:615 cpu/(7335:7335): flag:1
+
+[INFO] 22:32:55:615 cpu/(7335:7335): estado:2
+
+[INFO] 22:32:55:615 cpu/(7335:7335): PC:0
+
+[INFO] 22:32:55:615 cpu/(7335:7335): Quantum:2
+
+[INFO] 22:32:55:615 cpu/(7335:7335): Puntero a memoria:1
+
+[INFO] 22:32:55:615 cpu/(7335:7335): operaciones IO:0
+
+[INFO] 22:32:55:615 cpu/(7335:7335): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:32:55:615 cpu/(7335:7335): tabla de direcciones:
+
+[INFO] 22:32:55:616 cpu/(7335:7335): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:32:55:655 cpu/(7335:7335): Ejecutando el DTB 1001
+[INFO] 22:34:28:337 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:34:28:337 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:34:28:337 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:34:28:337 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:34:28:376 cpu/(7335:7335): mensaje recibido el encabezado
+
+[INFO] 22:34:28:376 cpu/(7335:7335): mensaje recibido payload recibido
+
+[INFO] 22:34:28:376 cpu/(7335:7335): id:1000
+
+[INFO] 22:34:28:376 cpu/(7335:7335): flag:1
+
+[INFO] 22:34:28:376 cpu/(7335:7335): estado:2
+
+[INFO] 22:34:28:376 cpu/(7335:7335): PC:4
+
+[INFO] 22:34:28:376 cpu/(7335:7335): Quantum:2
+
+[INFO] 22:34:28:376 cpu/(7335:7335): Puntero a memoria:0
+
+[INFO] 22:34:28:376 cpu/(7335:7335): operaciones IO:0
+
+[INFO] 22:34:28:376 cpu/(7335:7335): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:34:28:376 cpu/(7335:7335): tabla de direcciones:
+
+[INFO] 22:34:28:376 cpu/(7335:7335): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:34:28:416 cpu/(7335:7335): Ejecutando el DTB 1000
+[INFO] 22:35:40:409 cpu/(7335:7335): el paquete pesa 73 bytes 
+
+[INFO] 22:35:40:410 cpu/(7335:7335): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:35:40:410 cpu/(7335:7335): Se envia el paquete
+
+[INFO] 22:35:40:410 cpu/(7335:7335): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:43:10:832 cpu/(7710:7710): Conectado!
+[INFO] 22:43:10:883 cpu/(7710:7710): Conectado!
+[INFO] 22:43:10:883 cpu/(7710:7710): Conectado!
+[INFO] 22:44:17:134 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:44:17:134 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:44:17:134 cpu/(7710:7710): id:1000
+
+[INFO] 22:44:17:134 cpu/(7710:7710): flag:0
+
+[INFO] 22:44:17:134 cpu/(7710:7710): estado:1
+
+[INFO] 22:44:17:134 cpu/(7710:7710): PC:0
+
+[INFO] 22:44:17:134 cpu/(7710:7710): Quantum:2
+
+[INFO] 22:44:17:134 cpu/(7710:7710): Puntero a memoria:0
+
+[INFO] 22:44:17:135 cpu/(7710:7710): operaciones IO:0
+
+[INFO] 22:44:17:135 cpu/(7710:7710): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:44:17:135 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:44:17:135 cpu/(7710:7710): El DTB es el Dummy
+[INFO] 22:44:17:135 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:44:17:135 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:44:17:135 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:44:17:135 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:44:17:135 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:44:17:135 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:44:17:135 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:44:17:135 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:44:27:134 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:44:27:170 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:44:27:171 cpu/(7710:7710): id:1000
+
+[INFO] 22:44:27:171 cpu/(7710:7710): flag:1
+
+[INFO] 22:44:27:171 cpu/(7710:7710): estado:2
+
+[INFO] 22:44:27:172 cpu/(7710:7710): PC:0
+
+[INFO] 22:44:27:172 cpu/(7710:7710): Quantum:2
+
+[INFO] 22:44:27:172 cpu/(7710:7710): Puntero a memoria:0
+
+[INFO] 22:44:27:172 cpu/(7710:7710): operaciones IO:0
+
+[INFO] 22:44:27:172 cpu/(7710:7710): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:44:27:172 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:44:27:172 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:44:27:173 cpu/(7710:7710): Ejecutando el DTB 1000
+[INFO] 22:44:40:545 cpu/(7710:7710): accion:wait
+[INFO] 22:44:40:546 cpu/(7710:7710): parametros:bloqueo
+[INFO] 22:44:40:546 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:44:47:626 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:44:47:664 cpu/(7710:7710): Ejecutando el DTB 1000
+[INFO] 22:44:58:322 cpu/(7710:7710): accion:concentrar
+[INFO] 22:44:58:322 cpu/(7710:7710): parametros:(null)
+[INFO] 22:44:58:322 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:44:58:323 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:44:58:323 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:44:58:323 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:44:58:359 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:44:58:359 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:44:58:360 cpu/(7710:7710): id:1001
+
+[INFO] 22:44:58:360 cpu/(7710:7710): flag:0
+
+[INFO] 22:44:58:360 cpu/(7710:7710): estado:1
+
+[INFO] 22:44:58:360 cpu/(7710:7710): PC:0
+
+[INFO] 22:44:58:360 cpu/(7710:7710): Quantum:2
+
+[INFO] 22:44:58:360 cpu/(7710:7710): Puntero a memoria:0
+
+[INFO] 22:44:58:360 cpu/(7710:7710): operaciones IO:0
+
+[INFO] 22:44:58:360 cpu/(7710:7710): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:44:58:360 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:44:58:360 cpu/(7710:7710): El DTB es el Dummy
+[INFO] 22:44:58:361 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:44:58:361 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:44:58:361 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:44:58:361 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:44:58:361 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:44:58:361 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:44:58:361 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:44:58:361 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:45:08:360 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:45:08:399 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:45:08:399 cpu/(7710:7710): id:1000
+
+[INFO] 22:45:08:399 cpu/(7710:7710): flag:1
+
+[INFO] 22:45:08:399 cpu/(7710:7710): estado:2
+
+[INFO] 22:45:08:399 cpu/(7710:7710): PC:2
+
+[INFO] 22:45:08:399 cpu/(7710:7710): Quantum:2
+
+[INFO] 22:45:08:399 cpu/(7710:7710): Puntero a memoria:0
+
+[INFO] 22:45:08:399 cpu/(7710:7710): operaciones IO:0
+
+[INFO] 22:45:08:399 cpu/(7710:7710): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:45:08:399 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:45:08:399 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:45:08:439 cpu/(7710:7710): Ejecutando el DTB 1000
+[INFO] 22:45:37:745 cpu/(7710:7710): accion:wait
+[INFO] 22:45:37:745 cpu/(7710:7710): parametros:inter
+[INFO] 22:45:37:745 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:45:44:818 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:45:44:857 cpu/(7710:7710): Ejecutando el DTB 1000
+[INFO] 22:47:05:375 cpu/(7710:7710): accion:
+!
+[INFO] 22:47:05:375 cpu/(7710:7710): parametros:(null)
+[INFO] 22:47:05:375 cpu/(7710:7710): ERROR SINTACTICO
+[INFO] 22:47:28:634 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:47:28:634 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:47:28:634 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:47:28:635 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:47:39:49 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:47:39:49 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:47:39:49 cpu/(7710:7710): id:1001
+
+[INFO] 22:47:39:49 cpu/(7710:7710): flag:1
+
+[INFO] 22:47:39:49 cpu/(7710:7710): estado:2
+
+[INFO] 22:47:39:49 cpu/(7710:7710): PC:0
+
+[INFO] 22:47:39:49 cpu/(7710:7710): Quantum:2
+
+[INFO] 22:47:39:49 cpu/(7710:7710): Puntero a memoria:1
+
+[INFO] 22:47:39:49 cpu/(7710:7710): operaciones IO:0
+
+[INFO] 22:47:39:49 cpu/(7710:7710): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:47:39:49 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:47:39:49 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:47:39:87 cpu/(7710:7710): Ejecutando el DTB 1001
+[INFO] 22:48:13:668 cpu/(7710:7710): accion:wait
+[INFO] 22:48:13:668 cpu/(7710:7710): parametros:bloqueo
+[INFO] 22:48:13:668 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:48:28:841 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:48:28:882 cpu/(7710:7710): Ejecutando el DTB 1001
+[INFO] 22:49:01:154 cpu/(7710:7710): accion:concentrar
+[INFO] 22:49:01:154 cpu/(7710:7710): parametros:(null)
+[INFO] 22:49:01:154 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:49:01:155 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:49:01:155 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:49:01:155 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:49:01:191 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:49:01:191 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:49:01:191 cpu/(7710:7710): id:1001
+
+[INFO] 22:49:01:191 cpu/(7710:7710): flag:1
+
+[INFO] 22:49:01:191 cpu/(7710:7710): estado:2
+
+[INFO] 22:49:01:191 cpu/(7710:7710): PC:2
+
+[INFO] 22:49:01:191 cpu/(7710:7710): Quantum:2
+
+[INFO] 22:49:01:191 cpu/(7710:7710): Puntero a memoria:1
+
+[INFO] 22:49:01:191 cpu/(7710:7710): operaciones IO:0
+
+[INFO] 22:49:01:191 cpu/(7710:7710): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:49:01:191 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:49:01:191 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:49:01:231 cpu/(7710:7710): Ejecutando el DTB 1001
+[INFO] 22:52:10:867 cpu/(7710:7710): accion:wait
+[INFO] 22:52:10:915 cpu/(7710:7710): parametros:inter
+[INFO] 22:52:10:932 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:20:937 cpu/(7710:7710): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:20:976 cpu/(7710:7710): Ejecutando el DTB 1001
+[INFO] 22:53:23:553 cpu/(7710:7710): accion:
+1
+[INFO] 22:53:23:553 cpu/(7710:7710): parametros:(null)
+[INFO] 22:53:23:553 cpu/(7710:7710): ERROR SINTACTICO
+[INFO] 22:53:23:553 cpu/(7710:7710): el paquete pesa 73 bytes 
+
+[INFO] 22:53:23:553 cpu/(7710:7710): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:53:23:553 cpu/(7710:7710): Se envia el paquete
+
+[INFO] 22:53:23:553 cpu/(7710:7710): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:54:12:596 cpu/(7710:7710): mensaje recibido el encabezado
+
+[INFO] 22:54:12:596 cpu/(7710:7710): mensaje recibido payload recibido
+
+[INFO] 22:54:12:596 cpu/(7710:7710): id:134539184
+
+[INFO] 22:54:12:596 cpu/(7710:7710): flag:0
+
+[INFO] 22:54:12:596 cpu/(7710:7710): estado:8448
+
+[INFO] 22:54:12:596 cpu/(7710:7710): PC:17
+
+[INFO] 22:54:12:596 cpu/(7710:7710): Quantum:775369265
+
+[INFO] 22:54:12:609 cpu/(7710:7710): Puntero a memoria:774909488
+
+[INFO] 22:54:12:610 cpu/(7710:7710): operaciones IO:49
+
+[INFO] 22:54:12:610 cpu/(7710:7710): Path:
+
+[INFO] 22:54:12:610 cpu/(7710:7710): tabla de direcciones:
+
+[INFO] 22:54:12:610 cpu/(7710:7710): El DTB es el Dummy
+[INFO] 22:54:12:610 cpu/(7710:7710): el paquete pesa 45 bytes 
+
+[INFO] 22:57:34:730 cpu/(8047:8047): Conectado!
+[INFO] 22:57:34:775 cpu/(8047:8047): Conectado!
+[INFO] 22:57:34:776 cpu/(8047:8047): Conectado!
+[INFO] 22:58:15:280 cpu/(8047:8047): mensaje recibido el encabezado
+
+[INFO] 22:58:15:281 cpu/(8047:8047): mensaje recibido payload recibido
+
+[INFO] 22:58:15:281 cpu/(8047:8047): id:1000
+
+[INFO] 22:58:15:281 cpu/(8047:8047): flag:0
+
+[INFO] 22:58:15:281 cpu/(8047:8047): estado:1
+
+[INFO] 22:58:15:281 cpu/(8047:8047): PC:0
+
+[INFO] 22:58:15:281 cpu/(8047:8047): Quantum:2
+
+[INFO] 22:58:15:281 cpu/(8047:8047): Puntero a memoria:0
+
+[INFO] 22:58:15:281 cpu/(8047:8047): operaciones IO:0
+
+[INFO] 22:58:15:281 cpu/(8047:8047): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:58:15:281 cpu/(8047:8047): tabla de direcciones:
+
+[INFO] 22:58:15:281 cpu/(8047:8047): El DTB es el Dummy
+[INFO] 22:58:15:281 cpu/(8047:8047): el paquete pesa 73 bytes 
+
+[INFO] 22:58:15:281 cpu/(8047:8047): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:58:15:281 cpu/(8047:8047): Se envia el paquete
+
+[INFO] 22:58:15:281 cpu/(8047:8047): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:58:15:281 cpu/(8047:8047): el paquete pesa 73 bytes 
+
+[INFO] 22:58:15:281 cpu/(8047:8047): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:58:15:281 cpu/(8047:8047): Se envia el paquete
+
+[INFO] 22:58:15:281 cpu/(8047:8047): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:58:25:281 cpu/(8047:8047): mensaje recibido el encabezado
+
+[INFO] 22:58:25:319 cpu/(8047:8047): mensaje recibido payload recibido
+
+[INFO] 22:58:25:319 cpu/(8047:8047): id:1000
+
+[INFO] 22:58:25:319 cpu/(8047:8047): flag:1
+
+[INFO] 22:58:25:319 cpu/(8047:8047): estado:2
+
+[INFO] 22:58:25:319 cpu/(8047:8047): PC:0
+
+[INFO] 22:58:25:319 cpu/(8047:8047): Quantum:2
+
+[INFO] 22:58:25:319 cpu/(8047:8047): Puntero a memoria:0
+
+[INFO] 22:58:25:320 cpu/(8047:8047): operaciones IO:0
+
+[INFO] 22:58:25:320 cpu/(8047:8047): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:58:25:320 cpu/(8047:8047): tabla de direcciones:
+
+[INFO] 22:58:25:320 cpu/(8047:8047): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:58:25:321 cpu/(8047:8047): Ejecutando el DTB 1000
+[INFO] 22:58:55:790 cpu/(8047:8047): accion:wait
+[INFO] 22:58:55:790 cpu/(8047:8047): parametros:bloqueo
+[INFO] 22:58:55:790 cpu/(8047:8047): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:58:55:791 cpu/(8047:8047): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:58:55:828 cpu/(8047:8047): Ejecutando el DTB 1000
+[INFO] 22:59:04:542 cpu/(8047:8047): accion:concentrar
+[INFO] 22:59:04:542 cpu/(8047:8047): parametros:(null)
+[INFO] 22:59:04:542 cpu/(8047:8047): el paquete pesa 73 bytes 
+
+[INFO] 22:59:04:543 cpu/(8047:8047): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:59:04:543 cpu/(8047:8047): Se envia el paquete
+
+[INFO] 22:59:04:543 cpu/(8047:8047): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:59:04:579 cpu/(8047:8047): mensaje recibido el encabezado
+
+[INFO] 22:59:04:579 cpu/(8047:8047): mensaje recibido payload recibido
+
+[INFO] 22:59:04:579 cpu/(8047:8047): id:1001
+
+[INFO] 22:59:04:579 cpu/(8047:8047): flag:0
+
+[INFO] 22:59:04:579 cpu/(8047:8047): estado:1
+
+[INFO] 22:59:04:579 cpu/(8047:8047): PC:0
+
+[INFO] 22:59:04:579 cpu/(8047:8047): Quantum:2
+
+[INFO] 22:59:04:579 cpu/(8047:8047): Puntero a memoria:0
+
+[INFO] 22:59:04:579 cpu/(8047:8047): operaciones IO:0
+
+[INFO] 22:59:04:579 cpu/(8047:8047): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:59:04:579 cpu/(8047:8047): tabla de direcciones:
+
+[INFO] 22:59:04:579 cpu/(8047:8047): El DTB es el Dummy
+[INFO] 22:59:04:580 cpu/(8047:8047): el paquete pesa 73 bytes 
+
+[INFO] 22:59:04:580 cpu/(8047:8047): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:59:04:580 cpu/(8047:8047): Se envia el paquete
+
+[INFO] 22:59:04:580 cpu/(8047:8047): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:59:04:580 cpu/(8047:8047): el paquete pesa 73 bytes 
+
+[INFO] 22:59:04:580 cpu/(8047:8047): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:59:04:580 cpu/(8047:8047): Se envia el paquete
+
+[INFO] 22:59:04:580 cpu/(8047:8047): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:59:14:580 cpu/(8047:8047): mensaje recibido el encabezado
+
+[INFO] 22:59:14:618 cpu/(8047:8047): mensaje recibido payload recibido
+
+[INFO] 22:59:14:619 cpu/(8047:8047): id:1000
+
+[INFO] 22:59:14:619 cpu/(8047:8047): flag:1
+
+[INFO] 22:59:14:619 cpu/(8047:8047): estado:2
+
+[INFO] 22:59:14:619 cpu/(8047:8047): PC:2
+
+[INFO] 22:59:14:619 cpu/(8047:8047): Quantum:2
+
+[INFO] 22:59:14:619 cpu/(8047:8047): Puntero a memoria:0
+
+[INFO] 22:59:14:619 cpu/(8047:8047): operaciones IO:0
+
+[INFO] 22:59:14:619 cpu/(8047:8047): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:59:14:619 cpu/(8047:8047): tabla de direcciones:
+
+[INFO] 22:59:14:619 cpu/(8047:8047): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:59:14:660 cpu/(8047:8047): Ejecutando el DTB 1000
+[INFO] 23:02:23:202 cpu/(8207:8207): Conectado!
+[INFO] 23:02:23:215 cpu/(8207:8207): Conectado!
+[INFO] 23:02:23:216 cpu/(8207:8207): Conectado!
+[INFO] 23:02:42:511 cpu/(8207:8207): mensaje recibido el encabezado
+
+[INFO] 23:02:42:511 cpu/(8207:8207): mensaje recibido payload recibido
+
+[INFO] 23:02:42:511 cpu/(8207:8207): id:1000
+
+[INFO] 23:02:42:511 cpu/(8207:8207): flag:0
+
+[INFO] 23:02:42:511 cpu/(8207:8207): estado:1
+
+[INFO] 23:02:42:511 cpu/(8207:8207): PC:0
+
+[INFO] 23:02:42:512 cpu/(8207:8207): Quantum:2
+
+[INFO] 23:02:42:512 cpu/(8207:8207): Puntero a memoria:0
+
+[INFO] 23:02:42:512 cpu/(8207:8207): operaciones IO:0
+
+[INFO] 23:02:42:512 cpu/(8207:8207): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 23:02:42:512 cpu/(8207:8207): tabla de direcciones:
+
+[INFO] 23:02:42:512 cpu/(8207:8207): El DTB es el Dummy
+[INFO] 23:02:42:512 cpu/(8207:8207): el paquete pesa 73 bytes 
+
+[INFO] 23:02:42:512 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:02:42:512 cpu/(8207:8207): Se envia el paquete
+
+[INFO] 23:02:42:512 cpu/(8207:8207): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:02:42:512 cpu/(8207:8207): el paquete pesa 73 bytes 
+
+[INFO] 23:02:42:512 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:02:42:512 cpu/(8207:8207): Se envia el paquete
+
+[INFO] 23:02:42:512 cpu/(8207:8207): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:02:52:512 cpu/(8207:8207): mensaje recibido el encabezado
+
+[INFO] 23:02:52:551 cpu/(8207:8207): mensaje recibido payload recibido
+
+[INFO] 23:02:52:551 cpu/(8207:8207): id:1000
+
+[INFO] 23:02:52:551 cpu/(8207:8207): flag:1
+
+[INFO] 23:02:52:552 cpu/(8207:8207): estado:2
+
+[INFO] 23:02:52:552 cpu/(8207:8207): PC:0
+
+[INFO] 23:02:52:552 cpu/(8207:8207): Quantum:2
+
+[INFO] 23:02:52:552 cpu/(8207:8207): Puntero a memoria:0
+
+[INFO] 23:02:52:552 cpu/(8207:8207): operaciones IO:0
+
+[INFO] 23:02:52:552 cpu/(8207:8207): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 23:02:52:552 cpu/(8207:8207): tabla de direcciones:
+
+[INFO] 23:02:52:552 cpu/(8207:8207): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 23:02:52:553 cpu/(8207:8207): Ejecutando el DTB 1000
+[INFO] 23:03:08:201 cpu/(8207:8207): accion:wait
+[INFO] 23:03:08:201 cpu/(8207:8207): parametros:bloqueo
+[INFO] 23:03:08:201 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:03:08:202 cpu/(8207:8207): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 23:03:08:239 cpu/(8207:8207): Ejecutando el DTB 1000
+[INFO] 23:03:17:709 cpu/(8207:8207): accion:concentrar
+[INFO] 23:03:17:709 cpu/(8207:8207): parametros:(null)
+[INFO] 23:03:17:709 cpu/(8207:8207): el paquete pesa 73 bytes 
+
+[INFO] 23:03:17:710 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:03:17:710 cpu/(8207:8207): Se envia el paquete
+
+[INFO] 23:03:17:711 cpu/(8207:8207): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:03:17:748 cpu/(8207:8207): mensaje recibido el encabezado
+
+[INFO] 23:03:17:748 cpu/(8207:8207): mensaje recibido payload recibido
+
+[INFO] 23:03:17:748 cpu/(8207:8207): id:1001
+
+[INFO] 23:03:17:748 cpu/(8207:8207): flag:0
+
+[INFO] 23:03:17:748 cpu/(8207:8207): estado:1
+
+[INFO] 23:03:17:748 cpu/(8207:8207): PC:0
+
+[INFO] 23:03:17:748 cpu/(8207:8207): Quantum:2
+
+[INFO] 23:03:17:748 cpu/(8207:8207): Puntero a memoria:0
+
+[INFO] 23:03:17:748 cpu/(8207:8207): operaciones IO:0
+
+[INFO] 23:03:17:748 cpu/(8207:8207): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 23:03:17:748 cpu/(8207:8207): tabla de direcciones:
+
+[INFO] 23:03:17:748 cpu/(8207:8207): El DTB es el Dummy
+[INFO] 23:03:17:748 cpu/(8207:8207): el paquete pesa 73 bytes 
+
+[INFO] 23:03:17:748 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:03:17:748 cpu/(8207:8207): Se envia el paquete
+
+[INFO] 23:03:17:749 cpu/(8207:8207): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:03:17:749 cpu/(8207:8207): el paquete pesa 73 bytes 
+
+[INFO] 23:03:17:749 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:03:17:749 cpu/(8207:8207): Se envia el paquete
+
+[INFO] 23:03:17:749 cpu/(8207:8207): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:03:27:748 cpu/(8207:8207): mensaje recibido el encabezado
+
+[INFO] 23:03:27:787 cpu/(8207:8207): mensaje recibido payload recibido
+
+[INFO] 23:03:27:787 cpu/(8207:8207): id:1000
+
+[INFO] 23:03:27:787 cpu/(8207:8207): flag:1
+
+[INFO] 23:03:27:787 cpu/(8207:8207): estado:2
+
+[INFO] 23:03:27:787 cpu/(8207:8207): PC:2
+
+[INFO] 23:03:27:787 cpu/(8207:8207): Quantum:2
+
+[INFO] 23:03:27:787 cpu/(8207:8207): Puntero a memoria:0
+
+[INFO] 23:03:27:787 cpu/(8207:8207): operaciones IO:0
+
+[INFO] 23:03:27:787 cpu/(8207:8207): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 23:03:27:787 cpu/(8207:8207): tabla de direcciones:
+
+[INFO] 23:03:27:787 cpu/(8207:8207): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 23:03:27:828 cpu/(8207:8207): Ejecutando el DTB 1000
+[INFO] 23:03:38:860 cpu/(8207:8207): accion:wait
+[INFO] 23:03:38:860 cpu/(8207:8207): parametros:inter
+[INFO] 23:03:38:861 cpu/(8207:8207): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:03:38:861 cpu/(8207:8207): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 23:03:38:899 cpu/(8207:8207): Ejecutando el DTB 1000
+[INFO] 23:08:31:594 cpu/(12836:12836): Conectado!
+[INFO] 23:08:31:612 cpu/(12836:12836): Conectado!
+[INFO] 23:08:31:614 cpu/(12836:12836): Conectado!
+[INFO] 23:08:52:491 cpu/(12836:12836): mensaje recibido el encabezado
+
+[INFO] 23:08:52:491 cpu/(12836:12836): mensaje recibido payload recibido
+
+[INFO] 23:08:52:492 cpu/(12836:12836): id:1000
+
+[INFO] 23:08:52:492 cpu/(12836:12836): flag:0
+
+[INFO] 23:08:52:492 cpu/(12836:12836): estado:1
+
+[INFO] 23:08:52:492 cpu/(12836:12836): PC:0
+
+[INFO] 23:08:52:492 cpu/(12836:12836): Quantum:2
+
+[INFO] 23:08:52:492 cpu/(12836:12836): Puntero a memoria:0
+
+[INFO] 23:08:52:492 cpu/(12836:12836): operaciones IO:0
+
+[INFO] 23:08:52:492 cpu/(12836:12836): Path:/scripts/simple.escriptorio
+
+[INFO] 23:08:52:492 cpu/(12836:12836): tabla de direcciones:
+
+[INFO] 23:08:52:492 cpu/(12836:12836): El DTB es el Dummy
+[INFO] 23:08:52:492 cpu/(12836:12836): el paquete pesa 72 bytes 
+
+[INFO] 23:08:52:492 cpu/(12836:12836): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:08:52:492 cpu/(12836:12836): Se envia el paquete
+
+[INFO] 23:08:52:492 cpu/(12836:12836): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:08:52:493 cpu/(12836:12836): el paquete pesa 72 bytes 
+
+[INFO] 23:08:52:493 cpu/(12836:12836): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:08:52:493 cpu/(12836:12836): Se envia el paquete
+
+[INFO] 23:08:52:493 cpu/(12836:12836): el mensaje: ok 
+ se pudo enviar
+[INFO] 23:09:02:492 cpu/(12836:12836): mensaje recibido el encabezado
+
+[INFO] 23:09:02:530 cpu/(12836:12836): mensaje recibido payload recibido
+
+[INFO] 23:09:02:531 cpu/(12836:12836): id:1000
+
+[INFO] 23:09:02:531 cpu/(12836:12836): flag:1
+
+[INFO] 23:09:02:531 cpu/(12836:12836): estado:2
+
+[INFO] 23:09:02:531 cpu/(12836:12836): PC:0
+
+[INFO] 23:09:02:531 cpu/(12836:12836): Quantum:2
+
+[INFO] 23:09:02:531 cpu/(12836:12836): Puntero a memoria:0
+
+[INFO] 23:09:02:531 cpu/(12836:12836): operaciones IO:1
+
+[INFO] 23:09:02:531 cpu/(12836:12836): Path:/scripts/simple.escriptorio
+
+[INFO] 23:09:02:531 cpu/(12836:12836): tabla de direcciones:
+
+[INFO] 23:09:02:531 cpu/(12836:12836): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 23:09:02:533 cpu/(12836:12836): Ejecutando el DTB 1000
+[INFO] 23:09:55:598 cpu/(12836:12836): accion:abrir
+[INFO] 23:09:55:598 cpu/(12836:12836): parametros:/scripts/complejo.escriptorio
+[INFO] 23:09:55:598 cpu/(12836:12836): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:09:55:598 cpu/(12836:12836): paquete con id y path mandado al diego
+[INFO] 23:10:41:658 cpu/(12836:12836): el paquete pesa 72 bytes 
+
+[INFO] 23:10:41:658 cpu/(12836:12836): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 23:10:41:658 cpu/(12836:12836): Se envia el paquete
+
+[INFO] 23:10:41:658 cpu/(12836:12836): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:31:29:973 cpu/(10599:10599): Conectado!
+[INFO] 18:31:30:8 cpu/(10599:10599): Conectado!
+[INFO] 18:31:30:8 cpu/(10599:10599): Conectado!
+[INFO] 18:31:45:839 cpu/(10599:10599): mensaje recibido el encabezado
+
+[INFO] 18:31:45:839 cpu/(10599:10599): mensaje recibido payload recibido
+
+[INFO] 18:31:45:839 cpu/(10599:10599): id:1000
+
+[INFO] 18:31:45:839 cpu/(10599:10599): flag:0
+
+[INFO] 18:31:45:839 cpu/(10599:10599): estado:0
+
+[INFO] 18:31:45:839 cpu/(10599:10599): PC:0
+
+[INFO] 18:31:45:839 cpu/(10599:10599): Quantum:2
+
+[INFO] 18:31:45:839 cpu/(10599:10599): Puntero a memoria:0
+
+[INFO] 18:31:45:839 cpu/(10599:10599): operaciones IO:0
+
+[INFO] 18:31:45:839 cpu/(10599:10599): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:31:45:839 cpu/(10599:10599): tabla de direcciones:
+
+[INFO] 18:31:45:840 cpu/(10599:10599): El DTB es el Dummy
+[INFO] 18:31:45:840 cpu/(10599:10599): el paquete pesa 74 bytes 
+
+[INFO] 18:31:45:840 cpu/(10599:10599): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:31:45:840 cpu/(10599:10599): Se envia el paquete
+
+[INFO] 18:31:45:840 cpu/(10599:10599): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:31:45:840 cpu/(10599:10599): el paquete pesa 74 bytes 
+
+[INFO] 18:31:45:840 cpu/(10599:10599): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:31:45:840 cpu/(10599:10599): Se envia el paquete
+
+[INFO] 18:31:45:841 cpu/(10599:10599): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:31:55:840 cpu/(10599:10599): mensaje recibido el encabezado
+
+[INFO] 18:31:55:882 cpu/(10599:10599): mensaje recibido payload recibido
+
+[INFO] 18:31:55:882 cpu/(10599:10599): id:1000
+
+[INFO] 18:31:55:882 cpu/(10599:10599): flag:1
+
+[INFO] 18:31:55:883 cpu/(10599:10599): estado:2
+
+[INFO] 18:31:55:883 cpu/(10599:10599): PC:0
+
+[INFO] 18:31:55:883 cpu/(10599:10599): Quantum:2
+
+[INFO] 18:31:55:883 cpu/(10599:10599): Puntero a memoria:0
+
+[INFO] 18:31:55:883 cpu/(10599:10599): operaciones IO:3
+
+[INFO] 18:31:55:883 cpu/(10599:10599): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:31:55:883 cpu/(10599:10599): tabla de direcciones:
+
+[INFO] 18:31:55:883 cpu/(10599:10599): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 18:31:55:884 cpu/(10599:10599): Ejecutando el DTB 1000
+[INFO] 18:32:00:884 cpu/(10599:10599): accion:crear
+[INFO] 18:32:00:884 cpu/(10599:10599): parametros:/equipos/Rafaela 5
+[INFO] 18:32:00:885 cpu/(10599:10599): el path es /equipos/Rafaela
+[INFO] 18:32:00:885 cpu/(10599:10599): el numero de lineas es 1433782608
+[INFO] 18:32:00:885 cpu/(10599:10599): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:32:00:885 cpu/(10599:10599): paquete con id,cantidadLineas y path mandado al diego
+[INFO] 18:32:00:885 cpu/(10599:10599): el paquete pesa 74 bytes 
+
+[INFO] 18:32:00:885 cpu/(10599:10599): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:32:00:885 cpu/(10599:10599): Se envia el paquete
+
+[INFO] 18:32:00:886 cpu/(10599:10599): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:32:05:933 cpu/(10599:10599): mensaje recibido el encabezado
+
+[INFO] 18:32:05:933 cpu/(10599:10599): mensaje recibido payload recibido
+
+[INFO] 18:32:05:934 cpu/(10599:10599): id:1000
+
+[INFO] 18:32:05:934 cpu/(10599:10599): flag:1
+
+[INFO] 18:32:05:934 cpu/(10599:10599): estado:2
+
+[INFO] 18:32:05:934 cpu/(10599:10599): PC:1
+
+[INFO] 18:32:05:934 cpu/(10599:10599): Quantum:2
+
+[INFO] 18:32:05:934 cpu/(10599:10599): Puntero a memoria:0
+
+[INFO] 18:32:05:934 cpu/(10599:10599): operaciones IO:3
+
+[INFO] 18:32:05:934 cpu/(10599:10599): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:32:05:934 cpu/(10599:10599): tabla de direcciones:
+
+[INFO] 18:32:05:934 cpu/(10599:10599): posicion de la lista 0
+[INFO] 18:32:05:934 cpu/(10599:10599): espacio en memoria:0
+[INFO] 18:32:05:934 cpu/(10599:10599): path:/equipos/Rafaela
+
+[INFO] 18:32:05:934 cpu/(10599:10599): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 18:32:05:978 cpu/(10599:10599): Ejecutando el DTB 1000
+[INFO] 18:32:10:979 cpu/(10599:10599): accion:abrir
+[INFO] 18:32:10:979 cpu/(10599:10599): parametros:/equipos/Rafaela
+[INFO] 18:32:10:979 cpu/(10599:10599): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:32:10:980 cpu/(10599:10599): paquete con id y path mandado al diego
+[INFO] 18:32:10:980 cpu/(10599:10599): el paquete pesa 99 bytes 
+
+[INFO] 18:32:10:980 cpu/(10599:10599): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:32:10:980 cpu/(10599:10599): Se envia el paquete
+
+[INFO] 18:32:10:980 cpu/(10599:10599): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:32:16:119 cpu/(10599:10599): mensaje recibido el encabezado
+
+[INFO] 18:32:16:119 cpu/(10599:10599): mensaje recibido payload recibido
+
+[INFO] 18:32:16:119 cpu/(10599:10599): id:1000
+
+[INFO] 18:32:16:119 cpu/(10599:10599): flag:1
+
+[INFO] 18:32:16:120 cpu/(10599:10599): estado:2
+
+[INFO] 18:32:16:120 cpu/(10599:10599): PC:2
+
+[INFO] 18:32:16:120 cpu/(10599:10599): Quantum:2
+
+[INFO] 18:32:16:120 cpu/(10599:10599): Puntero a memoria:0
+
+[INFO] 18:32:16:120 cpu/(10599:10599): operaciones IO:3
+
+[INFO] 18:32:16:120 cpu/(10599:10599): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:32:16:120 cpu/(10599:10599): tabla de direcciones:
+
+[INFO] 18:32:16:120 cpu/(10599:10599): posicion de la lista 0
+[INFO] 18:32:16:120 cpu/(10599:10599): espacio en memoria:0
+[INFO] 18:32:16:120 cpu/(10599:10599): path:/equipos/Rafaela
+
+[INFO] 18:32:16:120 cpu/(10599:10599): posicion de la lista 1
+[INFO] 18:32:16:120 cpu/(10599:10599): espacio en memoria:1
+[INFO] 18:32:16:120 cpu/(10599:10599): path:/equipos/Rafaela
+
+[INFO] 18:32:16:120 cpu/(10599:10599): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 18:32:16:163 cpu/(10599:10599): Ejecutando el DTB 1000
+[INFO] 18:32:21:163 cpu/(10599:10599): accion:asignar
+[INFO] 18:32:21:164 cpu/(10599:10599): parametros:/equipos/Rafaela 1 Atletico Rafaela
+[INFO] 18:43:12:314 cpu/(10599:10599): Pasando los datos para la modificacion a FM9
+[INFO] 18:57:46:132 cpu/(11259:11259): Conectado!
+[INFO] 18:57:46:153 cpu/(11259:11259): Conectado!
+[INFO] 18:57:46:153 cpu/(11259:11259): Conectado!
+[INFO] 18:58:15:214 cpu/(11259:11259): mensaje recibido el encabezado
+
+[INFO] 18:58:15:215 cpu/(11259:11259): mensaje recibido payload recibido
+
+[INFO] 18:58:15:215 cpu/(11259:11259): id:1000
+
+[INFO] 18:58:15:215 cpu/(11259:11259): flag:0
+
+[INFO] 18:58:15:215 cpu/(11259:11259): estado:0
+
+[INFO] 18:58:15:215 cpu/(11259:11259): PC:0
+
+[INFO] 18:58:15:215 cpu/(11259:11259): Quantum:2
+
+[INFO] 18:58:15:215 cpu/(11259:11259): Puntero a memoria:0
+
+[INFO] 18:58:15:215 cpu/(11259:11259): operaciones IO:0
+
+[INFO] 18:58:15:215 cpu/(11259:11259): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:58:15:215 cpu/(11259:11259): tabla de direcciones:
+
+[INFO] 18:58:15:215 cpu/(11259:11259): El DTB es el Dummy
+[INFO] 18:58:15:215 cpu/(11259:11259): el paquete pesa 74 bytes 
+
+[INFO] 18:58:15:216 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:58:15:216 cpu/(11259:11259): Se envia el paquete
+
+[INFO] 18:58:15:216 cpu/(11259:11259): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:58:15:216 cpu/(11259:11259): el paquete pesa 74 bytes 
+
+[INFO] 18:58:15:216 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:58:15:216 cpu/(11259:11259): Se envia el paquete
+
+[INFO] 18:58:15:216 cpu/(11259:11259): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:58:25:216 cpu/(11259:11259): mensaje recibido el encabezado
+
+[INFO] 18:58:25:258 cpu/(11259:11259): mensaje recibido payload recibido
+
+[INFO] 18:58:25:258 cpu/(11259:11259): id:1000
+
+[INFO] 18:58:25:258 cpu/(11259:11259): flag:1
+
+[INFO] 18:58:25:259 cpu/(11259:11259): estado:2
+
+[INFO] 18:58:25:259 cpu/(11259:11259): PC:0
+
+[INFO] 18:58:25:259 cpu/(11259:11259): Quantum:2
+
+[INFO] 18:58:25:259 cpu/(11259:11259): Puntero a memoria:0
+
+[INFO] 18:58:25:259 cpu/(11259:11259): operaciones IO:3
+
+[INFO] 18:58:25:259 cpu/(11259:11259): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:58:25:259 cpu/(11259:11259): tabla de direcciones:
+
+[INFO] 18:58:25:259 cpu/(11259:11259): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 18:58:25:260 cpu/(11259:11259): Ejecutando el DTB 1000
+[INFO] 18:58:30:260 cpu/(11259:11259): accion:crear
+[INFO] 18:58:30:260 cpu/(11259:11259): parametros:/equipos/Rafaela 5
+[INFO] 18:58:30:261 cpu/(11259:11259): el path es /equipos/Rafaela
+[INFO] 18:58:30:261 cpu/(11259:11259): el numero de lineas es 1433782608
+[INFO] 18:58:30:261 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:58:30:261 cpu/(11259:11259): paquete con id,cantidadLineas y path mandado al diego
+[INFO] 18:58:30:261 cpu/(11259:11259): el paquete pesa 74 bytes 
+
+[INFO] 18:58:30:261 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:58:30:262 cpu/(11259:11259): Se envia el paquete
+
+[INFO] 18:58:30:262 cpu/(11259:11259): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:58:35:312 cpu/(11259:11259): mensaje recibido el encabezado
+
+[INFO] 18:58:35:312 cpu/(11259:11259): mensaje recibido payload recibido
+
+[INFO] 18:58:35:312 cpu/(11259:11259): id:1000
+
+[INFO] 18:58:35:312 cpu/(11259:11259): flag:1
+
+[INFO] 18:58:35:312 cpu/(11259:11259): estado:2
+
+[INFO] 18:58:35:312 cpu/(11259:11259): PC:1
+
+[INFO] 18:58:35:312 cpu/(11259:11259): Quantum:2
+
+[INFO] 18:58:35:312 cpu/(11259:11259): Puntero a memoria:0
+
+[INFO] 18:58:35:312 cpu/(11259:11259): operaciones IO:3
+
+[INFO] 18:58:35:312 cpu/(11259:11259): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:58:35:312 cpu/(11259:11259): tabla de direcciones:
+
+[INFO] 18:58:35:312 cpu/(11259:11259): posicion de la lista 0
+[INFO] 18:58:35:312 cpu/(11259:11259): espacio en memoria:0
+[INFO] 18:58:35:312 cpu/(11259:11259): path:/equipos/Rafaela
+
+[INFO] 18:58:35:312 cpu/(11259:11259): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 18:58:35:358 cpu/(11259:11259): Ejecutando el DTB 1000
+[INFO] 18:58:40:358 cpu/(11259:11259): accion:abrir
+[INFO] 18:58:40:358 cpu/(11259:11259): parametros:/equipos/Rafaela
+[INFO] 18:58:40:359 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:58:40:359 cpu/(11259:11259): paquete con id y path mandado al diego
+[INFO] 18:58:40:359 cpu/(11259:11259): el paquete pesa 99 bytes 
+
+[INFO] 18:58:40:359 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 18:58:40:359 cpu/(11259:11259): Se envia el paquete
+
+[INFO] 18:58:40:359 cpu/(11259:11259): el mensaje: ok 
+ se pudo enviar
+[INFO] 18:58:45:499 cpu/(11259:11259): mensaje recibido el encabezado
+
+[INFO] 18:58:45:499 cpu/(11259:11259): mensaje recibido payload recibido
+
+[INFO] 18:58:45:499 cpu/(11259:11259): id:1000
+
+[INFO] 18:58:45:500 cpu/(11259:11259): flag:1
+
+[INFO] 18:58:45:500 cpu/(11259:11259): estado:2
+
+[INFO] 18:58:45:500 cpu/(11259:11259): PC:2
+
+[INFO] 18:58:45:500 cpu/(11259:11259): Quantum:2
+
+[INFO] 18:58:45:500 cpu/(11259:11259): Puntero a memoria:0
+
+[INFO] 18:58:45:500 cpu/(11259:11259): operaciones IO:3
+
+[INFO] 18:58:45:500 cpu/(11259:11259): Path:/scripts/complejo.escriptorio
+
+[INFO] 18:58:45:500 cpu/(11259:11259): tabla de direcciones:
+
+[INFO] 18:58:45:500 cpu/(11259:11259): posicion de la lista 0
+[INFO] 18:58:45:500 cpu/(11259:11259): espacio en memoria:0
+[INFO] 18:58:45:500 cpu/(11259:11259): path:/equipos/Rafaela
+
+[INFO] 18:58:45:500 cpu/(11259:11259): posicion de la lista 1
+[INFO] 18:58:45:500 cpu/(11259:11259): espacio en memoria:1
+[INFO] 18:58:45:500 cpu/(11259:11259): path:/equipos/Rafaela
+
+[INFO] 18:58:45:500 cpu/(11259:11259): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 18:58:45:542 cpu/(11259:11259): Ejecutando el DTB 1000
+[INFO] 18:58:50:542 cpu/(11259:11259): accion:asignar
+[INFO] 18:58:50:543 cpu/(11259:11259): parametros:/equipos/Rafaela 1 Atletico Rafaela
+[INFO] 19:02:55:472 cpu/(11259:11259): Pasando los datos para la modificacion a FM9
+[INFO] 19:02:56:473 cpu/(11259:11259): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 19:02:56:473 cpu/(11259:11259): Ejecutando el DTB 1000
+[INFO] 19:03:01:473 cpu/(11259:11259): accion:concentrar
+[INFO] 19:03:01:473 cpu/(11259:11259): parametros:(null)
+[INFO] 19:03:01:474 cpu/(11259:11259): el paquete pesa 124 bytes 
+
+[INFO] 19:03:01:474 cpu/(11259:11259): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 19:03:01:474 cpu/(11259:11259): Se envia el paquete
+
+[INFO] 19:03:01:474 cpu/(11259:11259): el mensaje: ok 
+ se pudo enviar
+[INFO] 19:03:01:474 cpu/(11259:11259): mensaje recibido el encabezado
+
+[INFO] 19:03:01:474 cpu/(11259:11259): mensaje recibido payload recibido
+
+[INFO] 19:03:01:474 cpu/(11259:11259): id:1000
+
+[INFO] 19:03:01:474 cpu/(11259:11259): flag:1
+
+[INFO] 19:03:01:474 cpu/(11259:11259): estado:2
+
+[INFO] 19:03:01:474 cpu/(11259:11259): PC:4
+
+[INFO] 19:03:01:474 cpu/(11259:11259): Quantum:2
+
+[INFO] 19:03:01:474 cpu/(11259:11259): Puntero a memoria:0
+
+[INFO] 19:03:01:474 cpu/(11259:11259): operaciones IO:3
+
+[INFO] 19:03:01:474 cpu/(11259:11259): Path:/scripts/complejo.escriptorio
+
+[INFO] 19:03:01:474 cpu/(11259:11259): tabla de direcciones:
+
+[INFO] 19:03:01:474 cpu/(11259:11259): posicion de la lista 0
+[INFO] 19:03:01:474 cpu/(11259:11259): espacio en memoria:0
+[INFO] 19:03:01:474 cpu/(11259:11259): path:/equipos/Rafaela
+
+[INFO] 19:03:01:474 cpu/(11259:11259): posicion de la lista 1
+[INFO] 19:03:01:474 cpu/(11259:11259): espacio en memoria:1
+[INFO] 19:03:01:474 cpu/(11259:11259): path:/equipos/Rafaela
+
+[INFO] 19:03:01:474 cpu/(11259:11259): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 19:03:01:518 cpu/(11259:11259): Ejecutando el DTB 1000
+[INFO] 19:03:06:518 cpu/(11259:11259): accion:asignar
+[INFO] 19:03:06:518 cpu/(11259:11259): parametros:/equipos/Rafaela 2 Estrella: Juan M. Suligoy
+[INFO] 01:04:39:780 cpu/(7316:7316): Conectado!
+[INFO] 01:04:39:791 cpu/(7316:7316): Conectado!
+[INFO] 01:04:39:791 cpu/(7316:7316): Conectado!
+[INFO] 01:04:52:284 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:04:52:285 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:04:52:285 cpu/(7316:7316): id:1000
+
+[INFO] 01:04:52:285 cpu/(7316:7316): flag:0
+
+[INFO] 01:04:52:285 cpu/(7316:7316): estado:0
+
+[INFO] 01:04:52:285 cpu/(7316:7316): PC:0
+
+[INFO] 01:04:52:285 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:04:52:285 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:04:52:285 cpu/(7316:7316): operaciones IO:0
+
+[INFO] 01:04:52:285 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:04:52:285 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:04:52:285 cpu/(7316:7316): El DTB es el Dummy
+[INFO] 01:04:52:285 cpu/(7316:7316): el paquete pesa 74 bytes 
+
+[INFO] 01:04:52:285 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:04:52:286 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:04:52:286 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:04:52:286 cpu/(7316:7316): el paquete pesa 74 bytes 
+
+[INFO] 01:04:52:286 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:04:52:286 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:04:52:286 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:05:02:285 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:05:02:327 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:05:02:327 cpu/(7316:7316): id:1000
+
+[INFO] 01:05:02:327 cpu/(7316:7316): flag:1
+
+[INFO] 01:05:02:327 cpu/(7316:7316): estado:2
+
+[INFO] 01:05:02:327 cpu/(7316:7316): PC:0
+
+[INFO] 01:05:02:327 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:05:02:327 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:05:02:327 cpu/(7316:7316): operaciones IO:3
+
+[INFO] 01:05:02:327 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:05:02:327 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:05:02:328 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:05:02:328 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:05:07:328 cpu/(7316:7316): accion:crear
+[INFO] 01:05:07:329 cpu/(7316:7316): parametros:/equipos/Rafaela 5
+[INFO] 01:05:07:329 cpu/(7316:7316): el path es /equipos/Rafaela
+[INFO] 01:05:07:329 cpu/(7316:7316): el numero de lineas es 1433782560
+[INFO] 01:05:07:329 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:05:07:329 cpu/(7316:7316): paquete con id,cantidadLineas y path mandado al diego
+[INFO] 01:05:07:329 cpu/(7316:7316): el paquete pesa 74 bytes 
+
+[INFO] 01:05:07:330 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:05:07:330 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:05:07:330 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:05:12:377 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:05:12:377 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:05:12:378 cpu/(7316:7316): id:1000
+
+[INFO] 01:05:12:378 cpu/(7316:7316): flag:1
+
+[INFO] 01:05:12:378 cpu/(7316:7316): estado:2
+
+[INFO] 01:05:12:378 cpu/(7316:7316): PC:1
+
+[INFO] 01:05:12:378 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:05:12:378 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:05:12:378 cpu/(7316:7316): operaciones IO:3
+
+[INFO] 01:05:12:378 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:05:12:378 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:05:12:378 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:05:12:423 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:05:17:423 cpu/(7316:7316): accion:abrir
+[INFO] 01:05:17:423 cpu/(7316:7316): parametros:/equipos/Rafaela
+[INFO] 01:05:17:424 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:05:17:424 cpu/(7316:7316): paquete con id y path mandado al diego
+[INFO] 01:05:17:424 cpu/(7316:7316): el paquete pesa 74 bytes 
+
+[INFO] 01:05:17:424 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:05:17:424 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:05:17:425 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:05:22:579 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:05:22:580 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:05:22:580 cpu/(7316:7316): id:1000
+
+[INFO] 01:05:22:580 cpu/(7316:7316): flag:1
+
+[INFO] 01:05:22:580 cpu/(7316:7316): estado:2
+
+[INFO] 01:05:22:580 cpu/(7316:7316): PC:2
+
+[INFO] 01:05:22:580 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:05:22:580 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:05:22:580 cpu/(7316:7316): operaciones IO:3
+
+[INFO] 01:05:22:580 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:05:22:580 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:05:22:580 cpu/(7316:7316): posicion de la lista 0
+[INFO] 01:05:22:580 cpu/(7316:7316): espacio en memoria:1
+[INFO] 01:05:22:580 cpu/(7316:7316): path:/equipos/Rafaela
+
+[INFO] 01:05:22:580 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:05:22:623 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:05:27:624 cpu/(7316:7316): accion:asignar
+[INFO] 01:05:27:624 cpu/(7316:7316): parametros:/equipos/Rafaela 1 Atletico Rafaela
+[INFO] 01:05:59:442 cpu/(7316:7316): Pasando los datos para la modificacion a FM9
+[INFO] 01:06:16:86 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:06:16:87 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:06:21:87 cpu/(7316:7316): accion:concentrar
+[INFO] 01:06:21:87 cpu/(7316:7316): parametros:(null)
+[INFO] 01:06:21:87 cpu/(7316:7316): el paquete pesa 99 bytes 
+
+[INFO] 01:06:21:87 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:06:21:87 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:06:21:87 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:06:21:88 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:06:21:88 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:06:21:88 cpu/(7316:7316): id:1000
+
+[INFO] 01:06:21:88 cpu/(7316:7316): flag:1
+
+[INFO] 01:06:21:88 cpu/(7316:7316): estado:2
+
+[INFO] 01:06:21:88 cpu/(7316:7316): PC:4
+
+[INFO] 01:06:21:88 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:06:21:88 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:06:21:88 cpu/(7316:7316): operaciones IO:3
+
+[INFO] 01:06:21:88 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:06:21:88 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:06:21:88 cpu/(7316:7316): posicion de la lista 0
+[INFO] 01:06:21:88 cpu/(7316:7316): espacio en memoria:1
+[INFO] 01:06:21:88 cpu/(7316:7316): path:/equipos/Rafaela
+
+[INFO] 01:06:21:88 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:06:21:131 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:06:26:131 cpu/(7316:7316): accion:asignar
+[INFO] 01:06:26:131 cpu/(7316:7316): parametros:/equipos/Rafaela 2 Estrella: Juan M. Suligoy
+[INFO] 01:06:57:377 cpu/(7316:7316): Pasando los datos para la modificacion a FM9
+[INFO] 01:07:45:630 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:07:45:631 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:07:50:631 cpu/(7316:7316): accion:concentrar
+[INFO] 01:07:50:631 cpu/(7316:7316): parametros:(null)
+[INFO] 01:07:50:632 cpu/(7316:7316): el paquete pesa 99 bytes 
+
+[INFO] 01:07:50:632 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:07:50:632 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:07:50:632 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:07:50:675 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:07:50:675 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:07:50:675 cpu/(7316:7316): id:1000
+
+[INFO] 01:07:50:676 cpu/(7316:7316): flag:1
+
+[INFO] 01:07:50:676 cpu/(7316:7316): estado:2
+
+[INFO] 01:07:50:676 cpu/(7316:7316): PC:6
+
+[INFO] 01:07:50:676 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:07:50:676 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:07:50:676 cpu/(7316:7316): operaciones IO:3
+
+[INFO] 01:07:50:676 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:07:50:676 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:07:50:676 cpu/(7316:7316): posicion de la lista 0
+[INFO] 01:07:50:676 cpu/(7316:7316): espacio en memoria:1
+[INFO] 01:07:50:676 cpu/(7316:7316): path:/equipos/Rafaela
+
+[INFO] 01:07:50:676 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:07:50:719 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:07:55:720 cpu/(7316:7316): accion:asignar
+[INFO] 01:07:55:720 cpu/(7316:7316): parametros:/equipos/Rafaela 3 Promedio: 91
+[INFO] 01:08:03:145 cpu/(7316:7316): Pasando los datos para la modificacion a FM9
+[INFO] 01:08:31:632 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:08:31:633 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:08:36:633 cpu/(7316:7316): accion:concentrar
+[INFO] 01:08:36:633 cpu/(7316:7316): parametros:(null)
+[INFO] 01:08:36:633 cpu/(7316:7316): el paquete pesa 99 bytes 
+
+[INFO] 01:08:36:633 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:08:36:633 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:08:36:633 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:08:36:674 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:08:36:674 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:08:36:674 cpu/(7316:7316): id:1000
+
+[INFO] 01:08:36:674 cpu/(7316:7316): flag:1
+
+[INFO] 01:08:36:675 cpu/(7316:7316): estado:2
+
+[INFO] 01:08:36:675 cpu/(7316:7316): PC:8
+
+[INFO] 01:08:36:675 cpu/(7316:7316): Quantum:2
+
+[INFO] 01:08:36:675 cpu/(7316:7316): Puntero a memoria:0
+
+[INFO] 01:08:36:675 cpu/(7316:7316): operaciones IO:3
+
+[INFO] 01:08:36:675 cpu/(7316:7316): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:08:36:675 cpu/(7316:7316): tabla de direcciones:
+
+[INFO] 01:08:36:675 cpu/(7316:7316): posicion de la lista 0
+[INFO] 01:08:36:675 cpu/(7316:7316): espacio en memoria:1
+[INFO] 01:08:36:675 cpu/(7316:7316): path:/equipos/Rafaela
+
+[INFO] 01:08:36:675 cpu/(7316:7316): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:08:36:718 cpu/(7316:7316): Ejecutando el DTB 1000
+[INFO] 01:08:41:719 cpu/(7316:7316): accion:flush
+[INFO] 01:08:41:719 cpu/(7316:7316): parametros:/equipos/Rafaela
+[INFO] 01:08:41:719 cpu/(7316:7316): el paquete pesa 21 bytes 
+
+[INFO] 01:08:41:719 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:08:41:719 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:08:41:720 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:08:41:720 cpu/(7316:7316): el paquete pesa 99 bytes 
+
+[INFO] 01:08:41:720 cpu/(7316:7316): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:08:41:720 cpu/(7316:7316): Se envia el paquete
+
+[INFO] 01:08:41:720 cpu/(7316:7316): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:10:38:526 cpu/(7316:7316): mensaje recibido el encabezado
+
+[INFO] 01:10:38:536 cpu/(7316:7316): mensaje recibido payload recibido
+
+[INFO] 01:12:36:120 cpu/(7886:7886): Conectado!
+[INFO] 01:12:36:120 cpu/(7886:7886): Conectado!
+[INFO] 01:12:36:120 cpu/(7886:7886): Conectado!
+[INFO] 01:12:54:525 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:12:54:525 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:12:54:525 cpu/(7886:7886): id:1000
+
+[INFO] 01:12:54:525 cpu/(7886:7886): flag:0
+
+[INFO] 01:12:54:525 cpu/(7886:7886): estado:0
+
+[INFO] 01:12:54:525 cpu/(7886:7886): PC:0
+
+[INFO] 01:12:54:525 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:12:54:525 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:12:54:525 cpu/(7886:7886): operaciones IO:0
+
+[INFO] 01:12:54:525 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:12:54:526 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:12:54:526 cpu/(7886:7886): El DTB es el Dummy
+[INFO] 01:12:54:526 cpu/(7886:7886): el paquete pesa 74 bytes 
+
+[INFO] 01:12:54:526 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:12:54:526 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:12:54:526 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:12:54:526 cpu/(7886:7886): el paquete pesa 74 bytes 
+
+[INFO] 01:12:54:526 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:12:54:526 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:12:54:527 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:13:04:525 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:13:04:566 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:13:04:566 cpu/(7886:7886): id:1000
+
+[INFO] 01:13:04:567 cpu/(7886:7886): flag:1
+
+[INFO] 01:13:04:567 cpu/(7886:7886): estado:2
+
+[INFO] 01:13:04:567 cpu/(7886:7886): PC:0
+
+[INFO] 01:13:04:567 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:13:04:567 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:13:04:567 cpu/(7886:7886): operaciones IO:3
+
+[INFO] 01:13:04:567 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:13:04:567 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:13:04:567 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:04:568 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:09:568 cpu/(7886:7886): accion:crear
+[INFO] 01:13:09:568 cpu/(7886:7886): parametros:/equipos/Rafaela 5
+[INFO] 01:13:09:568 cpu/(7886:7886): el path es /equipos/Rafaela
+[INFO] 01:13:09:568 cpu/(7886:7886): el numero de lineas es 1433782560
+[INFO] 01:13:09:568 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:13:09:568 cpu/(7886:7886): paquete con id,cantidadLineas y path mandado al diego
+[INFO] 01:13:09:569 cpu/(7886:7886): el paquete pesa 74 bytes 
+
+[INFO] 01:13:09:569 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:13:09:569 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:13:09:569 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:13:14:612 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:13:14:612 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:13:14:612 cpu/(7886:7886): id:1000
+
+[INFO] 01:13:14:612 cpu/(7886:7886): flag:1
+
+[INFO] 01:13:14:612 cpu/(7886:7886): estado:2
+
+[INFO] 01:13:14:612 cpu/(7886:7886): PC:1
+
+[INFO] 01:13:14:612 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:13:14:612 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:13:14:612 cpu/(7886:7886): operaciones IO:3
+
+[INFO] 01:13:14:612 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:13:14:612 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:13:14:612 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:14:655 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:19:655 cpu/(7886:7886): accion:abrir
+[INFO] 01:13:19:655 cpu/(7886:7886): parametros:/equipos/Rafaela
+[INFO] 01:13:19:656 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:13:19:656 cpu/(7886:7886): paquete con id y path mandado al diego
+[INFO] 01:13:19:656 cpu/(7886:7886): el paquete pesa 74 bytes 
+
+[INFO] 01:13:19:656 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:13:19:656 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:13:19:657 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:13:24:814 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:13:24:814 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:13:24:814 cpu/(7886:7886): id:1000
+
+[INFO] 01:13:24:814 cpu/(7886:7886): flag:1
+
+[INFO] 01:13:24:814 cpu/(7886:7886): estado:2
+
+[INFO] 01:13:24:814 cpu/(7886:7886): PC:2
+
+[INFO] 01:13:24:814 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:13:24:814 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:13:24:814 cpu/(7886:7886): operaciones IO:3
+
+[INFO] 01:13:24:814 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:13:24:814 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:13:24:814 cpu/(7886:7886): posicion de la lista 0
+[INFO] 01:13:24:814 cpu/(7886:7886): espacio en memoria:1
+[INFO] 01:13:24:814 cpu/(7886:7886): path:/equipos/Rafaela
+
+[INFO] 01:13:24:814 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:24:858 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:29:859 cpu/(7886:7886): accion:asignar
+[INFO] 01:13:29:859 cpu/(7886:7886): parametros:/equipos/Rafaela 1 Atletico Rafaela
+[INFO] 01:13:33:902 cpu/(7886:7886): Pasando los datos para la modificacion a FM9
+[INFO] 01:13:34:903 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:34:906 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:39:906 cpu/(7886:7886): accion:concentrar
+[INFO] 01:13:39:906 cpu/(7886:7886): parametros:(null)
+[INFO] 01:13:39:908 cpu/(7886:7886): el paquete pesa 99 bytes 
+
+[INFO] 01:13:39:908 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:13:39:908 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:13:39:908 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:13:39:909 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:13:39:909 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:13:39:909 cpu/(7886:7886): id:1000
+
+[INFO] 01:13:39:909 cpu/(7886:7886): flag:1
+
+[INFO] 01:13:39:909 cpu/(7886:7886): estado:2
+
+[INFO] 01:13:39:909 cpu/(7886:7886): PC:4
+
+[INFO] 01:13:39:909 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:13:39:909 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:13:39:909 cpu/(7886:7886): operaciones IO:3
+
+[INFO] 01:13:39:909 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:13:39:910 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:13:39:910 cpu/(7886:7886): posicion de la lista 0
+[INFO] 01:13:39:910 cpu/(7886:7886): espacio en memoria:1
+[INFO] 01:13:39:910 cpu/(7886:7886): path:/equipos/Rafaela
+
+[INFO] 01:13:39:910 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:39:959 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:44:959 cpu/(7886:7886): accion:asignar
+[INFO] 01:13:44:959 cpu/(7886:7886): parametros:/equipos/Rafaela 2 Estrella: Juan M. Suligoy
+[INFO] 01:13:47:267 cpu/(7886:7886): Pasando los datos para la modificacion a FM9
+[INFO] 01:13:48:267 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:48:268 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:53:269 cpu/(7886:7886): accion:concentrar
+[INFO] 01:13:53:269 cpu/(7886:7886): parametros:(null)
+[INFO] 01:13:53:269 cpu/(7886:7886): el paquete pesa 99 bytes 
+
+[INFO] 01:13:53:269 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:13:53:269 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:13:53:269 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:13:53:311 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:13:53:311 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:13:53:311 cpu/(7886:7886): id:1000
+
+[INFO] 01:13:53:311 cpu/(7886:7886): flag:1
+
+[INFO] 01:13:53:311 cpu/(7886:7886): estado:2
+
+[INFO] 01:13:53:311 cpu/(7886:7886): PC:6
+
+[INFO] 01:13:53:311 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:13:53:311 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:13:53:311 cpu/(7886:7886): operaciones IO:3
+
+[INFO] 01:13:53:311 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:13:53:311 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:13:53:311 cpu/(7886:7886): posicion de la lista 0
+[INFO] 01:13:53:311 cpu/(7886:7886): espacio en memoria:1
+[INFO] 01:13:53:311 cpu/(7886:7886): path:/equipos/Rafaela
+
+[INFO] 01:13:53:311 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:13:53:355 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:13:58:355 cpu/(7886:7886): accion:asignar
+[INFO] 01:13:58:355 cpu/(7886:7886): parametros:/equipos/Rafaela 3 Promedio: 91
+[INFO] 01:14:15:285 cpu/(7886:7886): Pasando los datos para la modificacion a FM9
+[INFO] 01:14:51:179 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:14:51:179 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 01:14:56:180 cpu/(7886:7886): accion:concentrar
+[INFO] 01:14:56:180 cpu/(7886:7886): parametros:(null)
+[INFO] 01:14:56:180 cpu/(7886:7886): el paquete pesa 99 bytes 
+
+[INFO] 01:14:56:180 cpu/(7886:7886): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:14:56:180 cpu/(7886:7886): Se envia el paquete
+
+[INFO] 01:14:56:180 cpu/(7886:7886): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:14:56:223 cpu/(7886:7886): mensaje recibido el encabezado
+
+[INFO] 01:14:56:223 cpu/(7886:7886): mensaje recibido payload recibido
+
+[INFO] 01:14:56:223 cpu/(7886:7886): id:1000
+
+[INFO] 01:14:56:223 cpu/(7886:7886): flag:1
+
+[INFO] 01:14:56:223 cpu/(7886:7886): estado:2
+
+[INFO] 01:14:56:223 cpu/(7886:7886): PC:8
+
+[INFO] 01:14:56:223 cpu/(7886:7886): Quantum:2
+
+[INFO] 01:14:56:223 cpu/(7886:7886): Puntero a memoria:0
+
+[INFO] 01:14:56:223 cpu/(7886:7886): operaciones IO:3
+
+[INFO] 01:14:56:223 cpu/(7886:7886): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:14:56:223 cpu/(7886:7886): tabla de direcciones:
+
+[INFO] 01:14:56:223 cpu/(7886:7886): posicion de la lista 0
+[INFO] 01:14:56:223 cpu/(7886:7886): espacio en memoria:1
+[INFO] 01:14:56:223 cpu/(7886:7886): path:/equipos/Rafaela
+
+[INFO] 01:14:56:224 cpu/(7886:7886): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 01:14:56:267 cpu/(7886:7886): Ejecutando el DTB 1000
+[INFO] 05:21:56:737 cpu/(9470:9470): Conectado!
+[INFO] 05:21:56:793 cpu/(9470:9470): Conectado!
+[INFO] 05:21:56:795 cpu/(9470:9470): Conectado!
+[INFO] 05:22:11:810 cpu/(9470:9470): mensaje recibido el encabezado
+
+[INFO] 05:22:11:811 cpu/(9470:9470): mensaje recibido payload recibido
+
+[INFO] 05:22:11:811 cpu/(9470:9470): id:1000
+
+[INFO] 05:22:11:811 cpu/(9470:9470): flag:0
+
+[INFO] 05:22:11:811 cpu/(9470:9470): estado:0
+
+[INFO] 05:22:11:811 cpu/(9470:9470): PC:0
+
+[INFO] 05:22:11:811 cpu/(9470:9470): Quantum:2
+
+[INFO] 05:22:11:811 cpu/(9470:9470): Puntero a memoria:0
+
+[INFO] 05:22:11:811 cpu/(9470:9470): operaciones IO:0
+
+[INFO] 05:22:11:811 cpu/(9470:9470): Path:/scripts/complejo.escriptorio
+
+[INFO] 05:22:11:811 cpu/(9470:9470): tabla de direcciones:
+
+[INFO] 05:22:11:811 cpu/(9470:9470): El DTB es el Dummy
+[INFO] 05:22:11:811 cpu/(9470:9470): el paquete pesa 74 bytes 
+
+[INFO] 05:22:11:811 cpu/(9470:9470): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 05:22:11:811 cpu/(9470:9470): Se envia el paquete
+
+[INFO] 05:22:11:811 cpu/(9470:9470): el mensaje: ok 
+ se pudo enviar
+[INFO] 05:22:11:811 cpu/(9470:9470): el paquete pesa 74 bytes 
+
+[INFO] 05:22:11:812 cpu/(9470:9470): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 05:22:11:812 cpu/(9470:9470): Se envia el paquete
+
+[INFO] 05:22:11:814 cpu/(9470:9470): el mensaje: ok 
+ se pudo enviar
+[INFO] 05:22:21:810 cpu/(9470:9470): mensaje recibido el encabezado
+
+[INFO] 05:22:21:848 cpu/(9470:9470): mensaje recibido payload recibido
+
+[INFO] 05:22:21:849 cpu/(9470:9470): id:1000
+
+[INFO] 05:22:21:849 cpu/(9470:9470): flag:1
+
+[INFO] 05:22:21:849 cpu/(9470:9470): estado:2
+
+[INFO] 05:22:21:849 cpu/(9470:9470): PC:0
+
+[INFO] 05:22:21:849 cpu/(9470:9470): Quantum:2
+
+[INFO] 05:22:21:849 cpu/(9470:9470): Puntero a memoria:0
+
+[INFO] 05:22:21:850 cpu/(9470:9470): operaciones IO:3
+
+[INFO] 05:22:21:850 cpu/(9470:9470): Path:/scripts/complejo.escriptorio
+
+[INFO] 05:22:21:850 cpu/(9470:9470): tabla de direcciones:
+
+[INFO] 05:22:21:850 cpu/(9470:9470): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 05:22:21:851 cpu/(9470:9470): Ejecutando el DTB 1000
+[INFO] 05:22:35:22 cpu/(9470:9470): accion:crear
+[INFO] 05:22:35:22 cpu/(9470:9470): parametros:/equipos/Rafaela 5
+[INFO] 05:22:35:22 cpu/(9470:9470): el path es /equipos/Rafaela
+[INFO] 05:22:35:22 cpu/(9470:9470): el numero de lineas es 134536808
+[INFO] 05:22:35:22 cpu/(9470:9470): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 05:22:35:22 cpu/(9470:9470): paquete con id,cantidadLineas y path mandado al diego
+[INFO] 05:22:35:22 cpu/(9470:9470): el paquete pesa 74 bytes 
+
+[INFO] 05:22:35:22 cpu/(9470:9470): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 05:22:35:23 cpu/(9470:9470): Se envia el paquete
+
+[INFO] 05:22:35:23 cpu/(9470:9470): el mensaje: ok 
+ se pudo enviar
+[INFO] 05:22:40:27 cpu/(9470:9470): mensaje recibido el encabezado
+
+[INFO] 05:22:40:27 cpu/(9470:9470): mensaje recibido payload recibido
+
+[INFO] 05:22:40:27 cpu/(9470:9470): id:1000
+
+[INFO] 05:22:40:27 cpu/(9470:9470): flag:1
+
+[INFO] 05:22:40:27 cpu/(9470:9470): estado:2
+
+[INFO] 05:22:40:27 cpu/(9470:9470): PC:1
+
+[INFO] 05:22:40:28 cpu/(9470:9470): Quantum:1
+
+[INFO] 05:22:40:28 cpu/(9470:9470): Puntero a memoria:0
+
+[INFO] 05:22:40:28 cpu/(9470:9470): operaciones IO:3
+
+[INFO] 05:22:40:28 cpu/(9470:9470): Path:/scripts/complejo.escriptorio
+
+[INFO] 05:22:40:28 cpu/(9470:9470): tabla de direcciones:
+
+[INFO] 05:22:40:28 cpu/(9470:9470): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 05:22:40:69 cpu/(9470:9470): Ejecutando el DTB 1000
+[INFO] 05:22:45:69 cpu/(9470:9470): accion:abrir
+[INFO] 05:22:45:70 cpu/(9470:9470): parametros:/equipos/Rafaela
+[INFO] 05:22:45:70 cpu/(9470:9470): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 05:22:45:70 cpu/(9470:9470): paquete con id y path mandado al diego
+[INFO] 05:22:45:70 cpu/(9470:9470): el paquete pesa 74 bytes 
+
+[INFO] 05:22:45:70 cpu/(9470:9470): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 05:22:45:70 cpu/(9470:9470): Se envia el paquete
+
+[INFO] 05:22:45:70 cpu/(9470:9470): el mensaje: ok 
+ se pudo enviar
+[INFO] 05:22:50:186 cpu/(9470:9470): mensaje recibido el encabezado
+
+[INFO] 05:22:50:186 cpu/(9470:9470): mensaje recibido payload recibido
+
+[INFO] 05:22:50:186 cpu/(9470:9470): id:1000
+
+[INFO] 05:22:50:186 cpu/(9470:9470): flag:1
+
+[INFO] 05:22:50:186 cpu/(9470:9470): estado:2
+
+[INFO] 05:22:50:186 cpu/(9470:9470): PC:2
+
+[INFO] 05:22:50:186 cpu/(9470:9470): Quantum:2
+
+[INFO] 05:22:50:186 cpu/(9470:9470): Puntero a memoria:0
+
+[INFO] 05:22:50:186 cpu/(9470:9470): operaciones IO:3
+
+[INFO] 05:22:50:186 cpu/(9470:9470): Path:/scripts/complejo.escriptorio
+
+[INFO] 05:22:50:186 cpu/(9470:9470): tabla de direcciones:
+
+[INFO] 05:22:50:186 cpu/(9470:9470): posicion de la lista 0
+[INFO] 05:22:50:186 cpu/(9470:9470): espacio en memoria:1
+[INFO] 05:22:50:186 cpu/(9470:9470): path:/equipos/Rafaela
+
+[INFO] 05:22:50:186 cpu/(9470:9470): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 05:22:50:224 cpu/(9470:9470): Ejecutando el DTB 1000
+[INFO] 05:22:55:225 cpu/(9470:9470): accion:asignar
+[INFO] 05:22:55:225 cpu/(9470:9470): parametros:/equipos/Rafaela 1 Atletico Rafaela
+[INFO] 05:25:12:488 cpu/(9470:9470): Pasando los datos para la modificacion a FM9
+[INFO] 16:57:39:596 cpu/(17600:17600): Conectado!
+[INFO] 16:57:39:603 cpu/(17600:17600): Conectado!
+[INFO] 16:57:39:604 cpu/(17600:17600): Conectado!
+[INFO] 16:57:49:610 cpu/(17600:17600): mensaje recibido el encabezado
+
+[INFO] 16:57:49:611 cpu/(17600:17600): mensaje recibido payload recibido
+
+[INFO] 16:57:49:611 cpu/(17600:17600): id:1000
+
+[INFO] 16:57:49:611 cpu/(17600:17600): flag:0
+
+[INFO] 16:57:49:611 cpu/(17600:17600): estado:0
+
+[INFO] 16:57:49:611 cpu/(17600:17600): PC:0
+
+[INFO] 16:57:49:611 cpu/(17600:17600): Quantum:2
+
+[INFO] 16:57:49:612 cpu/(17600:17600): Puntero a memoria:0
+
+[INFO] 16:57:49:612 cpu/(17600:17600): operaciones IO:0
+
+[INFO] 16:57:49:613 cpu/(17600:17600): Path:/scripts/simple.escriptorio
+
+[INFO] 16:57:49:613 cpu/(17600:17600): tabla de direcciones:
+
+[INFO] 16:57:49:614 cpu/(17600:17600): El DTB es el Dummy
+[INFO] 16:57:49:614 cpu/(17600:17600): el paquete pesa 72 bytes 
+
+[INFO] 16:57:49:614 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:57:49:615 cpu/(17600:17600): Se envia el paquete
+
+[INFO] 16:57:49:615 cpu/(17600:17600): el mensaje: ok 
+ se pudo enviar
+[INFO] 16:57:49:615 cpu/(17600:17600): el paquete pesa 72 bytes 
+
+[INFO] 16:57:49:615 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:57:49:615 cpu/(17600:17600): Se envia el paquete
+
+[INFO] 16:57:49:615 cpu/(17600:17600): el mensaje: ok 
+ se pudo enviar
+[INFO] 16:57:59:610 cpu/(17600:17600): mensaje recibido el encabezado
+
+[INFO] 16:57:59:650 cpu/(17600:17600): mensaje recibido payload recibido
+
+[INFO] 16:57:59:650 cpu/(17600:17600): id:1000
+
+[INFO] 16:57:59:650 cpu/(17600:17600): flag:1
+
+[INFO] 16:57:59:650 cpu/(17600:17600): estado:2
+
+[INFO] 16:57:59:650 cpu/(17600:17600): PC:0
+
+[INFO] 16:57:59:650 cpu/(17600:17600): Quantum:2
+
+[INFO] 16:57:59:650 cpu/(17600:17600): Puntero a memoria:0
+
+[INFO] 16:57:59:651 cpu/(17600:17600): operaciones IO:1
+
+[INFO] 16:57:59:651 cpu/(17600:17600): Path:/scripts/simple.escriptorio
+
+[INFO] 16:57:59:651 cpu/(17600:17600): tabla de direcciones:
+
+[INFO] 16:57:59:651 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:58:16:468 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:58:21:468 cpu/(17600:17600): accion:abrir
+[INFO] 16:58:21:469 cpu/(17600:17600): parametros:/scripts/complejo.escriptorio
+[INFO] 16:58:21:469 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:58:21:469 cpu/(17600:17600): paquete con id y path mandado al diego
+[INFO] 16:58:21:469 cpu/(17600:17600): el paquete pesa 72 bytes 
+
+[INFO] 16:58:21:469 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:58:21:469 cpu/(17600:17600): Se envia el paquete
+
+[INFO] 16:58:21:469 cpu/(17600:17600): el mensaje: ok 
+ se pudo enviar
+[INFO] 16:58:27:253 cpu/(17600:17600): mensaje recibido el encabezado
+
+[INFO] 16:58:27:253 cpu/(17600:17600): mensaje recibido payload recibido
+
+[INFO] 16:58:27:253 cpu/(17600:17600): id:1000
+
+[INFO] 16:58:27:253 cpu/(17600:17600): flag:1
+
+[INFO] 16:58:27:253 cpu/(17600:17600): estado:2
+
+[INFO] 16:58:27:253 cpu/(17600:17600): PC:1
+
+[INFO] 16:58:27:253 cpu/(17600:17600): Quantum:1
+
+[INFO] 16:58:27:254 cpu/(17600:17600): Puntero a memoria:0
+
+[INFO] 16:58:27:254 cpu/(17600:17600): operaciones IO:1
+
+[INFO] 16:58:27:254 cpu/(17600:17600): Path:/scripts/simple.escriptorio
+
+[INFO] 16:58:27:254 cpu/(17600:17600): tabla de direcciones:
+
+[INFO] 16:58:27:254 cpu/(17600:17600): posicion de la lista 0
+[INFO] 16:58:27:254 cpu/(17600:17600): espacio en memoria:4
+[INFO] 16:58:27:254 cpu/(17600:17600): path:/scripts/complejo.escriptorio
+
+[INFO] 16:58:27:254 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:58:29:968 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:58:34:968 cpu/(17600:17600): accion:concentrar
+[INFO] 16:58:34:969 cpu/(17600:17600): parametros:(null)
+[INFO] 16:58:34:969 cpu/(17600:17600): el paquete pesa 110 bytes 
+
+[INFO] 16:58:34:973 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:58:34:974 cpu/(17600:17600): Se envia el paquete
+
+[INFO] 16:58:34:975 cpu/(17600:17600): el mensaje: ok 
+ se pudo enviar
+[INFO] 16:58:37:254 cpu/(17600:17600): mensaje recibido el encabezado
+
+[INFO] 16:58:37:254 cpu/(17600:17600): mensaje recibido payload recibido
+
+[INFO] 16:58:37:254 cpu/(17600:17600): id:1000
+
+[INFO] 16:58:37:254 cpu/(17600:17600): flag:1
+
+[INFO] 16:58:37:254 cpu/(17600:17600): estado:2
+
+[INFO] 16:58:37:254 cpu/(17600:17600): PC:2
+
+[INFO] 16:58:37:254 cpu/(17600:17600): Quantum:2
+
+[INFO] 16:58:37:254 cpu/(17600:17600): Puntero a memoria:0
+
+[INFO] 16:58:37:254 cpu/(17600:17600): operaciones IO:1
+
+[INFO] 16:58:37:254 cpu/(17600:17600): Path:/scripts/simple.escriptorio
+
+[INFO] 16:58:37:254 cpu/(17600:17600): tabla de direcciones:
+
+[INFO] 16:58:37:254 cpu/(17600:17600): posicion de la lista 0
+[INFO] 16:58:37:254 cpu/(17600:17600): espacio en memoria:4
+[INFO] 16:58:37:254 cpu/(17600:17600): path:/scripts/complejo.escriptorio
+
+[INFO] 16:58:37:254 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:58:42:861 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:58:47:861 cpu/(17600:17600): accion:asignar
+[INFO] 16:58:47:862 cpu/(17600:17600): parametros:/scripts/complejo.escriptorio 1 Soy invalido
+[INFO] 16:58:47:862 cpu/(17600:17600): Pasando los datos para la modificacion a FM9
+[INFO] 16:58:48:864 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:58:52:76 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:58:57:77 cpu/(17600:17600): accion:concentrar
+[INFO] 16:58:57:77 cpu/(17600:17600): parametros:(null)
+[INFO] 16:58:57:78 cpu/(17600:17600): el paquete pesa 110 bytes 
+
+[INFO] 16:58:57:81 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:58:57:82 cpu/(17600:17600): Se envia el paquete
+
+[INFO] 16:58:57:82 cpu/(17600:17600): el mensaje: ok 
+ se pudo enviar
+[INFO] 16:58:57:83 cpu/(17600:17600): mensaje recibido el encabezado
+
+[INFO] 16:58:57:83 cpu/(17600:17600): mensaje recibido payload recibido
+
+[INFO] 16:58:57:84 cpu/(17600:17600): id:1000
+
+[INFO] 16:58:57:84 cpu/(17600:17600): flag:1
+
+[INFO] 16:58:57:84 cpu/(17600:17600): estado:2
+
+[INFO] 16:58:57:84 cpu/(17600:17600): PC:4
+
+[INFO] 16:58:57:84 cpu/(17600:17600): Quantum:2
+
+[INFO] 16:58:57:84 cpu/(17600:17600): Puntero a memoria:0
+
+[INFO] 16:58:57:85 cpu/(17600:17600): operaciones IO:1
+
+[INFO] 16:58:57:85 cpu/(17600:17600): Path:/scripts/simple.escriptorio
+
+[INFO] 16:58:57:86 cpu/(17600:17600): tabla de direcciones:
+
+[INFO] 16:58:57:86 cpu/(17600:17600): posicion de la lista 0
+[INFO] 16:58:57:86 cpu/(17600:17600): espacio en memoria:4
+[INFO] 16:58:57:86 cpu/(17600:17600): path:/scripts/complejo.escriptorio
+
+[INFO] 16:58:57:88 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:58:59:139 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:59:04:140 cpu/(17600:17600): accion:close
+[INFO] 16:59:04:141 cpu/(17600:17600): parametros:/scripts/complejo.escriptorio
+[INFO] 16:59:04:141 cpu/(17600:17600): Pasando los datos para liberar la memoria a FM9
+[INFO] 16:59:04:145 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:59:08:343 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:59:13:344 cpu/(17600:17600): accion:concentrar
+[INFO] 16:59:13:345 cpu/(17600:17600): parametros:(null)
+[INFO] 16:59:13:345 cpu/(17600:17600): el paquete pesa 72 bytes 
+
+[INFO] 16:59:13:347 cpu/(17600:17600): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 16:59:13:349 cpu/(17600:17600): Se envia el paquete
+
+[INFO] 16:59:13:349 cpu/(17600:17600): el mensaje: ok 
+ se pudo enviar
+[INFO] 16:59:13:385 cpu/(17600:17600): mensaje recibido el encabezado
+
+[INFO] 16:59:13:385 cpu/(17600:17600): mensaje recibido payload recibido
+
+[INFO] 16:59:13:385 cpu/(17600:17600): id:1000
+
+[INFO] 16:59:13:385 cpu/(17600:17600): flag:1
+
+[INFO] 16:59:13:385 cpu/(17600:17600): estado:2
+
+[INFO] 16:59:13:385 cpu/(17600:17600): PC:6
+
+[INFO] 16:59:13:385 cpu/(17600:17600): Quantum:2
+
+[INFO] 16:59:13:385 cpu/(17600:17600): Puntero a memoria:0
+
+[INFO] 16:59:13:385 cpu/(17600:17600): operaciones IO:1
+
+[INFO] 16:59:13:385 cpu/(17600:17600): Path:/scripts/simple.escriptorio
+
+[INFO] 16:59:13:385 cpu/(17600:17600): tabla de direcciones:
+
+[INFO] 16:59:13:385 cpu/(17600:17600): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 16:59:17:769 cpu/(17600:17600): Ejecutando el DTB 1000
+[INFO] 16:59:38:71 cpu/(17600:17600): accion:(null)
+[INFO] 16:59:42:986 cpu/(17600:17600): parametros:(null)
+[INFO] 17:06:44:875 cpu/(17967:17967): Conectado!
+[INFO] 17:06:44:875 cpu/(17967:17967): Conectado!
+[INFO] 17:06:44:876 cpu/(17967:17967): Conectado!
+[INFO] 17:06:54:882 cpu/(17967:17967): mensaje recibido el encabezado
+
+[INFO] 17:06:54:882 cpu/(17967:17967): mensaje recibido payload recibido
+
+[INFO] 17:06:54:882 cpu/(17967:17967): id:1000
+
+[INFO] 17:06:54:883 cpu/(17967:17967): flag:0
+
+[INFO] 17:06:54:883 cpu/(17967:17967): estado:0
+
+[INFO] 17:06:54:883 cpu/(17967:17967): PC:0
+
+[INFO] 17:06:54:883 cpu/(17967:17967): Quantum:2
+
+[INFO] 17:06:54:883 cpu/(17967:17967): Puntero a memoria:0
+
+[INFO] 17:06:54:883 cpu/(17967:17967): operaciones IO:0
+
+[INFO] 17:06:54:883 cpu/(17967:17967): Path:/scripts/simple.escriptorio
+
+[INFO] 17:06:54:883 cpu/(17967:17967): tabla de direcciones:
+
+[INFO] 17:06:54:883 cpu/(17967:17967): El DTB es el Dummy
+[INFO] 17:06:54:883 cpu/(17967:17967): el paquete pesa 72 bytes 
+
+[INFO] 17:06:54:883 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:06:54:883 cpu/(17967:17967): Se envia el paquete
+
+[INFO] 17:06:54:883 cpu/(17967:17967): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:06:54:883 cpu/(17967:17967): el paquete pesa 72 bytes 
+
+[INFO] 17:06:54:883 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:06:54:883 cpu/(17967:17967): Se envia el paquete
+
+[INFO] 17:06:54:883 cpu/(17967:17967): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:07:04:885 cpu/(17967:17967): mensaje recibido el encabezado
+
+[INFO] 17:07:04:925 cpu/(17967:17967): mensaje recibido payload recibido
+
+[INFO] 17:07:04:926 cpu/(17967:17967): id:1000
+
+[INFO] 17:07:04:926 cpu/(17967:17967): flag:1
+
+[INFO] 17:07:04:927 cpu/(17967:17967): estado:2
+
+[INFO] 17:07:04:927 cpu/(17967:17967): PC:0
+
+[INFO] 17:07:04:927 cpu/(17967:17967): Quantum:2
+
+[INFO] 17:07:04:927 cpu/(17967:17967): Puntero a memoria:0
+
+[INFO] 17:07:04:927 cpu/(17967:17967): operaciones IO:1
+
+[INFO] 17:07:04:928 cpu/(17967:17967): Path:/scripts/simple.escriptorio
+
+[INFO] 17:07:04:928 cpu/(17967:17967): tabla de direcciones:
+
+[INFO] 17:07:04:933 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:07:31:695 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 17:07:36:695 cpu/(17967:17967): accion:abrir
+[INFO] 17:07:36:695 cpu/(17967:17967): parametros:/scripts/complejo.escriptorio
+[INFO] 17:07:36:695 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:07:36:695 cpu/(17967:17967): paquete con id y path mandado al diego
+[INFO] 17:07:36:695 cpu/(17967:17967): el paquete pesa 72 bytes 
+
+[INFO] 17:07:36:695 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:07:36:695 cpu/(17967:17967): Se envia el paquete
+
+[INFO] 17:07:36:695 cpu/(17967:17967): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:07:42:483 cpu/(17967:17967): mensaje recibido el encabezado
+
+[INFO] 17:07:42:483 cpu/(17967:17967): mensaje recibido payload recibido
+
+[INFO] 17:07:42:483 cpu/(17967:17967): id:1000
+
+[INFO] 17:07:42:483 cpu/(17967:17967): flag:1
+
+[INFO] 17:07:42:483 cpu/(17967:17967): estado:2
+
+[INFO] 17:07:42:483 cpu/(17967:17967): PC:1
+
+[INFO] 17:07:42:483 cpu/(17967:17967): Quantum:1
+
+[INFO] 17:07:42:483 cpu/(17967:17967): Puntero a memoria:0
+
+[INFO] 17:07:42:483 cpu/(17967:17967): operaciones IO:1
+
+[INFO] 17:07:42:483 cpu/(17967:17967): Path:/scripts/simple.escriptorio
+
+[INFO] 17:07:42:483 cpu/(17967:17967): tabla de direcciones:
+
+[INFO] 17:07:42:483 cpu/(17967:17967): posicion de la lista 0
+[INFO] 17:07:42:483 cpu/(17967:17967): espacio en memoria:1
+[INFO] 17:07:42:483 cpu/(17967:17967): path:/scripts/complejo.escriptorio
+
+[INFO] 17:07:42:483 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:08:40:622 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 17:08:45:623 cpu/(17967:17967): accion:concentrar
+[INFO] 17:08:45:623 cpu/(17967:17967): parametros:(null)
+[INFO] 17:08:45:623 cpu/(17967:17967): el paquete pesa 110 bytes 
+
+[INFO] 17:08:45:623 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:08:45:623 cpu/(17967:17967): Se envia el paquete
+
+[INFO] 17:08:45:623 cpu/(17967:17967): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:08:45:623 cpu/(17967:17967): mensaje recibido el encabezado
+
+[INFO] 17:08:45:623 cpu/(17967:17967): mensaje recibido payload recibido
+
+[INFO] 17:08:45:623 cpu/(17967:17967): id:1000
+
+[INFO] 17:08:45:624 cpu/(17967:17967): flag:1
+
+[INFO] 17:08:45:624 cpu/(17967:17967): estado:2
+
+[INFO] 17:08:45:624 cpu/(17967:17967): PC:2
+
+[INFO] 17:08:45:624 cpu/(17967:17967): Quantum:2
+
+[INFO] 17:08:45:624 cpu/(17967:17967): Puntero a memoria:0
+
+[INFO] 17:08:45:624 cpu/(17967:17967): operaciones IO:1
+
+[INFO] 17:08:45:624 cpu/(17967:17967): Path:/scripts/simple.escriptorio
+
+[INFO] 17:08:45:624 cpu/(17967:17967): tabla de direcciones:
+
+[INFO] 17:08:45:624 cpu/(17967:17967): posicion de la lista 0
+[INFO] 17:08:45:624 cpu/(17967:17967): espacio en memoria:1
+[INFO] 17:08:45:624 cpu/(17967:17967): path:/scripts/complejo.escriptorio
+
+[INFO] 17:08:45:624 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:08:49:321 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 17:08:54:321 cpu/(17967:17967): accion:asignar
+[INFO] 17:08:54:322 cpu/(17967:17967): parametros:/scripts/complejo.escriptorio 1 Soy invalido
+[INFO] 17:08:54:322 cpu/(17967:17967): Pasando los datos para la modificacion a FM9
+[INFO] 17:08:55:329 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:08:57:251 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 17:09:02:252 cpu/(17967:17967): accion:concentrar
+[INFO] 17:09:02:252 cpu/(17967:17967): parametros:(null)
+[INFO] 17:09:02:252 cpu/(17967:17967): el paquete pesa 110 bytes 
+
+[INFO] 17:09:02:253 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:09:02:253 cpu/(17967:17967): Se envia el paquete
+
+[INFO] 17:09:02:253 cpu/(17967:17967): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:09:02:294 cpu/(17967:17967): mensaje recibido el encabezado
+
+[INFO] 17:09:02:294 cpu/(17967:17967): mensaje recibido payload recibido
+
+[INFO] 17:09:02:294 cpu/(17967:17967): id:1000
+
+[INFO] 17:09:02:294 cpu/(17967:17967): flag:1
+
+[INFO] 17:09:02:294 cpu/(17967:17967): estado:2
+
+[INFO] 17:09:02:294 cpu/(17967:17967): PC:4
+
+[INFO] 17:09:02:294 cpu/(17967:17967): Quantum:2
+
+[INFO] 17:09:02:294 cpu/(17967:17967): Puntero a memoria:0
+
+[INFO] 17:09:02:294 cpu/(17967:17967): operaciones IO:1
+
+[INFO] 17:09:02:294 cpu/(17967:17967): Path:/scripts/simple.escriptorio
+
+[INFO] 17:09:02:294 cpu/(17967:17967): tabla de direcciones:
+
+[INFO] 17:09:02:295 cpu/(17967:17967): posicion de la lista 0
+[INFO] 17:09:02:295 cpu/(17967:17967): espacio en memoria:1
+[INFO] 17:09:02:295 cpu/(17967:17967): path:/scripts/complejo.escriptorio
+
+[INFO] 17:09:02:295 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:09:04:540 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 17:09:09:541 cpu/(17967:17967): accion:close
+[INFO] 17:09:09:541 cpu/(17967:17967): parametros:/scripts/complejo.escriptorio
+[INFO] 17:09:09:541 cpu/(17967:17967): Pasando los datos para liberar la memoria a FM9
+[INFO] 17:09:09:542 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:09:16:474 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 17:09:21:474 cpu/(17967:17967): accion:concentrar
+[INFO] 17:09:21:475 cpu/(17967:17967): parametros:(null)
+[INFO] 17:09:21:475 cpu/(17967:17967): el paquete pesa 72 bytes 
+
+[INFO] 17:09:21:476 cpu/(17967:17967): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 17:09:21:476 cpu/(17967:17967): Se envia el paquete
+
+[INFO] 17:09:21:476 cpu/(17967:17967): el mensaje: ok 
+ se pudo enviar
+[INFO] 17:09:21:515 cpu/(17967:17967): mensaje recibido el encabezado
+
+[INFO] 17:09:21:516 cpu/(17967:17967): mensaje recibido payload recibido
+
+[INFO] 17:09:21:517 cpu/(17967:17967): id:1000
+
+[INFO] 17:09:21:517 cpu/(17967:17967): flag:1
+
+[INFO] 17:09:21:517 cpu/(17967:17967): estado:2
+
+[INFO] 17:09:21:518 cpu/(17967:17967): PC:6
+
+[INFO] 17:09:21:518 cpu/(17967:17967): Quantum:2
+
+[INFO] 17:09:21:518 cpu/(17967:17967): Puntero a memoria:0
+
+[INFO] 17:09:21:519 cpu/(17967:17967): operaciones IO:1
+
+[INFO] 17:09:21:519 cpu/(17967:17967): Path:/scripts/simple.escriptorio
+
+[INFO] 17:09:21:519 cpu/(17967:17967): tabla de direcciones:
+
+[INFO] 17:09:21:522 cpu/(17967:17967): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 17:09:29:680 cpu/(17967:17967): Ejecutando el DTB 1000
+[INFO] 22:51:01:453 cpu/(5679:5679): Conectado!
+[INFO] 22:51:01:467 cpu/(5679:5679): Conectado!
+[INFO] 22:51:01:468 cpu/(5679:5679): Conectado!
+[INFO] 22:51:29:189 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:51:29:189 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:51:29:189 cpu/(5679:5679): id:1000
+
+[INFO] 22:51:29:189 cpu/(5679:5679): flag:0
+
+[INFO] 22:51:29:189 cpu/(5679:5679): estado:0
+
+[INFO] 22:51:29:189 cpu/(5679:5679): PC:0
+
+[INFO] 22:51:29:189 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:51:29:189 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:51:29:189 cpu/(5679:5679): operaciones IO:0
+
+[INFO] 22:51:29:189 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:51:29:189 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:51:29:189 cpu/(5679:5679): El DTB es el Dummy
+[INFO] 22:51:29:189 cpu/(5679:5679): el paquete pesa 79 bytes 
+
+[INFO] 22:51:29:189 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:51:29:189 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:51:29:189 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:51:29:189 cpu/(5679:5679): el paquete pesa 79 bytes 
+
+[INFO] 22:51:29:189 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:51:29:189 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:51:29:189 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:51:39:190 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:51:39:226 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:51:39:226 cpu/(5679:5679): id:1000
+
+[INFO] 22:51:39:226 cpu/(5679:5679): flag:1
+
+[INFO] 22:51:39:226 cpu/(5679:5679): estado:2
+
+[INFO] 22:51:39:226 cpu/(5679:5679): PC:0
+
+[INFO] 22:51:39:226 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:51:39:226 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:51:39:226 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:51:39:226 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:51:39:226 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:51:49:219 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:51:49:220 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:51:49:221 cpu/(5679:5679): accion:abrir
+[INFO] 22:51:49:221 cpu/(5679:5679): parametros:/scripts/simple.escriptorio
+[INFO] 22:51:49:221 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:51:49:221 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:51:49:221 cpu/(5679:5679): el paquete pesa 79 bytes 
+
+[INFO] 22:51:49:221 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:51:49:221 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:51:49:221 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:51:55:12 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:51:55:12 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:51:55:12 cpu/(5679:5679): id:1000
+
+[INFO] 22:51:55:12 cpu/(5679:5679): flag:1
+
+[INFO] 22:51:55:12 cpu/(5679:5679): estado:2
+
+[INFO] 22:51:55:12 cpu/(5679:5679): PC:1
+
+[INFO] 22:51:55:12 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:51:55:12 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:51:55:12 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:51:55:12 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:51:55:12 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:51:55:12 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:51:55:12 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:51:55:12 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:52:04:491 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:04:531 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:52:04:532 cpu/(5679:5679): accion:abrir
+[INFO] 22:52:04:532 cpu/(5679:5679): parametros:/scripts/los_borrachos.escriptorio
+[INFO] 22:52:04:532 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:04:532 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:52:04:532 cpu/(5679:5679): el paquete pesa 115 bytes 
+
+[INFO] 22:52:04:532 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:04:532 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:52:04:532 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:52:10:239 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:52:10:239 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:52:10:239 cpu/(5679:5679): id:1000
+
+[INFO] 22:52:10:239 cpu/(5679:5679): flag:1
+
+[INFO] 22:52:10:239 cpu/(5679:5679): estado:2
+
+[INFO] 22:52:10:239 cpu/(5679:5679): PC:2
+
+[INFO] 22:52:10:239 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:52:10:239 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:52:10:239 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:52:10:239 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:52:10:239 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:52:10:239 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:52:10:239 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:52:10:239 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:52:10:239 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:52:10:239 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:52:10:239 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:52:10:239 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:10:279 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:52:10:279 cpu/(5679:5679): accion:abrir
+[INFO] 22:52:10:279 cpu/(5679:5679): parametros:/scripts/la_12.escriptorio
+[INFO] 22:52:10:279 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:10:279 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:52:10:279 cpu/(5679:5679): el paquete pesa 158 bytes 
+
+[INFO] 22:52:10:279 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:10:279 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:52:10:279 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:52:20:239 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:52:20:239 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:52:20:239 cpu/(5679:5679): id:1000
+
+[INFO] 22:52:20:239 cpu/(5679:5679): flag:1
+
+[INFO] 22:52:20:239 cpu/(5679:5679): estado:2
+
+[INFO] 22:52:20:239 cpu/(5679:5679): PC:3
+
+[INFO] 22:52:20:239 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:52:20:239 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:52:20:239 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:52:20:239 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:52:20:239 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:52:20:239 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:52:20:239 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:52:20:239 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:52:20:239 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:52:20:239 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:52:20:239 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:52:20:239 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:52:20:239 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:52:20:239 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:52:20:239 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:20:279 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:52:20:280 cpu/(5679:5679): accion:abrir
+[INFO] 22:52:20:280 cpu/(5679:5679): parametros:/scripts/io_bound.escriptorio
+[INFO] 22:52:20:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:20:280 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:52:20:280 cpu/(5679:5679): el paquete pesa 193 bytes 
+
+[INFO] 22:52:20:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:20:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:52:20:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:52:30:240 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:52:30:240 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:52:30:240 cpu/(5679:5679): id:1000
+
+[INFO] 22:52:30:240 cpu/(5679:5679): flag:1
+
+[INFO] 22:52:30:240 cpu/(5679:5679): estado:2
+
+[INFO] 22:52:30:240 cpu/(5679:5679): PC:4
+
+[INFO] 22:52:30:240 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:52:30:240 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:52:30:240 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:52:30:240 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:52:30:240 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:52:30:240 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:52:30:240 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:52:30:240 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:52:30:240 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:52:30:240 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:52:30:240 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:52:30:240 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:52:30:240 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:52:30:240 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:52:30:240 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:52:30:240 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:52:30:240 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:52:30:240 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:30:279 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:52:30:280 cpu/(5679:5679): accion:abrir
+[INFO] 22:52:30:280 cpu/(5679:5679): parametros:/scripts/cpu_bound.escriptorio
+[INFO] 22:52:30:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:30:280 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:52:30:280 cpu/(5679:5679): el paquete pesa 231 bytes 
+
+[INFO] 22:52:30:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:30:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:52:30:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:52:40:240 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:52:40:240 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:52:40:240 cpu/(5679:5679): id:1000
+
+[INFO] 22:52:40:240 cpu/(5679:5679): flag:1
+
+[INFO] 22:52:40:240 cpu/(5679:5679): estado:2
+
+[INFO] 22:52:40:240 cpu/(5679:5679): PC:5
+
+[INFO] 22:52:40:240 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:52:40:240 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:52:40:240 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:52:40:240 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:52:40:240 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:52:40:240 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:52:40:240 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:52:40:240 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:52:40:240 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:52:40:240 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:52:40:240 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:52:40:240 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:52:40:240 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:52:40:240 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:52:40:240 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:52:40:240 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:52:40:240 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:52:40:240 cpu/(5679:5679): posicion de la lista 4
+[INFO] 22:52:40:240 cpu/(5679:5679): espacio en memoria:5
+[INFO] 22:52:40:240 cpu/(5679:5679): path:/scripts/cpu_bound.escriptorio
+
+[INFO] 22:52:40:241 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:40:279 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:52:40:280 cpu/(5679:5679): accion:abrir
+[INFO] 22:52:40:280 cpu/(5679:5679): parametros:/scripts/inter.escriptorio
+[INFO] 22:52:40:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:40:280 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:52:40:280 cpu/(5679:5679): el paquete pesa 270 bytes 
+
+[INFO] 22:52:40:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:40:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:52:40:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:52:50:241 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:52:50:241 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:52:50:241 cpu/(5679:5679): id:1000
+
+[INFO] 22:52:50:241 cpu/(5679:5679): flag:1
+
+[INFO] 22:52:50:241 cpu/(5679:5679): estado:2
+
+[INFO] 22:52:50:241 cpu/(5679:5679): PC:6
+
+[INFO] 22:52:50:241 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:52:50:241 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:52:50:241 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:52:50:241 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:52:50:241 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:52:50:241 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:52:50:241 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:52:50:241 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:52:50:241 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:52:50:241 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:52:50:241 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:52:50:241 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:52:50:241 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): posicion de la lista 4
+[INFO] 22:52:50:241 cpu/(5679:5679): espacio en memoria:5
+[INFO] 22:52:50:241 cpu/(5679:5679): path:/scripts/cpu_bound.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): posicion de la lista 5
+[INFO] 22:52:50:241 cpu/(5679:5679): espacio en memoria:6
+[INFO] 22:52:50:241 cpu/(5679:5679): path:/scripts/inter.escriptorio
+
+[INFO] 22:52:50:241 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:52:50:279 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:52:50:279 cpu/(5679:5679): accion:abrir
+[INFO] 22:52:50:280 cpu/(5679:5679): parametros:/scripts/bloqueo.escriptorio
+[INFO] 22:52:50:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:50:280 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:52:50:280 cpu/(5679:5679): el paquete pesa 305 bytes 
+
+[INFO] 22:52:50:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:52:50:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:52:50:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:53:00:242 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:53:00:242 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:53:00:242 cpu/(5679:5679): id:1000
+
+[INFO] 22:53:00:242 cpu/(5679:5679): flag:1
+
+[INFO] 22:53:00:242 cpu/(5679:5679): estado:2
+
+[INFO] 22:53:00:242 cpu/(5679:5679): PC:7
+
+[INFO] 22:53:00:242 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:53:00:242 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:53:00:242 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:53:00:242 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 4
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:5
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/cpu_bound.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 5
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:6
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/inter.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): posicion de la lista 6
+[INFO] 22:53:00:242 cpu/(5679:5679): espacio en memoria:7
+[INFO] 22:53:00:242 cpu/(5679:5679): path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:53:00:242 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:53:00:280 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:53:00:280 cpu/(5679:5679): accion:abrir
+[INFO] 22:53:00:280 cpu/(5679:5679): parametros:/scripts/crear_basura.escriptorio
+[INFO] 22:53:00:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:53:00:280 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:53:00:280 cpu/(5679:5679): el paquete pesa 342 bytes 
+
+[INFO] 22:53:00:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:53:00:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:53:00:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:53:10:242 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:53:10:242 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:53:10:242 cpu/(5679:5679): id:1000
+
+[INFO] 22:53:10:242 cpu/(5679:5679): flag:1
+
+[INFO] 22:53:10:242 cpu/(5679:5679): estado:2
+
+[INFO] 22:53:10:242 cpu/(5679:5679): PC:8
+
+[INFO] 22:53:10:242 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:53:10:242 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:53:10:242 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:53:10:242 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 4
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:5
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/cpu_bound.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 5
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:6
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/inter.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 6
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:7
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): posicion de la lista 7
+[INFO] 22:53:10:242 cpu/(5679:5679): espacio en memoria:8
+[INFO] 22:53:10:242 cpu/(5679:5679): path:/scripts/crear_basura.escriptorio
+
+[INFO] 22:53:10:242 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:53:10:280 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:53:10:280 cpu/(5679:5679): accion:abrir
+[INFO] 22:53:10:280 cpu/(5679:5679): parametros:/scripts/complejo.escriptorio
+[INFO] 22:53:10:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:53:10:280 cpu/(5679:5679): paquete con id y path mandado al diego
+[INFO] 22:53:10:280 cpu/(5679:5679): el paquete pesa 384 bytes 
+
+[INFO] 22:53:10:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:53:10:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:53:10:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:53:20:242 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:53:20:242 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:53:20:242 cpu/(5679:5679): id:1000
+
+[INFO] 22:53:20:242 cpu/(5679:5679): flag:1
+
+[INFO] 22:53:20:242 cpu/(5679:5679): estado:2
+
+[INFO] 22:53:20:242 cpu/(5679:5679): PC:9
+
+[INFO] 22:53:20:242 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:53:20:242 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:53:20:242 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:53:20:242 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 4
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:5
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/cpu_bound.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 5
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:6
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/inter.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 6
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:7
+[INFO] 22:53:20:242 cpu/(5679:5679): path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:53:20:242 cpu/(5679:5679): posicion de la lista 7
+[INFO] 22:53:20:242 cpu/(5679:5679): espacio en memoria:8
+[INFO] 22:53:20:243 cpu/(5679:5679): path:/scripts/crear_basura.escriptorio
+
+[INFO] 22:53:20:243 cpu/(5679:5679): posicion de la lista 8
+[INFO] 22:53:20:243 cpu/(5679:5679): espacio en memoria:9
+[INFO] 22:53:20:243 cpu/(5679:5679): path:/scripts/complejo.escriptorio
+
+[INFO] 22:53:20:243 cpu/(5679:5679): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 22:53:20:280 cpu/(5679:5679): Ejecutando el DTB 1000
+[INFO] 22:53:20:280 cpu/(5679:5679): el paquete pesa 422 bytes 
+
+[INFO] 22:53:20:280 cpu/(5679:5679): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 22:53:20:280 cpu/(5679:5679): Se envia el paquete
+
+[INFO] 22:53:20:280 cpu/(5679:5679): el mensaje: ok 
+ se pudo enviar
+[INFO] 22:53:20:280 cpu/(5679:5679): mensaje recibido el encabezado
+
+[INFO] 22:53:20:280 cpu/(5679:5679): mensaje recibido payload recibido
+
+[INFO] 22:53:20:280 cpu/(5679:5679): id:1000
+
+[INFO] 22:53:20:280 cpu/(5679:5679): flag:2
+
+[INFO] 22:53:20:280 cpu/(5679:5679): estado:1
+
+[INFO] 22:53:20:280 cpu/(5679:5679): PC:9
+
+[INFO] 22:53:20:280 cpu/(5679:5679): Quantum:2
+
+[INFO] 22:53:20:280 cpu/(5679:5679): Puntero a memoria:0
+
+[INFO] 22:53:20:280 cpu/(5679:5679): operaciones IO:9
+
+[INFO] 22:53:20:280 cpu/(5679:5679): Path:/scripts/llena_memoria.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): tabla de direcciones:
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 0
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:1
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/simple.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 1
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:2
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/los_borrachos.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 2
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:3
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/la_12.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 3
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:4
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/io_bound.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 4
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:5
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/cpu_bound.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 5
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:6
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/inter.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 6
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:7
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/bloqueo.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 7
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:8
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/crear_basura.escriptorio
+
+[INFO] 22:53:20:280 cpu/(5679:5679): posicion de la lista 8
+[INFO] 22:53:20:280 cpu/(5679:5679): espacio en memoria:9
+[INFO] 22:53:20:280 cpu/(5679:5679): path:/scripts/complejo.escriptorio
+
+[INFO] 22:57:05:166 cpu/(5679:5679): Pasando los datos para liberar la memoria a FM9
+[INFO] 22:57:23:509 cpu/(5679:5679): Pasando los datos para liberar la memoria a FM9
+[INFO] 06:40:38:847 cpu/(9079:9079): Conectado!
+[INFO] 06:40:38:859 cpu/(9079:9079): Conectado!
+[INFO] 06:40:38:860 cpu/(9079:9079): Conectado!
+[INFO] 06:41:12:15 cpu/(9079:9079): mensaje recibido el encabezado
+
+[INFO] 06:41:12:15 cpu/(9079:9079): mensaje recibido payload recibido
+
+[INFO] 06:41:12:15 cpu/(9079:9079): id:1000
+
+[INFO] 06:41:12:15 cpu/(9079:9079): flag:0
+
+[INFO] 06:41:12:15 cpu/(9079:9079): estado:0
+
+[INFO] 06:41:12:15 cpu/(9079:9079): PC:0
+
+[INFO] 06:41:12:15 cpu/(9079:9079): Quantum:2
+
+[INFO] 06:41:12:15 cpu/(9079:9079): Puntero a memoria:0
+
+[INFO] 06:41:12:15 cpu/(9079:9079): operaciones IO:0
+
+[INFO] 06:41:12:15 cpu/(9079:9079): Path:/scripts/inter.escriptorio
+
+[INFO] 06:41:12:15 cpu/(9079:9079): tabla de direcciones:
+
+[INFO] 06:41:12:15 cpu/(9079:9079): El DTB es el Dummy
+[INFO] 06:41:12:15 cpu/(9079:9079): el paquete pesa 71 bytes 
+
+[INFO] 06:41:12:15 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:41:12:15 cpu/(9079:9079): Se envia el paquete
+
+[INFO] 06:41:12:15 cpu/(9079:9079): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:41:12:15 cpu/(9079:9079): el paquete pesa 71 bytes 
+
+[INFO] 06:41:12:16 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:41:12:16 cpu/(9079:9079): Se envia el paquete
+
+[INFO] 06:41:12:16 cpu/(9079:9079): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:41:22:574 cpu/(9079:9079): mensaje recibido el encabezado
+
+[INFO] 06:41:22:610 cpu/(9079:9079): mensaje recibido payload recibido
+
+[INFO] 06:41:22:610 cpu/(9079:9079): id:1001
+
+[INFO] 06:41:22:611 cpu/(9079:9079): flag:0
+
+[INFO] 06:41:22:611 cpu/(9079:9079): estado:0
+
+[INFO] 06:41:22:611 cpu/(9079:9079): PC:0
+
+[INFO] 06:41:22:611 cpu/(9079:9079): Quantum:2
+
+[INFO] 06:41:22:611 cpu/(9079:9079): Puntero a memoria:0
+
+[INFO] 06:41:22:611 cpu/(9079:9079): operaciones IO:0
+
+[INFO] 06:41:22:611 cpu/(9079:9079): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 06:41:22:611 cpu/(9079:9079): tabla de direcciones:
+
+[INFO] 06:41:22:611 cpu/(9079:9079): El DTB es el Dummy
+[INFO] 06:41:22:611 cpu/(9079:9079): el paquete pesa 73 bytes 
+
+[INFO] 06:41:22:612 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:41:22:612 cpu/(9079:9079): Se envia el paquete
+
+[INFO] 06:41:22:612 cpu/(9079:9079): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:41:22:612 cpu/(9079:9079): el paquete pesa 73 bytes 
+
+[INFO] 06:41:22:612 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:41:22:612 cpu/(9079:9079): Se envia el paquete
+
+[INFO] 06:41:22:612 cpu/(9079:9079): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:41:32:843 cpu/(9079:9079): mensaje recibido el encabezado
+
+[INFO] 06:41:32:882 cpu/(9079:9079): mensaje recibido payload recibido
+
+[INFO] 06:41:32:882 cpu/(9079:9079): id:1000
+
+[INFO] 06:41:32:882 cpu/(9079:9079): flag:1
+
+[INFO] 06:41:32:882 cpu/(9079:9079): estado:2
+
+[INFO] 06:41:32:882 cpu/(9079:9079): PC:0
+
+[INFO] 06:41:32:882 cpu/(9079:9079): Quantum:2
+
+[INFO] 06:41:32:882 cpu/(9079:9079): Puntero a memoria:0
+
+[INFO] 06:41:32:882 cpu/(9079:9079): operaciones IO:0
+
+[INFO] 06:41:32:882 cpu/(9079:9079): Path:/scripts/inter.escriptorio
+
+[INFO] 06:41:32:882 cpu/(9079:9079): tabla de direcciones:
+
+[INFO] 06:41:32:882 cpu/(9079:9079): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:41:32:883 cpu/(9079:9079): Ejecutando el DTB 1000
+[INFO] 06:41:32:884 cpu/(9079:9079): accion:wait
+[INFO] 06:41:32:884 cpu/(9079:9079): parametros:inter
+[INFO] 06:42:13:957 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:43:26:946 cpu/(9079:9079): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:43:26:983 cpu/(9079:9079): Ejecutando el DTB 1000
+[INFO] 06:43:26:984 cpu/(9079:9079): accion:concentrar
+[INFO] 06:43:26:984 cpu/(9079:9079): parametros:(null)
+[INFO] 06:43:27:984 cpu/(9079:9079): el paquete pesa 71 bytes 
+
+[INFO] 06:43:27:985 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:43:27:985 cpu/(9079:9079): Se envia el paquete
+
+[INFO] 06:43:27:985 cpu/(9079:9079): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:43:28:22 cpu/(9079:9079): mensaje recibido el encabezado
+
+[INFO] 06:43:28:23 cpu/(9079:9079): mensaje recibido payload recibido
+
+[INFO] 06:43:28:23 cpu/(9079:9079): id:1001
+
+[INFO] 06:43:28:23 cpu/(9079:9079): flag:1
+
+[INFO] 06:43:28:24 cpu/(9079:9079): estado:2
+
+[INFO] 06:43:28:24 cpu/(9079:9079): PC:0
+
+[INFO] 06:43:28:24 cpu/(9079:9079): Quantum:2
+
+[INFO] 06:43:28:24 cpu/(9079:9079): Puntero a memoria:1
+
+[INFO] 06:43:28:24 cpu/(9079:9079): operaciones IO:0
+
+[INFO] 06:43:28:24 cpu/(9079:9079): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 06:43:28:24 cpu/(9079:9079): tabla de direcciones:
+
+[INFO] 06:43:28:24 cpu/(9079:9079): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:43:28:64 cpu/(9079:9079): Ejecutando el DTB 1001
+[INFO] 06:43:28:65 cpu/(9079:9079): accion:Atletico
+[INFO] 06:43:28:65 cpu/(9079:9079): parametros:Rafaela
+[INFO] 06:43:28:65 cpu/(9079:9079): el paquete pesa 73 bytes 
+
+[INFO] 06:43:28:65 cpu/(9079:9079): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:43:28:65 cpu/(9079:9079): Se envia el paquete
+
+[INFO] 06:43:28:65 cpu/(9079:9079): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:43:28:103 cpu/(9079:9079): mensaje recibido el encabezado
+
+[INFO] 06:43:28:103 cpu/(9079:9079): mensaje recibido payload recibido
+
+[INFO] 06:43:28:103 cpu/(9079:9079): id:1001
+
+[INFO] 06:43:28:103 cpu/(9079:9079): flag:2
+
+[INFO] 06:43:28:103 cpu/(9079:9079): estado:1
+
+[INFO] 06:43:28:103 cpu/(9079:9079): PC:1
+
+[INFO] 06:43:28:103 cpu/(9079:9079): Quantum:2
+
+[INFO] 06:43:28:103 cpu/(9079:9079): Puntero a memoria:1
+
+[INFO] 06:43:28:103 cpu/(9079:9079): operaciones IO:0
+
+[INFO] 06:43:28:103 cpu/(9079:9079): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 06:43:28:103 cpu/(9079:9079): tabla de direcciones:
+
+[INFO] 06:46:18:119 cpu/(9214:9214): Conectado!
+[INFO] 06:46:18:135 cpu/(9214:9214): Conectado!
+[INFO] 06:46:18:137 cpu/(9214:9214): Conectado!
+[INFO] 06:47:11:373 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:47:11:373 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:47:11:374 cpu/(9214:9214): id:1000
+
+[INFO] 06:47:11:374 cpu/(9214:9214): flag:0
+
+[INFO] 06:47:11:374 cpu/(9214:9214): estado:0
+
+[INFO] 06:47:11:374 cpu/(9214:9214): PC:0
+
+[INFO] 06:47:11:374 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:47:11:374 cpu/(9214:9214): Puntero a memoria:0
+
+[INFO] 06:47:11:374 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:47:11:374 cpu/(9214:9214): Path:/scripts/inter.escriptorio
+
+[INFO] 06:47:11:374 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:47:11:375 cpu/(9214:9214): El DTB es el Dummy
+[INFO] 06:47:11:376 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:47:11:376 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:47:11:376 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:47:11:377 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:47:32:899 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:47:32:899 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:47:32:900 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:47:32:900 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:47:53:221 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:47:53:221 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:47:53:221 cpu/(9214:9214): id:1000
+
+[INFO] 06:47:53:221 cpu/(9214:9214): flag:1
+
+[INFO] 06:47:53:221 cpu/(9214:9214): estado:2
+
+[INFO] 06:47:53:221 cpu/(9214:9214): PC:0
+
+[INFO] 06:47:53:221 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:47:53:222 cpu/(9214:9214): Puntero a memoria:0
+
+[INFO] 06:47:53:222 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:47:53:222 cpu/(9214:9214): Path:/scripts/inter.escriptorio
+
+[INFO] 06:47:53:222 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:47:53:222 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:47:53:223 cpu/(9214:9214): Ejecutando el DTB 1000
+[INFO] 06:47:53:224 cpu/(9214:9214): accion:wait
+[INFO] 06:47:53:224 cpu/(9214:9214): parametros:inter
+[INFO] 06:48:29:226 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:49:39:696 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:50:15:708 cpu/(9214:9214): Ejecutando el DTB 1000
+[INFO] 06:50:35:6 cpu/(9214:9214): accion:concentrar
+[INFO] 06:50:35:6 cpu/(9214:9214): parametros:(null)
+[INFO] 06:50:52:689 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:50:52:689 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:50:52:690 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:50:52:690 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:51:07:282 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:51:07:282 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:51:07:282 cpu/(9214:9214): id:1000
+
+[INFO] 06:51:07:282 cpu/(9214:9214): flag:1
+
+[INFO] 06:51:07:282 cpu/(9214:9214): estado:2
+
+[INFO] 06:51:07:282 cpu/(9214:9214): PC:2
+
+[INFO] 06:51:07:282 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:51:07:282 cpu/(9214:9214): Puntero a memoria:0
+
+[INFO] 06:51:07:282 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:51:07:282 cpu/(9214:9214): Path:/scripts/inter.escriptorio
+
+[INFO] 06:51:07:282 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:51:07:282 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:51:07:319 cpu/(9214:9214): Ejecutando el DTB 1000
+[INFO] 06:51:07:320 cpu/(9214:9214): accion:wait
+[INFO] 06:51:07:320 cpu/(9214:9214): parametros:bloqueo
+[INFO] 06:51:14:817 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:14:818 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:51:14:856 cpu/(9214:9214): Ejecutando el DTB 1000
+[INFO] 06:51:16:216 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:51:16:217 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:16:217 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:51:16:217 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:51:16:254 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:51:16:254 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:51:16:254 cpu/(9214:9214): id:1000
+
+[INFO] 06:51:16:254 cpu/(9214:9214): flag:2
+
+[INFO] 06:51:16:254 cpu/(9214:9214): estado:1
+
+[INFO] 06:51:16:254 cpu/(9214:9214): PC:3
+
+[INFO] 06:51:16:254 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:51:16:254 cpu/(9214:9214): Puntero a memoria:0
+
+[INFO] 06:51:16:255 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:51:16:255 cpu/(9214:9214): Path:/scripts/inter.escriptorio
+
+[INFO] 06:51:16:255 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:51:19:572 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:51:19:572 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:19:572 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:51:19:572 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:51:40:172 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:51:40:172 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:51:40:172 cpu/(9214:9214): id:1001
+
+[INFO] 06:51:40:173 cpu/(9214:9214): flag:0
+
+[INFO] 06:51:40:173 cpu/(9214:9214): estado:0
+
+[INFO] 06:51:40:173 cpu/(9214:9214): PC:0
+
+[INFO] 06:51:40:173 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:51:40:173 cpu/(9214:9214): Puntero a memoria:0
+
+[INFO] 06:51:40:173 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:51:40:173 cpu/(9214:9214): Path:/scripts/inter.escriptorio
+
+[INFO] 06:51:40:173 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:51:40:173 cpu/(9214:9214): El DTB es el Dummy
+[INFO] 06:51:40:173 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:51:40:173 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:40:173 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:51:40:173 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:51:47:123 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:51:47:124 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:47:124 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:51:47:124 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:51:50:378 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:51:50:378 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:51:50:378 cpu/(9214:9214): id:1002
+
+[INFO] 06:51:50:378 cpu/(9214:9214): flag:0
+
+[INFO] 06:51:50:378 cpu/(9214:9214): estado:0
+
+[INFO] 06:51:50:378 cpu/(9214:9214): PC:0
+
+[INFO] 06:51:50:378 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:51:50:378 cpu/(9214:9214): Puntero a memoria:0
+
+[INFO] 06:51:50:378 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:51:50:378 cpu/(9214:9214): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 06:51:50:378 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:51:50:378 cpu/(9214:9214): El DTB es el Dummy
+[INFO] 06:51:50:378 cpu/(9214:9214): el paquete pesa 73 bytes 
+
+[INFO] 06:51:50:379 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:50:379 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:51:50:379 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:51:55:702 cpu/(9214:9214): el paquete pesa 73 bytes 
+
+[INFO] 06:51:55:703 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:51:55:703 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:51:55:703 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:52:00:578 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:52:00:578 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:52:00:578 cpu/(9214:9214): id:1001
+
+[INFO] 06:52:00:578 cpu/(9214:9214): flag:1
+
+[INFO] 06:52:00:578 cpu/(9214:9214): estado:2
+
+[INFO] 06:52:00:578 cpu/(9214:9214): PC:0
+
+[INFO] 06:52:00:578 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:52:00:578 cpu/(9214:9214): Puntero a memoria:1
+
+[INFO] 06:52:00:578 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:52:00:578 cpu/(9214:9214): Path:/scripts/inter.escriptorio
+
+[INFO] 06:52:00:578 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:52:00:578 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:52:00:579 cpu/(9214:9214): Ejecutando el DTB 1001
+[INFO] 06:52:00:580 cpu/(9214:9214): accion:wait
+[INFO] 06:52:00:580 cpu/(9214:9214): parametros:inter
+[INFO] 06:52:08:608 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:52:44:627 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:52:59:641 cpu/(9214:9214): Ejecutando el DTB 1001
+[INFO] 06:53:06:573 cpu/(9214:9214): accion:concentrar
+[INFO] 06:53:06:573 cpu/(9214:9214): parametros:(null)
+[INFO] 06:53:22:844 cpu/(9214:9214): el paquete pesa 71 bytes 
+
+[INFO] 06:53:22:844 cpu/(9214:9214): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 06:53:22:845 cpu/(9214:9214): Se envia el paquete
+
+[INFO] 06:53:22:845 cpu/(9214:9214): el mensaje: ok 
+ se pudo enviar
+[INFO] 06:53:33:341 cpu/(9214:9214): mensaje recibido el encabezado
+
+[INFO] 06:53:33:341 cpu/(9214:9214): mensaje recibido payload recibido
+
+[INFO] 06:53:33:342 cpu/(9214:9214): id:1002
+
+[INFO] 06:53:33:342 cpu/(9214:9214): flag:1
+
+[INFO] 06:53:33:342 cpu/(9214:9214): estado:2
+
+[INFO] 06:53:33:342 cpu/(9214:9214): PC:0
+
+[INFO] 06:53:33:342 cpu/(9214:9214): Quantum:2
+
+[INFO] 06:53:33:342 cpu/(9214:9214): Puntero a memoria:2
+
+[INFO] 06:53:33:342 cpu/(9214:9214): operaciones IO:0
+
+[INFO] 06:53:33:342 cpu/(9214:9214): Path:/scripts/bloqueo.escriptorio
+
+[INFO] 06:53:33:342 cpu/(9214:9214): tabla de direcciones:
+
+[INFO] 06:53:33:342 cpu/(9214:9214): el mensaje: ID Y OFFSET 
+ se pudo enviar
+[INFO] 06:53:33:379 cpu/(9214:9214): Ejecutando el DTB 1002
+[INFO] 06:53:33:380 cpu/(9214:9214): accion:Atletico
+[INFO] 06:53:33:380 cpu/(9214:9214): parametros:Rafaela

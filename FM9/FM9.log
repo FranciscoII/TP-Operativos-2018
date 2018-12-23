@@ -1,0 +1,1552 @@
+[INFO] 18:41:30:491 FM9/(12583:12602): se ha conectado el dam
+[INFO] 18:41:31:503 FM9/(12583:12602): se ha conectado una cpu
+[INFO] 18:45:09:766 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:45:09:766 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:45:09:766 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:45:16:929 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:45:25:35 FM9/(12583:12602): el tamanio de linea es 35
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/simple.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 42
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/los_borrachos.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/la_12.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/io_bound.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/inter.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 36
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/bloqueo.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 41
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/crear_basura.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es abrir /scripts/complejo.escriptorio
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:45:25:36 FM9/(12583:12602): la linea es 
+
+[INFO] 18:45:25:36 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:25:36 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:45:30:78 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:45:30:78 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:45:30:78 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:45:30:78 FM9/(12583:12602): Enviado
+[INFO] 18:45:31:946 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:45:31:946 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:45:31:946 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:45:34:551 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:45:35:238 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 18:45:35:238 FM9/(12583:12602): la linea es abrir /scripts/complejo.escriptorio
+
+[INFO] 18:45:35:238 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:238 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:45:35:238 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:45:35:238 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:238 FM9/(12583:12602): el tamanio de linea es 54
+[INFO] 18:45:35:238 FM9/(12583:12602): la linea es asignar /scripts/complejo.escriptorio 1 Soy invalido
+
+[INFO] 18:45:35:238 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:238 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:45:35:238 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:45:35:238 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:238 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 18:45:35:238 FM9/(12583:12602): la linea es close /scripts/complejo.escriptorio
+
+[INFO] 18:45:35:238 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:238 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:45:35:238 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:45:35:238 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:239 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:45:35:239 FM9/(12583:12602): la linea es 
+
+[INFO] 18:45:35:239 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:45:35:239 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:45:40:282 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:45:40:282 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:45:40:325 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:45:40:326 FM9/(12583:12602): Enviado
+[INFO] 18:45:42:602 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:45:42:602 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:45:42:602 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:46:39:674 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:47:59:109 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 18:47:59:881 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 18:48:05:872 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:19:340 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 18:48:19:994 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 18:48:23:45 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:45 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:48:23:45 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 18:48:23:45 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:45 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 18:48:23:45 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  1
+
+[INFO] 18:48:23:45 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:46 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 18:48:23:46 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 2
+
+[INFO] 18:48:23:46 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:46 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:48:23:46 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 18:48:23:46 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:46 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:48:23:46 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 18:48:23:46 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:46 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:48:23:46 FM9/(12583:12602): la linea es 
+
+[INFO] 18:48:23:46 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:23:46 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:48:28:47 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:48:28:47 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:48:28:93 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:48:28:94 FM9/(12583:12602): Enviado
+[INFO] 18:48:31:6 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:48:31:6 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:48:31:6 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:48:35:179 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 36
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es crear /resultados/superfinal.txt 4
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 50
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 1 Fecha 24/11
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 51
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 2 Hora 17:00hs
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  0
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 1
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 23
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es signal segundo_tiempo
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:48:35:917 FM9/(12583:12602): la linea es 
+
+[INFO] 18:48:35:917 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:35:917 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:48:40:919 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:48:40:919 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:48:40:961 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:48:40:962 FM9/(12583:12602): Enviado
+[INFO] 18:48:43:158 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:48:43:158 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:48:43:158 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:48:52:816 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:48:53:491 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 18:48:53:491 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 18:48:53:491 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:491 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:48:53:491 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:48:53:491 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:491 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:48:53:491 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:48:53:491 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:491 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 18:48:53:491 FM9/(12583:12602): la linea es close /scripts/cpu_bound.escriptorio
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es close /scripts/cpu_bound.escriptorio
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:48:53:492 FM9/(12583:12602): la linea es 
+
+[INFO] 18:48:53:492 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:48:53:492 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:48:58:494 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:48:58:494 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:48:58:538 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:48:58:538 FM9/(12583:12602): Enviado
+[INFO] 18:49:00:210 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:49:00:210 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:49:00:210 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:49:32:509 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:50:05:399 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:06:498 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:10:501 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:14:923 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:15:733 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:16:579 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:884 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:885 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:885 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:885 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:885 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:885 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:885 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:885 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:885 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:885 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:885 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:885 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:886 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:886 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:886 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:886 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:886 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:886 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:886 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:886 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:886 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:886 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:887 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:887 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:887 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:50:24:887 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:50:24:887 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:887 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:50:24:887 FM9/(12583:12602): la linea es 
+
+[INFO] 18:50:24:887 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:50:24:888 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:50:29:890 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:50:29:890 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:50:29:934 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:50:29:934 FM9/(12583:12602): Enviado
+[INFO] 18:50:31:170 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:50:31:170 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:50:31:170 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 18:51:42:126 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 18:52:15:604 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:52:17:72 FM9/(12583:12602): la linea es wait inter
+
+[INFO] 18:52:17:954 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:52:20:349 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 18:52:21:40 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 18:52:21:769 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:52:29:350 FM9/(12583:12602): el tamanio de linea es 14
+[INFO] 18:52:30:75 FM9/(12583:12602): la linea es wait bloqueo
+
+[INFO] 18:52:30:790 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:52:32:713 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 18:52:33:433 FM9/(12583:12602): la linea es 
+
+[INFO] 18:52:34:235 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 18:52:58:27 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 18:53:45:710 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:53:45:710 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:53:45:710 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:53:45:711 FM9/(12583:12602): Enviado
+[INFO] 18:53:46:937 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 18:53:46:938 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 18:53:46:938 FM9/(12583:12602): Recibi con exito la panela
+[ERROR] 18:55:35:202 FM9/(12583:12602): ERROR: 10002 No espacio
+[INFO] 18:56:00:628 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:56:05:4 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:56:09:240 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:29:803 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:29:815 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 18:59:37:262 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:59:37:262 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:59:37:262 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:37:263 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:37:263 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 18:59:37:263 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:59:37:263 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:59:37:263 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:37:265 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:37:265 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 18:59:37:265 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:59:37:265 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:59:37:266 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:37:268 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:37:268 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 18:59:37:268 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:59:37:268 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:59:37:268 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:37:270 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:37:270 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 18:59:37:270 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:59:37:270 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:59:37:270 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:37:273 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:37:273 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 18:59:37:273 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 18:59:37:273 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 18:59:37:273 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 18:59:37:274 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 18:59:37:274 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:05:52:671 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:05:52:682 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:05:52:682 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:06:15:956 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:06:16:754 FM9/(12583:12602): el tamanio de linea es 26
+[INFO] 19:06:16:754 FM9/(12583:12602): la linea es crear /equipos/Rafaela 5
+
+[INFO] 19:06:16:754 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:754 FM9/(12583:12602): el tamanio de linea es 24
+[INFO] 19:06:16:754 FM9/(12583:12602): la linea es abrir /equipos/Rafaela
+
+[INFO] 19:06:16:754 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:754 FM9/(12583:12602): el tamanio de linea es 45
+[INFO] 19:06:16:754 FM9/(12583:12602): la linea es asignar /equipos/Rafaela 1 Atletico Rafaela
+
+[INFO] 19:06:16:754 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:754 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:16:754 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:16:754 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:754 FM9/(12583:12602): el tamanio de linea es 54
+[INFO] 19:06:16:754 FM9/(12583:12602): la linea es asignar /equipos/Rafaela 2 Estrella: Juan M. Suligoy
+
+[INFO] 19:06:16:754 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:754 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): el tamanio de linea es 41
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es asignar /equipos/Rafaela 3 Promedio: 91
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): el tamanio de linea es 24
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es flush /equipos/Rafaela
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): el tamanio de linea es 24
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es close /equipos/Rafaela
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:06:16:755 FM9/(12583:12602): la linea es 
+
+[INFO] 19:06:16:755 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:16:755 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:06:22:906 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:06:22:906 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:06:22:906 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:06:23:467 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:06:24:145 FM9/(12583:12602): el tamanio de linea es 25
+[INFO] 19:06:24:145 FM9/(12583:12602): la linea es borrar /equipos/Rafaela
+
+[INFO] 19:06:24:145 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:24:145 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:06:24:145 FM9/(12583:12602): la linea es 
+
+[INFO] 19:06:24:145 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:24:145 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:06:30:874 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:06:30:874 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:06:30:874 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:06:31:818 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:06:32:678 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:678 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:678 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:678 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:678 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:678 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:678 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:678 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:678 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:678 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:678 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:678 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:678 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:678 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:678 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:678 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:678 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:679 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:679 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:679 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:679 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:06:32:679 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:06:32:679 FM9/(12583:12602): la linea es 
+
+[INFO] 19:06:32:679 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:32:679 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:06:40:538 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:06:40:538 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:06:40:538 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:06:41:656 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:06:42:894 FM9/(12583:12602): el tamanio de linea es 35
+[INFO] 19:06:42:895 FM9/(12583:12602): la linea es abrir /scripts/simple.escriptorio
+
+[INFO] 19:06:42:895 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:895 FM9/(12583:12602): el tamanio de linea es 42
+[INFO] 19:06:42:895 FM9/(12583:12602): la linea es abrir /scripts/los_borrachos.escriptorio
+
+[INFO] 19:06:42:895 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:896 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:06:42:896 FM9/(12583:12602): la linea es abrir /scripts/la_12.escriptorio
+
+[INFO] 19:06:42:896 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:896 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:06:42:896 FM9/(12583:12602): la linea es abrir /scripts/io_bound.escriptorio
+
+[INFO] 19:06:42:896 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:896 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 19:06:42:896 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 19:06:42:896 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:896 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:06:42:897 FM9/(12583:12602): la linea es abrir /scripts/inter.escriptorio
+
+[INFO] 19:06:42:897 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:897 FM9/(12583:12602): el tamanio de linea es 36
+[INFO] 19:06:42:897 FM9/(12583:12602): la linea es abrir /scripts/bloqueo.escriptorio
+
+[INFO] 19:06:42:897 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:897 FM9/(12583:12602): el tamanio de linea es 41
+[INFO] 19:06:42:897 FM9/(12583:12602): la linea es abrir /scripts/crear_basura.escriptorio
+
+[INFO] 19:06:42:897 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:898 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:06:42:898 FM9/(12583:12602): la linea es abrir /scripts/complejo.escriptorio
+
+[INFO] 19:06:42:898 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:898 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:06:42:898 FM9/(12583:12602): la linea es 
+
+[INFO] 19:06:42:898 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:06:42:899 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:06:47:946 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:06:47:946 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:06:47:946 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:06:47:946 FM9/(12583:12602): Enviado
+[INFO] 19:06:52:946 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:06:52:946 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:06:52:990 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:06:52:990 FM9/(12583:12602): Enviado
+[INFO] 19:06:57:904 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:06:57:905 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:06:57:945 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:06:57:946 FM9/(12583:12602): Enviado
+[INFO] 19:06:58:946 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:06:58:946 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:06:58:990 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:06:58:990 FM9/(12583:12602): Enviado
+[INFO] 19:07:02:906 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:02:906 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:02:950 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:02:950 FM9/(12583:12602): Enviado
+[INFO] 19:07:04:818 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:07:04:819 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:07:04:819 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:07:08:445 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:07:09:937 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es abrir /scripts/complejo.escriptorio
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:938 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:938 FM9/(12583:12602): el tamanio de linea es 54
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es asignar /scripts/complejo.escriptorio 1 Soy invalido
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:938 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:938 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es close /scripts/complejo.escriptorio
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:938 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:938 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:07:09:938 FM9/(12583:12602): la linea es 
+
+[INFO] 19:07:09:938 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:09:939 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:07:09:939 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:09:939 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:09:939 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:09:939 FM9/(12583:12602): Enviado
+[INFO] 19:07:10:984 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:10:984 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:10:984 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:10:988 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:07:10:989 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:07:12:954 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:12:954 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:12:954 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:12:954 FM9/(12583:12602): Enviado
+[INFO] 19:07:12:998 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:12:998 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:13:42 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:13:42 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:07:13:42 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:07:17:950 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:17:950 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:17:950 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:17:950 FM9/(12583:12602): Enviado
+[INFO] 19:07:18:951 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:18:951 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:18:993 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:18:993 FM9/(12583:12602): Enviado
+[INFO] 19:07:22:908 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:22:908 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:22:949 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:22:950 FM9/(12583:12602): Enviado
+[INFO] 19:07:25:266 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:07:25:266 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:07:25:266 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:07:30:677 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:07:31:861 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 19:07:31:861 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 19:07:31:861 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:862 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 19:07:31:862 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 19:07:31:862 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:862 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:07:31:862 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 19:07:31:862 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:862 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:07:31:862 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  1
+
+[INFO] 19:07:31:862 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:862 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:07:31:862 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 2
+
+[INFO] 19:07:31:862 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:862 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:07:31:862 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 19:07:31:863 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:863 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:07:31:863 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 19:07:31:863 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:863 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:07:31:863 FM9/(12583:12602): la linea es 
+
+[INFO] 19:07:31:863 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:07:31:863 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:07:31:863 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:31:863 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:31:863 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:31:863 FM9/(12583:12602): Enviado
+[INFO] 19:07:32:866 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:32:866 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:32:866 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:32:867 FM9/(12583:12602): Enviado
+[INFO] 19:07:36:865 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:07:36:865 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:07:36:905 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:07:36:906 FM9/(12583:12602): Enviado
+[INFO] 19:07:39:846 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:07:39:846 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:07:39:846 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:07:57:548 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:08:03:942 FM9/(12583:12602): el tamanio de linea es 36
+[INFO] 19:08:03:942 FM9/(12583:12602): la linea es crear /resultados/superfinal.txt 4
+
+[INFO] 19:08:03:943 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:943 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:08:03:943 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 19:08:03:943 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:944 FM9/(12583:12602): el tamanio de linea es 50
+[INFO] 19:08:03:944 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 1 Fecha 24/11
+
+[INFO] 19:08:03:944 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:944 FM9/(12583:12602): el tamanio de linea es 51
+[INFO] 19:08:03:944 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 2 Hora 17:00hs
+
+[INFO] 19:08:03:944 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:945 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:08:03:945 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  0
+
+[INFO] 19:08:03:945 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:945 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:08:03:945 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 1
+
+[INFO] 19:08:03:945 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:946 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:08:03:946 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 19:08:03:946 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:946 FM9/(12583:12602): el tamanio de linea es 23
+[INFO] 19:08:03:946 FM9/(12583:12602): la linea es signal segundo_tiempo
+
+[INFO] 19:08:03:946 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:947 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:08:03:947 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 19:08:03:947 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:947 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:08:03:947 FM9/(12583:12602): la linea es 
+
+[INFO] 19:08:03:947 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:03:948 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:08:03:949 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:08:03:949 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:08:03:949 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:08:03:949 FM9/(12583:12602): Enviado
+[INFO] 19:08:04:950 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:08:04:950 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:08:04:950 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:08:04:950 FM9/(12583:12602): Enviado
+[INFO] 19:08:08:950 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:08:08:951 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:08:08:994 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:08:08:994 FM9/(12583:12602): Enviado
+[INFO] 19:08:11:210 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:08:11:210 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:08:11:210 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:08:24:959 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:08:26:124 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 19:08:26:124 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 19:08:26:124 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:124 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:08:26:124 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:08:26:124 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es close /scripts/cpu_bound.escriptorio
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es close /scripts/cpu_bound.escriptorio
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:08:26:125 FM9/(12583:12602): la linea es 
+
+[INFO] 19:08:26:125 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:08:26:125 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:08:26:126 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:08:26:126 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:08:26:126 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:08:26:126 FM9/(12583:12602): Enviado
+[INFO] 19:08:27:130 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:08:27:130 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:08:27:130 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:08:27:130 FM9/(12583:12602): Enviado
+[INFO] 19:08:31:126 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:08:31:126 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:08:31:170 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:08:31:170 FM9/(12583:12602): Enviado
+[INFO] 19:08:32:830 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:08:32:830 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:08:32:830 FM9/(12583:12602): Recibi con exito la panela
+[ERROR] 19:10:39:558 FM9/(12583:12602): ERROR: 10002 No espacio
+[INFO] 19:10:43:178 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:43:178 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:43:178 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:43:178 FM9/(12583:12602): Enviado
+[INFO] 19:10:44:178 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:178 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:178 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:178 FM9/(12583:12602): Enviado
+[INFO] 19:10:44:179 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:179 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:221 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:223 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:10:44:223 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:10:44:223 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:223 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:224 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:225 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:10:44:225 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:10:44:225 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:225 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:225 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:226 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:10:44:226 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:10:44:226 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:226 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:226 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:227 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:10:44:227 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:10:44:227 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:227 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:227 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:228 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:10:44:228 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:10:44:266 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:10:44:266 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:10:44:266 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:10:44:271 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:10:44:271 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:13:07:218 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:13:07:218 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:13:07:219 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:13:12:89 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:13:13:215 FM9/(12583:12602): el tamanio de linea es 26
+[INFO] 19:13:13:215 FM9/(12583:12602): la linea es crear /equipos/Rafaela 5
+
+[INFO] 19:13:13:215 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:215 FM9/(12583:12602): el tamanio de linea es 24
+[INFO] 19:13:13:215 FM9/(12583:12602): la linea es abrir /equipos/Rafaela
+
+[INFO] 19:13:13:215 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:216 FM9/(12583:12602): el tamanio de linea es 45
+[INFO] 19:13:13:216 FM9/(12583:12602): la linea es asignar /equipos/Rafaela 1 Atletico Rafaela
+
+[INFO] 19:13:13:216 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:216 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:13:13:216 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:13:13:216 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:217 FM9/(12583:12602): el tamanio de linea es 54
+[INFO] 19:13:13:217 FM9/(12583:12602): la linea es asignar /equipos/Rafaela 2 Estrella: Juan M. Suligoy
+
+[INFO] 19:13:13:217 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:217 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:13:13:217 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:13:13:217 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:218 FM9/(12583:12602): el tamanio de linea es 41
+[INFO] 19:13:13:218 FM9/(12583:12602): la linea es asignar /equipos/Rafaela 3 Promedio: 91
+
+[INFO] 19:13:13:218 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:218 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:13:13:218 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:13:13:218 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:218 FM9/(12583:12602): el tamanio de linea es 24
+[INFO] 19:13:13:218 FM9/(12583:12602): la linea es flush /equipos/Rafaela
+
+[INFO] 19:13:13:218 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:219 FM9/(12583:12602): el tamanio de linea es 24
+[INFO] 19:13:13:219 FM9/(12583:12602): la linea es close /equipos/Rafaela
+
+[INFO] 19:13:13:219 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:220 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:13:13:220 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:13:13:220 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:220 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:13:13:220 FM9/(12583:12602): la linea es 
+
+[INFO] 19:13:13:220 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:13:221 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:13:18:266 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:18:266 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:18:266 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:18:266 FM9/(12583:12602): Enviado
+[INFO] 19:13:24:357 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:24:357 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:24:398 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:24:398 FM9/(12583:12602): Enviado
+[INFO] 19:13:25:444 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:13:25:444 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:13:25:444 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:13:26:115 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:13:26:578 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:13:26:578 FM9/(12583:12602): la linea es 
+
+[INFO] 19:13:26:578 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:26:578 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:13:26:578 FM9/(12583:12602): la linea es 
+
+[INFO] 19:13:26:578 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:26:579 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:13:26:579 FM9/(12583:12602): la linea es 
+
+[INFO] 19:13:26:579 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:26:579 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:13:26:579 FM9/(12583:12602): la linea es 
+
+[INFO] 19:13:26:579 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:26:580 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:13:26:580 FM9/(12583:12602): la linea es 
+
+[INFO] 19:13:26:580 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:13:26:580 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:13:31:582 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:31:582 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:31:625 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:31:626 FM9/(12583:12602): Enviado
+[INFO] 19:13:31:626 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:31:626 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:31:669 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:32:626 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:13:32:627 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:32:627 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:32:670 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:32:670 FM9/(12583:12602): Enviado
+[INFO] 19:13:38:715 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:38:715 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:38:758 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:38:758 FM9/(12583:12602): Enviado
+[INFO] 19:13:38:759 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:38:759 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:38:802 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:39:759 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:13:39:759 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:39:759 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:39:801 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:39:802 FM9/(12583:12602): Enviado
+[INFO] 19:13:45:847 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:45:847 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:45:889 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:45:890 FM9/(12583:12602): Enviado
+[INFO] 19:13:45:890 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:45:890 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:45:933 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:46:890 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:13:46:890 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:46:890 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:46:933 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:46:933 FM9/(12583:12602): Enviado
+[INFO] 19:13:52:979 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:13:52:980 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:13:53:22 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:13:53:22 FM9/(12583:12602): Enviado
+[INFO] 19:13:54:23 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:13:54:23 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:13:54:23 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:13:54:611 FM9/(12583:12602): Empezando a enviar a Diego
+[INFO] 19:13:54:611 FM9/(12583:12602): enviando cantidad Lineas 5
+[INFO] 19:13:54:611 FM9/(12583:12602): El tamanio de la linea enviada es: 17
+[INFO] 19:13:54:611 FM9/(12583:12602): Le envio esta linea al Diego: Atletico Rafaela
+[INFO] 19:13:54:611 FM9/(12583:12602): El tamanio de la linea enviada es: 26
+[INFO] 19:13:54:611 FM9/(12583:12602): Le envio esta linea al Diego: Estrella: Juan M. Suligoy
+[INFO] 19:13:54:611 FM9/(12583:12602): El tamanio de la linea enviada es: 13
+[INFO] 19:13:54:611 FM9/(12583:12602): Le envio esta linea al Diego: Promedio: 91
+[INFO] 19:13:54:611 FM9/(12583:12602): El tamanio de la linea enviada es: 1
+[INFO] 19:13:54:611 FM9/(12583:12602): Le envio esta linea al Diego: 
+[INFO] 19:13:54:611 FM9/(12583:12602): El tamanio de la linea enviada es: 1
+[INFO] 19:13:54:611 FM9/(12583:12602): Le envio esta linea al Diego: 
+[INFO] 19:13:54:611 FM9/(12583:12602): Enviadas las lineas al Diegote
+[INFO] 19:14:00:99 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:14:00:99 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:14:00:142 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:14:00:142 FM9/(12583:12602): Enviado
+[INFO] 19:14:00:142 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:14:00:142 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:14:00:185 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:14:01:400 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:14:01:400 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:14:01:400 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:14:01:400 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:14:01:400 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:14:01:400 FM9/(12583:12602): Enviado
+[INFO] 19:14:07:443 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:14:07:443 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:14:07:443 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:14:07:443 FM9/(12583:12602): Enviado
+[INFO] 19:14:07:485 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:14:07:486 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:14:07:529 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:14:09:929 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:14:09:929 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:16:30:266 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:16:30:266 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:16:30:266 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:16:42:929 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:16:42:930 FM9/(12583:12602): el tamanio de linea es 36
+[INFO] 19:16:42:930 FM9/(12583:12602): la linea es crear /resultados/superfinal.txt 4
+
+[INFO] 19:16:42:930 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:930 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:16:42:930 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 19:16:42:930 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:931 FM9/(12583:12602): el tamanio de linea es 50
+[INFO] 19:16:42:931 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 1 Fecha 24/11
+
+[INFO] 19:16:42:931 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:931 FM9/(12583:12602): el tamanio de linea es 51
+[INFO] 19:16:42:931 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 2 Hora 17:00hs
+
+[INFO] 19:16:42:931 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:932 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:16:42:932 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  0
+
+[INFO] 19:16:42:932 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:932 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:16:42:932 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 1
+
+[INFO] 19:16:42:932 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:933 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:16:42:933 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 19:16:42:933 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:933 FM9/(12583:12602): el tamanio de linea es 23
+[INFO] 19:16:42:933 FM9/(12583:12602): la linea es signal segundo_tiempo
+
+[INFO] 19:16:42:933 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:934 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:16:42:934 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 19:16:42:934 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:934 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:16:42:934 FM9/(12583:12602): la linea es 
+
+[INFO] 19:16:42:934 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:42:935 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:16:50:278 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:16:50:278 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:16:50:322 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:16:50:322 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:16:50:322 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 19:16:50:365 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 19:16:50:366 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:366 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 19:16:50:366 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 19:16:50:366 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:366 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:16:50:366 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 19:16:50:367 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:367 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:16:50:367 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  1
+
+[INFO] 19:16:50:367 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:382 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:16:50:382 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 2
+
+[INFO] 19:16:50:382 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:382 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:16:50:382 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 19:16:50:382 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:383 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:16:50:383 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 19:16:50:383 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:383 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:16:50:383 FM9/(12583:12602): la linea es 
+
+[INFO] 19:16:50:383 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:50:383 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:16:56:670 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:16:56:670 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:16:56:714 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:16:56:714 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:16:56:714 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:16:56:714 FM9/(12583:12602): la linea es wait inter
+
+[INFO] 19:16:56:714 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:56:757 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:16:56:758 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:16:56:758 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:56:758 FM9/(12583:12602): el tamanio de linea es 14
+[INFO] 19:16:56:758 FM9/(12583:12602): la linea es wait bloqueo
+
+[INFO] 19:16:56:758 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:56:758 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:16:56:758 FM9/(12583:12602): la linea es 
+
+[INFO] 19:16:56:758 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:16:56:759 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:17:03:38 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:17:03:38 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:17:03:82 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:17:03:82 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:17:03:82 FM9/(12583:12602): el tamanio de linea es 14
+[INFO] 19:17:03:125 FM9/(12583:12602): la linea es wait bloqueo
+
+[INFO] 19:17:03:126 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:03:126 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:17:03:126 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:17:03:126 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:03:126 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:17:03:126 FM9/(12583:12602): la linea es wait inter
+
+[INFO] 19:17:03:127 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:03:127 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:03:127 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:03:127 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:03:127 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:17:10:974 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:17:10:974 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:17:11:17 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:17:11:18 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:17:11:18 FM9/(12583:12602): el tamanio de linea es 35
+[INFO] 19:17:11:61 FM9/(12583:12602): la linea es abrir /scripts/simple.escriptorio
+
+[INFO] 19:17:11:62 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:62 FM9/(12583:12602): el tamanio de linea es 42
+[INFO] 19:17:11:62 FM9/(12583:12602): la linea es abrir /scripts/los_borrachos.escriptorio
+
+[INFO] 19:17:11:62 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:62 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:17:11:62 FM9/(12583:12602): la linea es abrir /scripts/la_12.escriptorio
+
+[INFO] 19:17:11:62 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:62 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:17:11:62 FM9/(12583:12602): la linea es abrir /scripts/io_bound.escriptorio
+
+[INFO] 19:17:11:62 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:63 FM9/(12583:12602): el tamanio de linea es 38
+[INFO] 19:17:11:63 FM9/(12583:12602): la linea es abrir /scripts/cpu_bound.escriptorio
+
+[INFO] 19:17:11:63 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:63 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:17:11:63 FM9/(12583:12602): la linea es abrir /scripts/inter.escriptorio
+
+[INFO] 19:17:11:63 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:63 FM9/(12583:12602): el tamanio de linea es 36
+[INFO] 19:17:11:63 FM9/(12583:12602): la linea es abrir /scripts/bloqueo.escriptorio
+
+[INFO] 19:17:11:64 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:64 FM9/(12583:12602): el tamanio de linea es 41
+[INFO] 19:17:11:64 FM9/(12583:12602): la linea es abrir /scripts/crear_basura.escriptorio
+
+[INFO] 19:17:11:64 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:64 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:17:11:64 FM9/(12583:12602): la linea es abrir /scripts/complejo.escriptorio
+
+[INFO] 19:17:11:64 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:64 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:11:64 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:11:64 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:11:65 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:17:16:110 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:16:110 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:16:110 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:16:110 FM9/(12583:12602): Enviado
+[INFO] 19:17:21:111 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:21:111 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:21:153 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:21:154 FM9/(12583:12602): Enviado
+[INFO] 19:17:21:154 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:21:154 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:21:198 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:21:198 FM9/(12583:12602): Enviado
+[INFO] 19:17:26:205 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:26:205 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:26:246 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:26:246 FM9/(12583:12602): Enviado
+[INFO] 19:17:26:246 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:26:246 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:26:289 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:26:290 FM9/(12583:12602): Enviado
+[INFO] 19:17:31:68 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:31:68 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:31:110 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:31:110 FM9/(12583:12602): Enviado
+[INFO] 19:17:31:111 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:31:111 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:31:154 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:31:154 FM9/(12583:12602): Enviado
+[INFO] 19:17:36:69 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:36:69 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:36:110 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:36:110 FM9/(12583:12602): Enviado
+[INFO] 19:17:37:950 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:17:37:950 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:17:37:994 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:17:37:994 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:17:37:994 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:17:38:37 FM9/(12583:12602): la linea es abrir /scripts/complejo.escriptorio
+
+[INFO] 19:17:38:38 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:38 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:17:38:38 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:17:38:38 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:38 FM9/(12583:12602): el tamanio de linea es 54
+[INFO] 19:17:38:38 FM9/(12583:12602): la linea es asignar /scripts/complejo.escriptorio 1 Soy invalido
+
+[INFO] 19:17:38:38 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:38 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:17:38:39 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:17:38:39 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:39 FM9/(12583:12602): el tamanio de linea es 37
+[INFO] 19:17:38:39 FM9/(12583:12602): la linea es close /scripts/complejo.escriptorio
+
+[INFO] 19:17:38:39 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:39 FM9/(12583:12602): el tamanio de linea es 12
+[INFO] 19:17:38:39 FM9/(12583:12602): la linea es concentrar
+
+[INFO] 19:17:38:39 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:40 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:38:40 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:38:40 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:38:40 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:17:41:70 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:41:70 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:41:113 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:41:114 FM9/(12583:12602): Enviado
+[INFO] 19:17:42:159 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:17:42:160 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:17:42:201 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:17:42:202 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:17:42:202 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:42:202 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:42:202 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:42:246 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:42:246 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:42:246 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:42:246 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:42:246 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:42:246 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:42:247 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:42:247 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:42:247 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:42:247 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:17:46:70 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:46:70 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:46:114 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:46:114 FM9/(12583:12602): Enviado
+[INFO] 19:17:51:114 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:51:114 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:51:158 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:51:158 FM9/(12583:12602): Enviado
+[INFO] 19:17:56:118 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:17:56:118 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:17:56:161 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:17:56:162 FM9/(12583:12602): Enviado
+[INFO] 19:17:58:446 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:17:58:446 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:17:58:489 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:17:58:490 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:17:58:490 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 19:17:58:533 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 19:17:58:534 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:534 FM9/(12583:12602): el tamanio de linea es 21
+[INFO] 19:17:58:534 FM9/(12583:12602): la linea es wait segundo_tiempo
+
+[INFO] 19:17:58:534 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:534 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:17:58:534 FM9/(12583:12602): la linea es abrir /resultados/superfinal.txt
+
+[INFO] 19:17:58:534 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:534 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:17:58:534 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 3 Boca  1
+
+[INFO] 19:17:58:534 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:535 FM9/(12583:12602): el tamanio de linea es 46
+[INFO] 19:17:58:535 FM9/(12583:12602): la linea es asignar /resultados/superfinal.txt 4 River 2
+
+[INFO] 19:17:58:535 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:535 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:17:58:535 FM9/(12583:12602): la linea es flush /resultados/superfinal.txt
+
+[INFO] 19:17:58:535 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:535 FM9/(12583:12602): el tamanio de linea es 34
+[INFO] 19:17:58:535 FM9/(12583:12602): la linea es close /resultados/superfinal.txt
+
+[INFO] 19:17:58:535 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:535 FM9/(12583:12602): el tamanio de linea es 2
+[INFO] 19:17:58:535 FM9/(12583:12602): la linea es 
+
+[INFO] 19:17:58:536 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:17:58:536 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:18:01:71 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:01:71 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:01:114 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:01:114 FM9/(12583:12602): Enviado
+[INFO] 19:18:01:114 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:01:114 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:01:157 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:02:115 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:18:02:115 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:02:115 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:02:157 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:02:158 FM9/(12583:12602): Enviado
+[INFO] 19:18:02:202 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:02:202 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:02:245 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:03:202 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:18:06:71 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:06:72 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:06:113 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:06:114 FM9/(12583:12602): Enviado
+[INFO] 19:18:09:10 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:18:09:10 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:18:09:54 FM9/(12583:12602): Recibi con exito la panela
+[ERROR] 19:18:09:54 FM9/(12583:12602): ERROR: 10002 No espacio
+[INFO] 19:18:09:56 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:09:56 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:09:98 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:09:99 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:09:99 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:18:09:99 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:09:99 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:09:99 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:09:100 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:09:100 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:18:09:100 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:09:100 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:09:100 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:09:101 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:09:101 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:18:11:114 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:11:114 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:11:114 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:11:114 FM9/(12583:12602): Enviado
+[INFO] 19:18:11:115 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:11:115 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:11:157 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:12:115 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:18:12:116 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:12:116 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:12:158 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:12:158 FM9/(12583:12602): Enviado
+[INFO] 19:18:12:202 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:12:202 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:12:246 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:13:202 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:18:18:204 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:18:204 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:18:245 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:18:246 FM9/(12583:12602): Enviado
+[INFO] 19:18:19:247 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:18:19:247 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:18:19:290 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:18:19:290 FM9/(12583:12602): Empezando a enviar a Diego
+[INFO] 19:18:19:290 FM9/(12583:12602): enviando cantidad Lineas 4
+[INFO] 19:18:19:290 FM9/(12583:12602): El tamanio de la linea enviada es: 12
+[INFO] 19:18:19:290 FM9/(12583:12602): Le envio esta linea al Diego: Fecha 24/11
+[INFO] 19:18:19:290 FM9/(12583:12602): El tamanio de la linea enviada es: 13
+[INFO] 19:18:19:290 FM9/(12583:12602): Le envio esta linea al Diego: Hora 17:00hs
+[INFO] 19:18:19:290 FM9/(12583:12602): El tamanio de la linea enviada es: 8
+[INFO] 19:18:19:290 FM9/(12583:12602): Le envio esta linea al Diego: Boca  0
+[INFO] 19:18:19:290 FM9/(12583:12602): El tamanio de la linea enviada es: 8
+[INFO] 19:18:19:290 FM9/(12583:12602): Le envio esta linea al Diego: River 1
+[INFO] 19:18:19:290 FM9/(12583:12602): Enviadas las lineas al Diegote
+[INFO] 19:18:24:691 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:24:691 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:24:734 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:24:734 FM9/(12583:12602): Enviado
+[INFO] 19:18:24:735 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:24:735 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:24:777 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:24:778 FM9/(12583:12602): Enviado
+[INFO] 19:18:24:822 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:24:822 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:24:865 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:24:867 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:24:867 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:18:29:737 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:29:737 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:29:737 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:29:737 FM9/(12583:12602): Enviado
+[INFO] 19:18:30:998 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:18:30:998 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:18:31:42 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:18:31:42 FM9/(12583:12602): Encontre espacio dentro del area
+[INFO] 19:18:31:42 FM9/(12583:12602): el tamanio de linea es 13
+[INFO] 19:18:31:85 FM9/(12583:12602): la linea es Fecha 24/11
+
+[INFO] 19:18:31:86 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:18:31:86 FM9/(12583:12602): el tamanio de linea es 14
+[INFO] 19:18:31:86 FM9/(12583:12602): la linea es Hora 17:00hs
+
+[INFO] 19:18:31:86 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:18:31:86 FM9/(12583:12602): el tamanio de linea es 9
+[INFO] 19:18:31:86 FM9/(12583:12602): la linea es Boca  0
+
+[INFO] 19:18:31:86 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:18:31:86 FM9/(12583:12602): el tamanio de linea es 9
+[INFO] 19:18:31:87 FM9/(12583:12602): la linea es River 1
+
+[INFO] 19:18:31:87 FM9/(12583:12602): lol recibi una linea bien
+[INFO] 19:18:31:87 FM9/(12583:12602): Cambiando la variable RTA
+[INFO] 19:18:34:737 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:34:737 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:34:781 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:34:782 FM9/(12583:12602): Enviado
+[INFO] 19:18:34:784 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:34:784 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:34:825 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:34:828 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:34:828 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:18:39:778 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:39:778 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:39:778 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:39:779 FM9/(12583:12602): Enviado
+[INFO] 19:18:39:822 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:39:822 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:39:866 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:40:822 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:18:40:822 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:40:822 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:40:866 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:40:866 FM9/(12583:12602): Enviado
+[INFO] 19:18:40:910 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:40:910 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:40:953 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:41:910 FM9/(12583:12602): fin rutina de asignar
+[INFO] 19:18:46:912 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:46:912 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:46:954 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:46:954 FM9/(12583:12602): Enviado
+[INFO] 19:18:47:955 FM9/(12583:12602): el entero que me enviaron es 2
+[INFO] 19:18:47:955 FM9/(12583:12602): osea que me llego algo del dam
+[INFO] 19:18:47:998 FM9/(12583:12602): Recibi con exito la panela
+[INFO] 19:18:47:998 FM9/(12583:12602): Empezando a enviar a Diego
+[INFO] 19:18:47:998 FM9/(12583:12602): enviando cantidad Lineas 4
+[INFO] 19:18:47:998 FM9/(12583:12602): El tamanio de la linea enviada es: 12
+[INFO] 19:18:47:998 FM9/(12583:12602): Le envio esta linea al Diego: Fecha 24/11
+[INFO] 19:18:47:998 FM9/(12583:12602): El tamanio de la linea enviada es: 13
+[INFO] 19:18:47:998 FM9/(12583:12602): Le envio esta linea al Diego: Hora 17:00hs
+[INFO] 19:18:47:998 FM9/(12583:12602): El tamanio de la linea enviada es: 8
+[INFO] 19:18:47:998 FM9/(12583:12602): Le envio esta linea al Diego: Boca  1
+[INFO] 19:18:47:999 FM9/(12583:12602): El tamanio de la linea enviada es: 8
+[INFO] 19:18:47:999 FM9/(12583:12602): Le envio esta linea al Diego: River 2
+[INFO] 19:18:47:999 FM9/(12583:12602): Enviadas las lineas al Diegote
+[INFO] 19:18:53:395 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:53:395 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:53:437 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:53:437 FM9/(12583:12602): Enviado
+[INFO] 19:18:53:438 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:53:438 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:53:481 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:53:482 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:53:482 FM9/(12583:12602): Liberando Tabla Pagina del segmento
+[INFO] 19:18:53:482 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:53:482 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:53:482 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:53:482 FM9/(12583:12602): Enviado
+[INFO] 19:18:53:526 FM9/(12583:12602): el buffer que me enviaron es 1
+[INFO] 19:18:53:526 FM9/(12583:12602): osea que recibi algo de una cpu
+[INFO] 19:18:53:569 FM9/(12583:12602): mensaje recibido payload recibido
+
+[INFO] 19:18:53:572 FM9/(12583:12602): Liberando Tabla SegmentosPag
+[INFO] 19:18:53:572 FM9/(12583:12602): Liberando Tabla Pagina del segmento

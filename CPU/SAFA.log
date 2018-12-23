@@ -1,0 +1,73 @@
+[INFO] 01:54:34:154 safa/(16394:16395): se ha conectado el dam
+[INFO] 01:55:13:45 safa/(16394:16395): se ha conectado una cpu
+[INFO] 01:55:13:46 safa/(16394:16394): SAFA: operativo
+[INFO] 01:55:45:953 safa/(16394:16444): id:1000
+
+[INFO] 01:55:45:953 safa/(16394:16444): flag:1
+
+[INFO] 01:55:45:953 safa/(16394:16444): estado:0
+
+[INFO] 01:55:45:953 safa/(16394:16444): PC:0
+
+[INFO] 01:55:45:953 safa/(16394:16444): Quantum:2
+
+[INFO] 01:55:45:953 safa/(16394:16444): Puntero a memoria:0
+
+[INFO] 01:55:45:953 safa/(16394:16444): operaciones IO:0
+
+[INFO] 01:55:45:953 safa/(16394:16444): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:55:45:953 safa/(16394:16444): tabla de direcciones:
+
+[INFO] 01:55:45:953 safa/(16394:16444): el dummy a mandar contiene:
+
+[INFO] 01:55:45:953 safa/(16394:16444): id:1000
+
+[INFO] 01:55:45:954 safa/(16394:16444): flag:0
+
+[INFO] 01:55:45:954 safa/(16394:16444): estado:1
+
+[INFO] 01:55:45:954 safa/(16394:16444): PC:0
+
+[INFO] 01:55:45:954 safa/(16394:16444): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:55:45:954 safa/(16394:16446): el algoritmo es RR
+[INFO] 01:55:45:954 safa/(16394:16446): se va a cargar el dtb a planificar
+[INFO] 01:55:45:954 safa/(16394:16446): el paquete pesa 74 bytes 
+
+[INFO] 01:55:45:954 safa/(16394:16446): el mensaje: encabezado 
+ se pudo enviar
+[INFO] 01:55:45:954 safa/(16394:16446): Se envia el paquete
+
+[INFO] 01:55:45:954 safa/(16394:16446): el mensaje: ok 
+ se pudo enviar
+[INFO] 01:55:45:956 safa/(16394:16395): 
+[33mAtendiendo CPU
+[0m
+[INFO] 01:55:45:956 safa/(16394:16395): el buffer que me enviaron es 1
+[INFO] 01:55:45:956 safa/(16394:16395): osea que recibi algo de una cpu
+[INFO] 01:55:45:956 safa/(16394:16395): mensaje recibido el encabezado
+
+[INFO] 01:55:45:956 safa/(16394:16395): lo que me mando el cpu pesa 74 bytes
+[INFO] 01:55:45:956 safa/(16394:16395): mensaje recibido payload recibido
+
+[INFO] 01:55:45:956 safa/(16394:16395): un procesador deberia estar disponible
+[INFO] 01:55:45:956 safa/(16394:16395): se va a cargar el dtb enviado por el cpu
+[INFO] 01:55:45:956 safa/(16394:16395): id:1000
+
+[INFO] 01:55:45:956 safa/(16394:16395): flag:0
+
+[INFO] 01:55:45:956 safa/(16394:16395): estado:1
+
+[INFO] 01:55:45:956 safa/(16394:16395): PC:0
+
+[INFO] 01:55:45:956 safa/(16394:16395): Quantum:2
+
+[INFO] 01:55:45:956 safa/(16394:16395): Puntero a memoria:0
+
+[INFO] 01:55:45:956 safa/(16394:16395): operaciones IO:0
+
+[INFO] 01:55:45:956 safa/(16394:16395): Path:/scripts/complejo.escriptorio
+
+[INFO] 01:55:45:956 safa/(16394:16395): tabla de direcciones:
+

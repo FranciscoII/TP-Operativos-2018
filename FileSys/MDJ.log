@@ -1,0 +1,1017 @@
+<<<<<<< HEAD
+[INFO] 14:12:28:699 mdj/(4513:4513): Bindeado!
+[INFO] 14:13:35:298 mdj/(4513:4513): Se acepto la conexion 1
+[INFO] 14:14:33:247 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:14:33:247 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:15:56:937 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:15:58:554 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:15:58:554 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:03:297 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:04:806 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:04:807 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:06:388 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:06:779 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:06:779 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:08:211 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:08:693 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:08:693 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:14:411 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:17:104 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:17:104 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:17:107 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:18:379 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:18:379 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:18:382 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:19:192 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:19:192 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:19:195 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:20:86 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:20:87 mdj/(4513:4513): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:16:20:90 mdj/(4513:4513): Le respondo al diego
+[INFO] 14:16:36:40 mdj/(4513:4513): Se esta recibiendo una instruccion del diego 
+[INFO] 14:16:36:40 mdj/(4513:4513): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 14:16:36:41 mdj/(4513:4513): CREO ARCHIVO /equipos/Rafaela
+[INFO] 14:22:45:912 mdj/(4837:4837): Bindeado!
+[INFO] 14:22:56:563 mdj/(4837:4837): Se acepto la conexion 1
+[INFO] 14:23:31:288 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:31:288 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:31:291 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:32:11 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:32:11 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:32:14 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:32:495 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:32:495 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:32:498 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:32:970 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:32:970 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:32:973 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:37:449 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:37:449 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:37:452 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:37:494 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:37:495 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:37:497 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:37:542 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:37:586 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:37:588 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:37:630 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:37:674 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:37:677 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:37:718 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:37:762 mdj/(4837:4837): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:23:37:765 mdj/(4837:4837): Le respondo al diego
+[INFO] 14:23:47:902 mdj/(4837:4837): Se esta recibiendo una instruccion del diego 
+[INFO] 14:23:47:946 mdj/(4837:4837): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 14:23:47:946 mdj/(4837:4837): CREO ARCHIVO /equipos/Rafaela
+[INFO] 14:31:40:67 mdj/(5060:5060): Bindeado!
+[INFO] 14:31:48:326 mdj/(5060:5060): Se acepto la conexion 1
+[INFO] 14:32:29:378 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:378 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:381 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:381 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:422 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:425 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:466 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:510 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:513 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:554 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:598 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:601 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:642 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:686 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:688 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:730 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:774 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:777 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:822 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:866 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:868 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:910 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:29:954 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:29:956 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:29:998 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:30:42 mdj/(5060:5060): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:32:30:44 mdj/(5060:5060): Le respondo al diego
+[INFO] 14:32:44:423 mdj/(5060:5060): Se esta recibiendo una instruccion del diego 
+[INFO] 14:32:44:466 mdj/(5060:5060): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 14:32:44:466 mdj/(5060:5060): CREO ARCHIVO /equipos/Rafaela
+[INFO] 14:38:41:128 mdj/(5241:5241): Bindeado!
+[INFO] 14:38:49:522 mdj/(5241:5241): Se acepto la conexion 1
+[INFO] 14:39:43:647 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:43:648 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:43:650 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:43:651 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:43:694 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:43:697 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:43:738 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:43:782 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:43:785 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:43:826 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:43:870 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:43:873 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:43:918 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:43:962 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:43:965 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:44:6 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:44:50 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:44:53 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:44:95 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:44:138 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:44:141 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:44:187 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:44:230 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:44:233 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:44:274 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:44:318 mdj/(5241:5241): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:39:44:321 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:39:58:395 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:58:442 mdj/(5241:5241): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 14:39:58:442 mdj/(5241:5241): CREO ARCHIVO /equipos/Rafaela
+[INFO] 14:39:58:443 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:40:08:487 mdj/(5241:5241): Se esta recibiendo una instruccion del diego 
+[INFO] 14:40:08:530 mdj/(5241:5241): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 14:40:08:533 mdj/(5241:5241): Le respondo al diego
+[INFO] 14:43:24:753 mdj/(5334:5334): Bindeado!
+[INFO] 14:43:34:394 mdj/(5334:5334): Se acepto la conexion 1
+[INFO] 14:43:56:474 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:475 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:478 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:56:478 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:522 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:525 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:56:566 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:610 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:613 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:56:658 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:702 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:705 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:56:746 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:790 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:793 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:56:834 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:878 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:880 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:56:922 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:56:966 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:56:969 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:57:10 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:57:54 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:57:57 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:43:57:98 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:43:57:142 mdj/(5334:5334): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 14:43:57:146 mdj/(5334:5334): Le respondo al diego
+[INFO] 14:44:11:519 mdj/(5334:5334): Se esta recibiendo una instruccion del diego 
+[INFO] 14:44:11:562 mdj/(5334:5334): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 14:44:11:562 mdj/(5334:5334): CREO ARCHIVO /equipos/Rafaela
+[INFO] 15:07:20:334 mdj/(6072:6072): Bindeado!
+[INFO] 15:09:05:671 mdj/(6134:6134): Bindeado!
+[INFO] 15:10:53:56 mdj/(6134:6134): Se acepto la conexion 1
+[INFO] 15:11:15:880 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:15:880 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:15:883 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:15:884 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:15:926 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:15:929 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:15:970 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:14 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:17 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:16:59 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:102 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:105 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:16:146 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:190 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:193 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:16:234 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:278 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:281 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:16:322 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:366 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:368 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:16:410 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:454 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:457 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:16:498 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:16:542 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:11:16:545 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:30:626 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:30:670 mdj/(6134:6134): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 15:11:30:670 mdj/(6134:6134): CREO ARCHIVO /equipos/Rafaela
+[INFO] 15:11:30:672 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:11:40:721 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:11:40:762 mdj/(6134:6134): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 15:11:40:765 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:39 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:82 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:84 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:85 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:126 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:128 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:170 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:214 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:216 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:258 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:302 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:305 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:346 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:390 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:393 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:435 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:478 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:481 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:522 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:566 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:569 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:614 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:658 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:660 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:19:702 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:19:746 mdj/(6134:6134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:12:19:749 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:12:34:129 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:12:34:170 mdj/(6134:6134): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 15:12:34:171 mdj/(6134:6134): CREO ARCHIVO /equipos/Rafaela
+[INFO] 15:17:53:526 mdj/(6134:6134): Le respondo al diego
+[INFO] 15:18:40:667 mdj/(6134:6134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:18:40:667 mdj/(6134:6134): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 15:18:40:670 mdj/(6134:6134): Le respondo al diego
+[INFO] 16:22:12:492 mdj/(6818:6818): Bindeado!
+[INFO] 16:23:12:251 mdj/(6818:6818): Se acepto la conexion 1
+[INFO] 16:23:34:910 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:34:910 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:34:913 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:34:914 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:34:958 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:34:961 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:34:3 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:46 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:49 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:35:90 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:134 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:137 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:35:178 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:222 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:225 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:35:266 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:310 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:313 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:35:354 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:398 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:400 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:35:442 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:486 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:488 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:35:530 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:35:574 mdj/(6818:6818): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 16:23:35:576 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:23:49:955 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:23:49:998 mdj/(6818:6818): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 16:23:49:998 mdj/(6818:6818): CREO ARCHIVO /equipos/Rafaela
+[INFO] 16:23:49:999 mdj/(6818:6818): Le respondo al diego
+[INFO] 16:24:00:49 mdj/(6818:6818): Se esta recibiendo una instruccion del diego 
+[INFO] 16:24:00:90 mdj/(6818:6818): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 16:24:00:93 mdj/(6818:6818): Le respondo al diego
+=======
+[INFO] 18:57:23:591 mdj/(4170:4170): Bindeado!
+[INFO] 18:57:29:953 mdj/(4170:4170): Se acepto la conexion 1
+[INFO] 18:57:47:596 mdj/(4170:4170): Se esta recibiendo una instruccion del diego 
+[INFO] 18:57:47:596 mdj/(4170:4170): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:05:20:120 mdj/(4855:4855): Bindeado!
+[INFO] 19:05:25:545 mdj/(4855:4855): Se acepto la conexion 1
+[INFO] 19:05:41:554 mdj/(4855:4855): Se esta recibiendo una instruccion del diego 
+[INFO] 19:05:41:554 mdj/(4855:4855): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:20:59:44 mdj/(5688:5688): Bindeado!
+[INFO] 19:21:04:783 mdj/(5688:5688): Se acepto la conexion 1
+[INFO] 19:21:20:814 mdj/(5688:5688): Se esta recibiendo una instruccion del diego 
+[INFO] 19:22:55:777 mdj/(5688:5688): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:26:13:161 mdj/(5688:5688): Le respondo al diego
+[INFO] 19:27:03:577 mdj/(5995:5995): Bindeado!
+[INFO] 19:27:10:205 mdj/(5995:5995): Se acepto la conexion 1
+[INFO] 19:27:30:952 mdj/(5995:5995): Se esta recibiendo una instruccion del diego 
+[INFO] 19:28:03:326 mdj/(5995:5995): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:29:58:477 mdj/(5995:5995): Le respondo al diego
+[INFO] 19:29:58:477 mdj/(5995:5995): Se esta recibiendo una instruccion del diego 
+[INFO] 19:29:58:477 mdj/(5995:5995): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:31:35:557 mdj/(6215:6215): Bindeado!
+[INFO] 19:31:41:209 mdj/(6215:6215): Se acepto la conexion 1
+[INFO] 19:32:10:665 mdj/(6215:6215): Se esta recibiendo una instruccion del diego 
+[INFO] 19:32:10:665 mdj/(6215:6215): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:32:18:150 mdj/(6215:6215): Le respondo al diego
+[INFO] 19:32:18:151 mdj/(6215:6215): Se esta recibiendo una instruccion del diego 
+[INFO] 19:32:18:151 mdj/(6215:6215): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:32:18:152 mdj/(6215:6215): Le respondo al diego
+[INFO] 19:32:55:919 mdj/(6447:6447): Bindeado!
+[INFO] 19:33:01:669 mdj/(6447:6447): Se acepto la conexion 1
+[INFO] 19:33:17:681 mdj/(6447:6447): Se esta recibiendo una instruccion del diego 
+[INFO] 19:33:17:682 mdj/(6447:6447): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:36:14:515 mdj/(6447:6447): Le respondo al diego
+[INFO] 19:36:14:516 mdj/(6447:6447): Se esta recibiendo una instruccion del diego 
+[INFO] 19:36:14:516 mdj/(6447:6447): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:50:30:763 mdj/(6957:6957): Bindeado!
+[INFO] 19:51:00:922 mdj/(6957:6957): Se acepto la conexion 1
+[INFO] 19:51:16:938 mdj/(6957:6957): Se esta recibiendo una instruccion del diego 
+[INFO] 19:51:16:939 mdj/(6957:6957): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:53:47:818 mdj/(6957:6957): Le respondo al diego
+[INFO] 19:54:02:45 mdj/(6957:6957): Se esta recibiendo una instruccion del diego 
+[INFO] 19:54:02:45 mdj/(6957:6957): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:57:47:993 mdj/(7595:7595): Bindeado!
+[INFO] 19:57:55:155 mdj/(7595:7595): Se acepto la conexion 1
+[INFO] 19:58:14:99 mdj/(7595:7595): Se esta recibiendo una instruccion del diego 
+[INFO] 19:58:14:99 mdj/(7595:7595): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 19:58:21:110 mdj/(7595:7595): Le respondo al diego
+[INFO] 20:05:13:842 mdj/(8010:8010): Bindeado!
+[INFO] 20:05:19:369 mdj/(8010:8010): Se acepto la conexion 1
+[INFO] 20:05:41:866 mdj/(8010:8010): Se esta recibiendo una instruccion del diego 
+[INFO] 20:05:41:866 mdj/(8010:8010): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 20:05:41:877 mdj/(8010:8010): Le respondo al diego
+[INFO] 20:06:22:24 mdj/(8139:8139): Bindeado!
+[INFO] 20:06:31:105 mdj/(8139:8139): Se acepto la conexion 1
+[INFO] 20:06:48:720 mdj/(8139:8139): Se esta recibiendo una instruccion del diego 
+[INFO] 20:06:48:720 mdj/(8139:8139): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 20:06:48:723 mdj/(8139:8139): Le respondo al diego
+[INFO] 20:06:56:216 mdj/(8139:8139): Se esta recibiendo una instruccion del diego 
+[INFO] 20:06:56:217 mdj/(8139:8139): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 20:06:56:221 mdj/(8139:8139): Le respondo al diego
+[INFO] 20:07:06:656 mdj/(8139:8139): Se esta recibiendo una instruccion del diego 
+[INFO] 20:07:06:656 mdj/(8139:8139): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 20:07:06:664 mdj/(8139:8139): Le respondo al diego
+[INFO] 20:07:17:441 mdj/(8139:8139): Se esta recibiendo una instruccion del diego 
+[INFO] 20:07:17:441 mdj/(8139:8139): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 20:07:17:443 mdj/(8139:8139): Le respondo al diego
+[INFO] 20:07:19:267 mdj/(8139:8139): Se esta recibiendo una instruccion del diego 
+[INFO] 20:07:19:267 mdj/(8139:8139): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 20:07:19:276 mdj/(8139:8139): Le respondo al diego
+[INFO] 13:17:20:334 mdj/(8352:8352): Bindeado!
+[INFO] 13:18:39:660 mdj/(8414:8414): Bindeado!
+[INFO] 13:19:09:638 mdj/(8414:8414): Se acepto la conexion 1
+[INFO] 13:19:44:349 mdj/(8414:8414): Se esta recibiendo una instruccion del diego 
+[INFO] 13:20:31:730 mdj/(8414:8414): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 13:29:34:229 mdj/(8848:8848): Bindeado!
+[INFO] 13:30:08:127 mdj/(8848:8848): Se acepto la conexion 1
+[INFO] 13:30:47:619 mdj/(8848:8848): Se esta recibiendo una instruccion del diego 
+[INFO] 13:30:59:176 mdj/(8848:8848): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 13:39:50:533 mdj/(9155:9155): Bindeado!
+[INFO] 13:40:28:406 mdj/(9155:9155): Se acepto la conexion 1
+[INFO] 13:41:09:172 mdj/(9155:9155): Se esta recibiendo una instruccion del diego 
+[INFO] 13:41:11:532 mdj/(9155:9155): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 13:49:09:865 mdj/(9505:9505): Bindeado!
+[INFO] 13:50:48:105 mdj/(9505:9505): Se acepto la conexion 1
+[INFO] 13:51:16:453 mdj/(9505:9505): Se esta recibiendo una instruccion del diego 
+[INFO] 13:51:26:851 mdj/(9505:9505): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 13:59:05:529 mdj/(9505:9505): Le respondo al diego
+[INFO] 14:04:28:243 mdj/(9852:9852): Bindeado!
+[INFO] 14:12:11:599 mdj/(3853:3853): Bindeado!
+[INFO] 14:12:29:448 mdj/(3853:3853): Se acepto la conexion 1
+[INFO] 14:13:41:744 mdj/(3853:3853): Se esta recibiendo una instruccion del diego 
+[INFO] 14:14:01:120 mdj/(3853:3853): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 14:17:16:65 mdj/(3853:3853): Le respondo al diego
+[INFO] 14:22:56:105 mdj/(4213:4213): Bindeado!
+[INFO] 14:23:10:552 mdj/(4213:4213): Se acepto la conexion 1
+[INFO] 14:23:51:920 mdj/(4213:4213): Se esta recibiendo una instruccion del diego 
+[INFO] 14:24:38:166 mdj/(4213:4213): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 14:28:43:71 mdj/(4213:4213): Le respondo al diego
+[INFO] 14:36:23:47 mdj/(4618:4618): Bindeado!
+[INFO] 14:36:31:775 mdj/(4618:4618): Se acepto la conexion 1
+[INFO] 14:37:12:199 mdj/(4618:4618): Se esta recibiendo una instruccion del diego 
+[INFO] 14:37:17:827 mdj/(4618:4618): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 14:37:44:272 mdj/(4618:4618): Le respondo al diego
+[INFO] 14:39:46:474 mdj/(4618:4618): Se esta recibiendo una instruccion del diego 
+[INFO] 14:39:50:790 mdj/(4618:4618): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 14:40:14:533 mdj/(4618:4618): Le respondo al diego
+[INFO] 14:40:38:684 mdj/(4618:4618): Se esta recibiendo una instruccion del diego 
+[INFO] 14:40:40:120 mdj/(4618:4618): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 14:52:42:270 mdj/(4618:4618): Le respondo al diego
+[INFO] 14:56:19:365 mdj/(5062:5062): Bindeado!
+[INFO] 15:01:09:199 mdj/(5134:5134): Bindeado!
+[INFO] 15:01:27:202 mdj/(5134:5134): Se acepto la conexion 1
+[INFO] 15:02:25:907 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:02:31:737 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 15:03:02:863 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:04:33:531 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:04:38:91 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 15:04:49:251 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:04:49:288 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:04:51:57 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 15:05:16:782 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:05:16:820 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:05:18:54 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 15:05:36:236 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:05:36:276 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:05:37:409 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/simple.escriptorio
+[INFO] 15:06:10:570 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:06:20:700 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:06:33:902 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:06:46:293 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:06:46:294 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:06:47:364 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:06:55:306 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:06:55:345 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:06:56:483 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:07:03:514 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:07:03:553 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:07:04:690 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:07:11:609 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:07:11:649 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:07:42:381 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:07:49:166 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:07:49:205 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:07:51:638 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:07:56:875 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:07:56:916 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:07:58:547 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:08:06:251 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:08:06:288 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:08:07:299 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 15:08:22:728 mdj/(5134:5134): Le respondo al diego
+[INFO] 15:08:22:768 mdj/(5134:5134): Se esta recibiendo una instruccion del diego 
+[INFO] 15:08:26:432 mdj/(5134:5134): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+>>>>>>> d5a000af234f8585d4b3caf47ae3f122e89a63e5
+[INFO] 03:05:22:8 mdj/(5714:5714): Bindeado!
+[INFO] 20:31:37:642 mdj/(4638:4638): Bindeado!
+[INFO] 20:32:00:591 mdj/(4638:4638): Se acepto la conexion 1
+[INFO] 20:32:35:2 mdj/(4638:4690): Se esta recibiendo una instruccion del diego 
+[INFO] 20:32:35:2 mdj/(4638:4690): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 20:37:14:227 mdj/(4807:4807): Bindeado!
+[INFO] 20:47:08:337 mdj/(4807:4807): Se acepto la conexion 1
+[INFO] 20:47:26:738 mdj/(4807:5498): Se esta recibiendo una instruccion del diego 
+[INFO] 20:48:54:120 mdj/(5557:5557): Bindeado!
+[INFO] 20:49:02:455 mdj/(5557:5557): Se acepto la conexion 1
+[INFO] 20:49:26:878 mdj/(5557:5610): Se esta recibiendo una instruccion del diego 
+[INFO] 20:49:26:878 mdj/(5557:5610): Se esta por obtener datos del archivo complejo.escriptorio
+[INFO] 20:50:20:161 mdj/(5557:5610): Le respondo al diego
+[INFO] 20:52:02:633 mdj/(5768:5768): Bindeado!
+[INFO] 20:52:12:552 mdj/(5768:5768): Se acepto la conexion 1
+[INFO] 20:52:40:442 mdj/(5768:5807): Se esta recibiendo una instruccion del diego 
+[INFO] 20:52:40:447 mdj/(5768:5807): Se esta por obtener datos del archivo complejo.escriptorio
+[INFO] 21:03:15:76 mdj/(3544:3544): Bindeado!
+[INFO] 21:04:46:913 mdj/(3544:3544): Se acepto la conexion 1
+[INFO] 21:05:13:999 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:05:13:0 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:06:23:76 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:38:810 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:38:810 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:38:814 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:38:856 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:38:856 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:38:881 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:38:919 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:38:959 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:38:969 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:39:12 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:39:50 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:39:72 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:39:112 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:39:158 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:39:161 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:39:199 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:39:240 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:39:261 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:39:300 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:39:340 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:39:354 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:39:396 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:08:39:435 mdj/(3544:3736): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:08:39:455 mdj/(3544:3736): Le respondo al diego
+[INFO] 21:08:49:635 mdj/(3544:3736): Se esta recibiendo una instruccion del diego 
+[INFO] 21:09:04:984 mdj/(3544:3736): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 21:09:20:631 mdj/(3544:3736): CREO ARCHIVO /equipos/Rafaela
+[INFO] 21:16:23:859 mdj/(4064:4064): Bindeado!
+[INFO] 21:16:31:231 mdj/(4064:4064): Se acepto la conexion 1
+[INFO] 21:17:18:496 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:17:18:499 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:18:43:126 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:18:43:129 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:18:43:130 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:18:57:986 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:18:58:28 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:18:58:28 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:19:21:339 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:19:21:379 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:19:21:379 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:20:16:393 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:20:16:431 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:20:16:431 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:20:19:796 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:20:19:838 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:20:19:839 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:20:25:842 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:20:25:882 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:20:25:882 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:20:29:921 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:20:29:961 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:20:29:962 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:20:35:72 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:20:35:113 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:20:35:115 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:20:38:669 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:20:48:868 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:21:00:422 mdj/(4064:4187): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 21:21:23:121 mdj/(4064:4187): CREO ARCHIVO /equipos/Rafaela
+[INFO] 21:22:20:183 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:22:30:244 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:22:30:246 mdj/(4064:4187): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 21:22:34:228 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:23:17:615 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:23:48:317 mdj/(4064:4187): Se esta por borrar el archivo /equipos/Rafaela
+[INFO] 21:29:29:618 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:29:29:619 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:29:37:953 mdj/(4064:4187): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 21:30:26:112 mdj/(4064:4187): CREO ARCHIVO /equipos/Rafaela
+[INFO] 21:45:01:533 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:45:01:570 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:45:08:599 mdj/(4064:4187): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 21:46:03:45 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:46:03:83 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:46:05:815 mdj/(4064:4187): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 21:46:17:437 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:477 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:478 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:481 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:482 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:523 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:526 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:564 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:605 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:608 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:647 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:689 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:695 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:735 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:774 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:777 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:815 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:855 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:861 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:899 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:42:940 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:42:944 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:42:984 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:43:23 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:43:26 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:43:63 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:48:43:104 mdj/(4064:4187): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 21:48:43:107 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:48:57:560 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:51:28:12 mdj/(4064:4187): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 21:55:31:447 mdj/(4064:4187): CREO ARCHIVO /equipos/Rafaela
+[INFO] 21:55:55:798 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:56:05:849 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:56:05:849 mdj/(4064:4187): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 21:56:05:855 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:56:05:856 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:56:05:894 mdj/(4064:4187): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 21:56:05:898 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:56:49:288 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:56:59:465 mdj/(4064:4187): Se esta por borrar el archivo /equipos/Rafaela
+[INFO] 21:59:04:487 mdj/(4064:4187): Le respondo al diego
+[INFO] 21:59:04:487 mdj/(4064:4187): Se esta recibiendo una instruccion del diego 
+[INFO] 21:59:13:24 mdj/(4064:4187): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 21:59:21:999 mdj/(4064:4187): CREO ARCHIVO /equipos/Rafaela
+[INFO] 18:30:28:157 mdj/(7874:7874): Bindeado!
+[INFO] 18:32:28:823 mdj/(7874:7874): Se acepto la conexion 1
+[INFO] 18:33:01:346 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:346 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:402 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:425 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:426 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:428 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:470 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:508 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:516 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:554 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:592 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:595 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:634 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:673 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:676 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:713 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:753 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:755 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:793 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:832 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:836 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:873 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:912 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:916 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:01:957 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:01:996 mdj/(7874:8173): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:33:01:0 mdj/(7874:8173): Le respondo al diego
+[INFO] 18:33:11:390 mdj/(7874:8173): Se esta recibiendo una instruccion del diego 
+[INFO] 18:33:17:677 mdj/(7874:8173): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 18:33:17:677 mdj/(7874:8173): CREO ARCHIVO /equipos/Rafaela
+[INFO] 18:39:02:116 mdj/(8319:8319): Bindeado!
+[INFO] 18:39:10:969 mdj/(8319:8319): Se acepto la conexion 1
+[INFO] 18:40:50:92 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:93 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:99 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:99 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:136 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:139 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:177 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:216 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:219 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:257 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:299 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:302 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:345 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:384 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:387 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:425 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:464 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:467 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:509 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:549 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:551 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:589 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:628 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:631 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:40:50:669 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:40:50:709 mdj/(8319:8364): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:40:50:712 mdj/(8319:8364): Le respondo al diego
+[INFO] 18:41:00:131 mdj/(8319:8364): Se esta recibiendo una instruccion del diego 
+[INFO] 18:41:00:168 mdj/(8319:8364): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 18:41:00:168 mdj/(8319:8364): CREO ARCHIVO /equipos/Rafaela
+[INFO] 18:45:39:200 mdj/(8621:8621): Bindeado!
+[INFO] 18:46:17:139 mdj/(8621:8621): Se acepto la conexion 1
+[INFO] 18:46:37:490 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:491 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:494 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:494 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:532 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:536 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:572 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:612 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:615 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:653 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:692 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:696 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:733 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:772 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:776 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:813 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:852 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:856 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:893 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:37:933 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:37:936 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:37:973 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:38:12 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:38:15 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:38:53 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:38:93 mdj/(8621:8664): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:46:38:97 mdj/(8621:8664): Le respondo al diego
+[INFO] 18:46:47:532 mdj/(8621:8664): Se esta recibiendo una instruccion del diego 
+[INFO] 18:46:47:568 mdj/(8621:8664): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 18:46:47:569 mdj/(8621:8664): CREO ARCHIVO /equipos/Rafaela
+[INFO] 18:58:34:534 mdj/(9078:9078): Bindeado!
+[INFO] 18:59:23:863 mdj/(9078:9078): Se acepto la conexion 1
+[INFO] 18:59:42:773 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:42:773 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:42:776 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:42:777 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:42:817 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:42:820 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:42:858 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:42:898 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:42:900 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:42:939 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:42:977 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:42:980 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:43:19 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:43:57 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:43:60 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:43:98 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:43:137 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:43:140 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:43:178 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:43:218 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:43:221 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:43:261 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:43:302 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:43:305 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:43:341 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:43:381 mdj/(9078:9171): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 18:59:43:384 mdj/(9078:9171): Le respondo al diego
+[INFO] 18:59:52:812 mdj/(9078:9171): Se esta recibiendo una instruccion del diego 
+[INFO] 18:59:52:849 mdj/(9078:9171): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 18:59:52:850 mdj/(9078:9171): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:03:31:714 mdj/(9288:9288): Bindeado!
+[INFO] 19:04:12:317 mdj/(9288:9288): Se acepto la conexion 1
+[INFO] 19:04:43:323 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:323 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:378 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:400 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:401 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:404 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:441 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:481 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:485 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:525 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:565 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:567 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:605 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:645 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:648 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:685 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:725 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:728 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:766 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:805 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:808 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:846 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:885 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:888 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:43:926 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:43:965 mdj/(9288:9345): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:04:43:968 mdj/(9288:9345): Le respondo al diego
+[INFO] 19:04:53:366 mdj/(9288:9345): Se esta recibiendo una instruccion del diego 
+[INFO] 19:04:53:405 mdj/(9288:9345): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:04:53:405 mdj/(9288:9345): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:13:54:400 mdj/(9802:9802): Bindeado!
+[INFO] 19:15:32:791 mdj/(9904:9904): Bindeado!
+[INFO] 19:15:41:665 mdj/(9904:9904): Se acepto la conexion 1
+[INFO] 19:16:14:388 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:388 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:530 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:532 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:532 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:535 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:577 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:615 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:634 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:672 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:712 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:714 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:751 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:791 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:794 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:831 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:872 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:874 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:911 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:14:951 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:14:954 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:14:991 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:15:32 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:15:35 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:15:75 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:15:115 mdj/(9904:9941): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:16:15:159 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:16:24:429 mdj/(9904:9941): Se esta recibiendo una instruccion del diego 
+[INFO] 19:16:24:429 mdj/(9904:9941): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:16:24:429 mdj/(9904:9941): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:16:24:535 mdj/(9904:9941): Le respondo al diego
+[INFO] 19:18:16:427 mdj/(10024:10024): Bindeado!
+[INFO] 19:18:23:983 mdj/(10024:10024): Se acepto la conexion 1
+[INFO] 19:18:47:936 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:47:936 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:11 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:13 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:14 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:17 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:57 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:95 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:100 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:140 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:179 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:183 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:220 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:259 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:263 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:304 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:343 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:346 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:384 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:424 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:466 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:504 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:504 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:509 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:48:548 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:48:587 mdj/(10024:10068): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:18:48:592 mdj/(10024:10068): Le respondo al diego
+[INFO] 19:18:57:974 mdj/(10024:10068): Se esta recibiendo una instruccion del diego 
+[INFO] 19:18:58:11 mdj/(10024:10068): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:18:58:11 mdj/(10024:10068): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:22:18:226 mdj/(10231:10231): Bindeado!
+[INFO] 19:22:38:144 mdj/(10231:10231): Se acepto la conexion 1
+[INFO] 19:23:02:54 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:55 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:121 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:122 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:123 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:126 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:164 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:203 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:208 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:256 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:295 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:298 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:336 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:376 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:379 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:420 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:459 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:462 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:499 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:539 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:586 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:624 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:625 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:629 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:02:668 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:02:707 mdj/(10231:10270): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:23:02:729 mdj/(10231:10270): Le respondo al diego
+[INFO] 19:23:12:92 mdj/(10231:10270): Se esta recibiendo una instruccion del diego 
+[INFO] 19:23:12:131 mdj/(10231:10270): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:23:12:131 mdj/(10231:10270): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:26:46:891 mdj/(10390:10390): Bindeado!
+[INFO] 19:27:01:356 mdj/(10390:10390): Se acepto la conexion 1
+[INFO] 19:27:20:655 mdj/(10390:10453): Se esta recibiendo una instruccion del diego 
+[INFO] 19:27:20:657 mdj/(10390:10453): Se esta por obtener datos del archivo /scripts/complejo.bin
+[INFO] 19:27:20:694 mdj/(10390:10453): Le respondo al diego
+[INFO] 19:27:26:740 mdj/(10390:10453): Se esta recibiendo una instruccion del diego 
+[INFO] 19:29:22:142 mdj/(10524:10524): Bindeado!
+[INFO] 19:29:37:902 mdj/(10524:10524): Se acepto la conexion 1
+[INFO] 19:30:18:175 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:176 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:258 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:260 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:261 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:265 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:304 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:343 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:347 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:388 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:427 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:430 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:469 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:507 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:511 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:552 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:591 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:594 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:632 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:671 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:675 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:718 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:755 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:758 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:18:797 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:18:835 mdj/(10524:10575): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:30:18:839 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:30:28:222 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:30:28:259 mdj/(10524:10575): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:30:28:259 mdj/(10524:10575): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:32:38:761 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:32:44:231 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:32:44:232 mdj/(10524:10575): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 19:32:44:253 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:33:24:55 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:33:56:505 mdj/(10524:10575): Se esta por borrar el archivo /equipos/Rafaela
+[INFO] 19:34:20:731 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:34:20:732 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:34:20:732 mdj/(10524:10575): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:34:20:733 mdj/(10524:10575): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:34:56:681 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:34:56:719 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:35:01:606 mdj/(10524:10575): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 19:35:31:932 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:35:31:971 mdj/(10524:10575): Se esta recibiendo una instruccion del diego 
+[INFO] 19:35:31:971 mdj/(10524:10575): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 19:35:37:710 mdj/(10524:10575): Le respondo al diego
+[INFO] 19:45:06:692 mdj/(11303:11303): Bindeado!
+[INFO] 19:45:19:406 mdj/(11303:11303): Se acepto la conexion 1
+[INFO] 19:45:45:144 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:144 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:150 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:150 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:187 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:190 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:228 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:268 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:271 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:313 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:351 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:354 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:392 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:432 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:435 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:477 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:515 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:518 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:557 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:595 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:598 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:640 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:680 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:683 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:45:721 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:45:760 mdj/(11303:11349): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 19:45:45:763 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:45:55:181 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:45:55:221 mdj/(11303:11349): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:45:55:221 mdj/(11303:11349): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:46:36:490 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:46:41:587 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:46:41:587 mdj/(11303:11349): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 19:46:41:590 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:47:21:579 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:47:28:790 mdj/(11303:11349): Se esta por borrar el archivo /equipos/Rafaela
+[INFO] 19:47:35:874 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:47:35:874 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:47:35:874 mdj/(11303:11349): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 19:47:35:874 mdj/(11303:11349): CREO ARCHIVO /equipos/Rafaela
+[INFO] 19:48:22:171 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:48:22:207 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:48:22:207 mdj/(11303:11349): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 19:49:11:733 mdj/(11303:11349): Le respondo al diego
+[INFO] 19:49:11:771 mdj/(11303:11349): Se esta recibiendo una instruccion del diego 
+[INFO] 19:49:11:772 mdj/(11303:11349): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 19:49:43:125 mdj/(11303:11349): Le respondo al diego
+[INFO] 01:13:49:133 mdj/(29463:29463): Bindeado!
+[INFO] 13:48:44:964 mdj/(2584:2584): Bindeado!
+[INFO] 13:48:53:669 mdj/(2584:2584): Se acepto la conexion 1
+[INFO] 13:49:43:243 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:49:43:243 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:49:43:244 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:49:52:94 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:03:824 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:11:83 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:11:950 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:11:950 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:11:952 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:13:125 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:13:125 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:13:127 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:13:757 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:13:757 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:13:759 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:14:249 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:14:249 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:14:251 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:14:496 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:14:496 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:14:497 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:15:158 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:15:158 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:15:160 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:15:788 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:15:788 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:50:15:790 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:50:30:242 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:50:30:242 mdj/(2584:2616): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 13:50:30:243 mdj/(2584:2616): CREO ARCHIVO /equipos/Rafaela
+[INFO] 13:50:30:243 mdj/(2584:2616):  Se trata de guardar datos en un archivo inexistente !
+
+[INFO] 13:51:53:914 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:52:05:5 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:52:05:5 mdj/(2584:2616): Se esta por obtener datos del archivo /equipos/Rafaela
+[INFO] 13:52:05:7 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:52:40:449 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:52:40:491 mdj/(2584:2616): Se esta por borrar el archivo /equipos/Rafaela
+[INFO] 13:52:40:493 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:52:40:493 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:52:40:536 mdj/(2584:2616): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 13:52:40:536 mdj/(2584:2616): CREO ARCHIVO /equipos/Rafaela
+[INFO] 13:52:40:537 mdj/(2584:2616):  Se trata de guardar datos en un archivo inexistente !
+
+[INFO] 13:53:25:535 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:53:25:579 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:53:25:580 mdj/(2584:2616): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 13:53:25:581 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:53:25:624 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:53:25:672 mdj/(2584:2616): Se esta por guardar datos del archivo /equipos/Rafaela
+[INFO] 13:53:25:672 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:482 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:29:524 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:29:526 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:526 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:29:568 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:29:569 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:612 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:29:656 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:29:657 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:699 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:29:743 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:29:745 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:788 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:29:832 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:29:833 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:876 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:29:920 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:29:921 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:29:964 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:30:11 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:30:13 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:30:57 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:30:99 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:30:101 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:30:144 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:30:188 mdj/(2584:2616): Se esta por obtener datos del archivo /scripts/complejo.escriptorio
+[INFO] 13:54:30:189 mdj/(2584:2616): Le respondo al diego
+[INFO] 13:54:41:413 mdj/(2584:2616): Se esta recibiendo una instruccion del diego 
+[INFO] 13:54:41:456 mdj/(2584:2616): Se esta por crear el archivo /equipos/Rafaela
+[INFO] 13:54:41:456 mdj/(2584:2616): CREO ARCHIVO /equipos/Rafaela
+[INFO] 13:54:41:457 mdj/(2584:2616):  Se trata de guardar datos en un archivo inexistente !
+
+[INFO] 18:06:37:897 mdj/(7998:7998): Bindeado!
